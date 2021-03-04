@@ -1,0 +1,775 @@
+﻿x;y;gid;Name;description;new
+6.0731116;50.9287708;15;AWO;Schule;Berufskolleg
+6.1132802;50.968232;24;Berufskolleg Wirtschaft;Berufskolleg;Berufskolleg
+6.1120635;50.968071;28;Berufskolleg EST;Berufskolleg;Berufskolleg
+6.3107432;51.0792475;115;Berufskolleg Erkelenz;Berufskolleg;Berufskolleg
+6.2254801;51.0546633;137;Stadtbücherei Stadt Hückelhoven;Stadtbücherei;Bücherei
+6.3134235;51.0803069;2212;Stadtbücherei Erkelenz;Stadtbücherei;Bücherei
+6.1431863;50.961552;154;Freshman Institute Fachhochschule Aachen Campus Geilenkirchen;Fachhochschule;Fachhochschule
+6.0899405;50.9294202;14;Comeniusschule;Förderschule;Förderschule
+6.0005632;50.9940814;39;Janusz Korczak Schule;Schule;Förderschule
+6.3024072;51.0812464;103;Pestalozzischule;Förderschule;Förderschule
+6.22609;51.0651301;145;Peter - Jordan - Schule;Schule;Förderschule
+6.1518214;51.0556413;165;Rurtal-Schule;Förderschule;Förderschule
+6.14853;51.05797;169;Schule für Lernbehinderte;Schule für Lernbehinderte;Förderschule
+6.1092657;50.9185727;6;Willy-Brandt-Gesamtschule;Gesamtschule;Gesamtschule
+6.1156563;50.9644758;25;Stadt Geilenkirchen Kath. Gemeinschaftsschule Geilenkirchen;Gemeinschaftsschule;Gesamtschule
+6.110114;50.972907;32;A-L-G;Gesamtschule;Gesamtschule
+6.0036204;50.9934466;38;Gesamtschule Gangelt-Selfkant;Gesamtschule;Gesamtschule
+6.1708188;51.1047377;72;Betty-Reis-Gesamtschule;Gesamtschule;Gesamtschule
+6.1834639;51.0675121;147;Leonardo da Vinci Gesamtschule Hückelhoven;Gesamtschule;Gesamtschule
+5.9279714;51.0267127;157;Förderverein Gesamtschule Gangelt-Selfkant e.V.;Gesamtschule;Gesamtschule
+6.1509953;51.0558594;166;Städtische Gesamtschule Heinsberg-Oberbruch;Gesamtschule;Gesamtschule
+6.1422416;50.9065032;2;Grundschule Boscheln;Grundschule;Grundschule
+6.1239831;50.9183053;3;Katholische Grundschule Übach;Grundschule;Grundschule
+6.1034404;50.9263123;9;Gemeinschafts Grundschule Palenberg;Grundschule;Grundschule
+6.10334;50.92657;13;GGS Palenberg;Grundschule;Grundschule
+6.07098;50.93105;16;Katholische Grundschule Scherpenseel;Grundschule;Grundschule
+6.1072441;50.942809;17;GGS Frelenberg (Grundschule);Grundschule;Grundschule
+6.0825981;50.9550383;19;Stadt Geilenkirchen Gemeinschaftsgrundschule, Teveren;Grundschule;Grundschule
+6.11245;50.96608;27;Schule Immendorf;Grundschule;Grundschule
+6.1127542;50.9663472;30;Grundschule Geilenkirchen;Grundschule;Grundschule
+6.075913;50.9770868;35;Gemeinschaftsgrundschule;Gemeinschaftsschule;Grundschule
+6.0516402;51.0048902;37;Katholische Grundschule Gangelt II;Grundschule;Grundschule
+5.9610024;51.0291898;42;Grundschule Saeffelen;Grundschule;Grundschule
+5.9907336;51.0233849;44;Nikolaus-Schule Breberen;Grundschule;Grundschule
+6.0516402;51.0048902;47;Katholische Grundschule Gangelt II;Grundschule;Grundschule
+6.1686073;50.950408;50;Grundschule;Grundschule;Grundschule
+6.1798346;50.9936566;51;Grundschule;Grundschule;Grundschule
+6.233943;51.0054706;55;Grundschule Brachelen;Grundschule;Grundschule
+6.0261532;51.0886295;57;Katholische Grundschule Haaren;Grundschule;Grundschule
+6.07148;51.07474;59;kath. Grundschule IX Kirchhoven-Lieck;Grundschule;Grundschule
+6.0759902;51.1022685;61;Katholische Grundschule Heinsberg;Grundschule;Grundschule
+6.10026;51.09271;63;Ehemalige Kath. Grundschule VIII Kempen;Grundschule;Grundschule
+6.1479;51.11281;67;Katholische Grundschule Birgelen;Grundschule;Grundschule
+6.18979;51.09782;69;Kath. Grundschule;Grundschule;Grundschule
+6.1606045;51.101811;71;Gemeinschaftsgrundschule am Burgberg;Grundschule;Grundschule
+6.2176636;51.0949521;75;Grundschulen, GGS Gerderath;Grundschule;Grundschule
+6.1925609;51.1235992;77;Grundschule Wildenrath;Grundschule;Grundschule
+6.2091;51.14182;81;Kath. Grundschule - KGS Arsbeck;Grundschule;Grundschule
+6.2789789;51.1376049;84;Erich-Kästner-Schule Gemeinschaftsgrundschule;Gemeinschaftsschule;Grundschule
+6.3043248;51.1310926;89;"GGS ""Am Beeckbach""";Grundschule;Grundschule
+6.2789789;51.1376049;91;Erich-Kästner-Schule Gemeinschaftsgrundschule;Gemeinschaftsschule;Grundschule
+6.2499306;51.1744323;92;Gemeinschaftsgrundschule Merbeck;Gemeinschaftsschule;Grundschule
+6.3328;51.11162;95;Gemeinschaftsgrundschule Rath-Anhoven;Gemeinschaftsschule;Grundschule
+6.4084817;51.0820102;98;Gemeinschaftsgrundschule Keyenberg;Gemeinschaftsschule;Grundschule
+6.3402267;51.0629508;99;Grundschulen , GGS Kückhoven;Grundschule;Grundschule
+6.3279678;51.0873573;111;Grundschulen , GGS Erkelenz Luise-Hensel-Schule;Grundschule;Grundschule
+6.1740975;51.0181475;117;Gemeinschaftsgrundschule VI Randerath/Porselen;Gemeinschaftsgrundschule;Grundschule
+6.3211406;51.0305993;120;Nysterbach Schule;Schule;Grundschule
+6.2844529;51.03559;122;Grundschule Baal;Grundschule;Grundschule
+6.273832;51.0580185;123;Kath.Grundschule Hetzerath;Grundschule;Grundschule
+6.27788;51.10208;125;Evangelische Grundschule Schwanenberg;Grundschule;Grundschule
+6.24502;51.05236;129;Grundschule Hückelhoven Doveren;Grundschule;Grundschule
+6.247075;51.0524271;130;Gemeinschaftsgrundschule;Gemeinschaftsgrundschule;Grundschule
+6.24929;51.07056;131;Schulen Houverath;Schule;Grundschule
+6.2476984;51.085217;132;Sonstige kath. Einrichtungen , Kindergarten St. Stephan;Grundschule;Grundschule
+6.2149361;51.0362728;133;Grundschule Hilfarth;Grundschule;Grundschule
+6.226214;51.0511348;134;Gem. Grundschule;Grundschule;Grundschule
+6.2112701;51.06433;143;Friedrich-Honigmann-Schule;Schule;Grundschule
+6.18322;51.06833;148;Michael-Ende-Schule Ratheim;Schule;Grundschule
+6.1896761;51.0725476;149;Grundschule Im Weidengrund;Grundschule;Grundschule
+6.1899081;51.0727264;150;GGS Im Weidengrund;Schule;Grundschule
+6.2255105;51.0763185;152;Katholische Grundschule Kleingladbach;Grundschule;Grundschule
+5.9617963;51.0288119;158;Grundschule Saeffelen;Grundschule;Grundschule
+6.17494;51.03949;160;Grundschule Porselen;Grundschule;Grundschule
+6.14968;51.087;163;Martinusschule Orsbeck;Schule;Grundschule
+6.14203;51.05467;173;Verein der Freunde und Förderer der Kath. Grundschule Heisnberg IV - Oberbruch e.V.;Grundschule;Grundschule
+6.1123185;51.052816;180;Gemeinschaftsgrundschule Schafhausen;Grundschule;Grundschule
+6.12781;51.0568;182;Katholische Grundschule Heinsberg III;Grundschule;Grundschule
+6.12872;51.07337;184;Gemeinschaftsgrundschule Unterbruch II;Grundschule;Grundschule
+6.0913396;51.0134561;197;Kath. Grundschule Heinsberg VII;Grundschule;Grundschule
+5.9028564;51.0512646;1225;Katholische Grundschule Selfkant II;Grundschule;Grundschule
+6.1093201;50.91938;8;Carolus-Magnus-Gymnasium Übach-Palenberg;Gymnasium;Gymnasium
+6.28187;51.13627;82;Maximilian-Kolbe-Gymnasium;Gymnasium;Gymnasium
+6.3076302;51.0813829;104;Cornelius-Burgh-Gymnasium;Gymnasium;Gymnasium
+6.3083492;51.0823435;105;Cusanus Gymnasium Erkelenz;Gymnasium;Gymnasium
+6.22608;51.05655;136;Gymnasium Hückelhoven Sekretariat EPG;Gymnasium;Gymnasium
+6.2254971;51.054714;138;Gymnasium Hückelhoven;Gymnasium;Gymnasium
+6.0974517;51.0571013;188;KreisGymnasium Heinsberg;Gymnasium;Gymnasium
+6.0015754;50.9946319;4;GHS Gangelt;Hauptschule;Hauptschule
+6.1245574;50.9671606;21;Städtische Haupt + Realschule Geilenkirchen ( HSGK/RSGK );Hauptschule;Hauptschule
+6.2814956;51.1369149;83;Gemeinschaftshauptschule Wegberg;Gemeinschaftsschule;Hauptschule
+6.3133108;51.0799325;112;Hauptschule Erkelenz;Hauptschule;Hauptschule
+6.2250216;51.0647091;144;Schulen, allgemein bildende Schulen Hauptschulen;Schule;Hauptschule
+6.1490249;51.0565386;168;Gemeinschaftshauptschule Heinsberg - Oberbruch;Hauptschule;Hauptschule
+6.12138;50.91622;10;Katholischer Kindergarten Arche Noah;Kindergarten;Kindergarten
+6.10863;50.91988;11;Kindergarten d.Arbeiterwohlfahrt;Kindergarten;Kindergarten
+6.104175;50.9256666;12;pro multis gGmbH kath. Kindergarten St.Theresia;Kindergarten;Kindergarten
+6.08153;50.95465;18;Städt. Kindertagesstätte Teveren Mullewapp;Kindertagesstätte;Kindergarten
+6.1081845;50.9712116;23;AWO Kindertagesstätte Geilenkirchen;Kindertagesstätte;Kindergarten
+6.12232;50.96524;29;Sonstige kath. Einrichtungen Kindergarten St. Ursula;Katholische Einrichtung;Kindergarten
+6.1117152;50.9707756;31;Stadt Geilenkirchen Städtische Kindertagesstätte Bauchem;Kindertagesstätte;Kindergarten
+6.1032701;50.98418;34;Die Waldwichtel;Kindergarten;Kindergarten
+6.07815;50.98342;36;Katholische Kindertagesstätte St. Mariä Namen;Kindertagesstätte;Kindergarten
+5.9374291;50.9977345;40;Kindergarten St. Hubertus;Kindergarten;Kindergarten
+5.8999519;51.0118526;41;Katholischer Kindergarten St. Gertrud, Rappelkiste;Kindergarten;Kindergarten
+5.993857;51.0229405;45;Kindergarten;Kindergarten;Kindergarten
+6.049093;51.0068341;48;Kindergarten;Kindergarten;Kindergarten
+6.1795342;50.9942459;52;Kindergarten;Kindergarten;Kindergarten
+6.2395827;51.0061089;54;Kindervilla Brachelen e.V.;Kindergarten;Kindergarten
+6.0368067;51.091255;58;Katholischer Kindergarten St.Johannes d.Täufer;Kindergarten;Kindergarten
+6.0765401;51.07724;60;Katholischer Kindergarten St.Hubertus;Kindergarten;Kindergarten
+6.07762;51.10461;62;Städtischer Kindergarten Karken;Kindergarten;Kindergarten
+6.0974192;51.1153215;64;Kindertagesstätte Steinkirchen;Kindergarten;Kindergarten
+6.15298;51.09596;65;Kindergarten der AWO;Kindergarten;Kindergarten
+6.157866;51.099399;66;Kath. Kindergarten;Kindergarten;Kindergarten
+6.1515493;51.1136937;68;Katholischer Kindergarten St.Lambertus Birgelen;Kindergarten;Kindergarten
+6.1879;51.09982;70;Kath. Kindergarten Myhl;Kindergarten;Kindergarten
+6.17864;51.1047;73;Kindergarten Christlicher Verein Wassenberg e.V.;Kindergarten;Kindergarten
+6.19243;51.09385;74;Wassenberg e.V.;Kinderbetreuung;Kindergarten
+6.2177542;51.0974278;76;Kindergarten St.Christophorus;Kindergarten;Kindergarten
+6.1799423;51.1440487;79;Kinderdorf St.Josef Dalheim;Kindergarten;Kindergarten
+6.2011226;51.1525608;80;Städtischer Kindergarten Arsbeck-Büch;Kindergarten;Kindergarten
+6.28068;51.13801;85;Ev. Kindertagesstätte Die Pusteblume;Kindertagesstätte;Kindergarten
+6.27237;51.15052;87;katholischer Kindergarten Rabennest;Kindergarten;Kindergarten
+6.27722;51.14259;88;Kindergarten Wegberg;Kindergarten;Kindergarten
+6.2932805;51.1433124;90;"Kita ""Am Feldrain""";Kita;Kindergarten
+6.2510738;51.1747869;93;Städt. Kindergarten Wegberg-Merbeck;Kindergarten;Kindergarten
+6.3347274;51.1102342;96;Kindergarten Rath-Anhoven;Kindergarten;Kindergarten
+6.37349;51.09101;97;Kindergarten Städtisch Venrath;Kindergarten;Kindergarten
+6.29635;51.05643;100;Städtischer Kindergarten;Kindergarten;Kindergarten
+6.31199;51.07223;101;"Kindergarten, ""Am Hagelkreuz""";Kindergarten;Kindergarten
+6.30436;51.07935;102;Städtischer Kindergarten;Kindergarten;Kindergarten
+6.3036;51.08509;107;Kindergarten Städtisch;Kindergarten;Kindergarten
+6.2972791;51.0834073;108;Kindertagesstätte Oerather Mühlenfeld;Kindergarten;Kindergarten
+6.31436;51.08906;109;Kindergarten Städtisch Buscherhof;Kindergarten;Kindergarten
+6.32262;51.08908;110;Johanniter Kindergarten;Kindergarten;Kindergarten
+6.3119208;51.0789249;114;Städtischer Kindergarten;Kindergarten;Kindergarten
+6.1752601;51.0182353;116;Kindergarten Randerath;Kindergarten;Kindergarten
+6.3283305;51.0316555;118;Kindergarten St. Pauli Bekehrung Lövenich;Kindergarten;Kindergarten
+6.321869;51.0309751;119;Kindergarten Städtisch Lövenich;Kindergarten;Kindergarten
+6.2738071;51.05718;124;Städtischer Kindergarten;Kindergarten;Kindergarten
+6.27628;51.10241;126;Evangelischer Kindergarten Schwanenberg;Kindergarten;Kindergarten
+6.22593;51.05023;135;Kindergarten St. Lambertus;Kindergarten;Kindergarten
+6.2216901;51.0583178;139;Kindergarten Katholisch St. Barbara;Kindergarten;Kindergarten
+6.2172332;51.0585294;140;Städt. Familienzentrum/Kindergarten TRAUMLAND;Kindergarten;Kindergarten
+6.1986;51.05759;141;Kindergarten Städtisch;Kindergarten;Kindergarten
+6.2012;51.05906;142;Waldorfkindergarten;Kindergarten;Kindergarten
+6.10773;50.94413;155;Katholischer Kindergarten St.Dionysius;Kindergarten;Kindergarten
+6.137518;50.9075557;156;Katholischer Kindergarten St.Fidelis Boscheln;Kindergarten;Kindergarten
+6.1758387;51.0286022;159;Städtischer Kindergarten Horst;Kindergarten;Kindergarten
+6.18142;51.06637;161;AWO - Kindergarten in Ratheim;Kindergarten;Kindergarten
+6.1771913;51.0667964;162;Kindergarten;Kindergarten;Kindergarten
+6.1574782;51.0902098;164;"Johanniter-Kindertagesstätte ""Regenbogen"" Wassenberg";Kindertagesstätte;Kindergarten
+6.1493975;51.0615945;171;Kath. Kindertagesstätte St. Aloysius;Kindertagesstätte;Kindergarten
+6.14547;51.05901;172;Städtische integrative Kindertagesstätte Oberbruch;Kindertagesstätte;Kindergarten
+6.13319;51.05289;174;Kath. Kindergarten Eschweiler;Kindergarten;Kindergarten
+6.13873;51.05033;179;Kindertagesstätte 'Triangel';Kindertagesstätte;Kindergarten
+6.12332;51.05412;181;Städtische Kindertagesstätte Schafhausen;Kindertagesstätte;Kindergarten
+6.1018519;51.0717503;185;Städtischer Kindergarten;Kindergarten;Kindergarten
+6.0787133;51.0680566;186;Kindergarten Lieck;Kindergarten;Kindergarten
+6.08849;51.05923;187;Stadt Heinsberg Kindergarten;Kindergarten;Kindergarten
+6.1000891;51.0638825;192;Städtischer Kindergarten Buschheide;Kindergarten;Kindergarten
+6.12509;50.99539;196;Katholischer Kindergarten St.Anna;Kindergarten;Kindergarten
+6.074551;51.0128887;198;Kindergarten;Kindergarten;Kindergarten
+6.0667998;51.0394861;199;Städtischer Kindergarten Aphoven/Laffeld;Kindergarten;Kindergarten
+6.3064809;51.1312848;156;Kindergarten Beeck;Kindergarten;Kindergarten
+6.1088769;50.9178355;5;Städtische Realschule Übach-Palenberg;Realschule;Realschule
+6.1100461;50.9193505;7;Städt. Realschule Übach-Palenberg;Realschule;Realschule
+6.1218429;50.9656944;20;Städtische Realschule und St Elisabeth Krankenhaus Parkhaus;Realschule;Realschule
+6.124557;50.9672027;22;Realschule;Realschule;Realschule
+6.1252645;50.9672027;26;Sekretariat - Realschule Geilenkirchen;;Realschule
+6.28089;51.1363;86;Edith-Stein-Realschule;Realsschule;Realschule
+6.3092892;51.0816464;106;Realschule Der Stadt Erkelenz;Realschule;Realschule
+6.184944;51.0675221;146;Realschule Ratheim;Realschule;Realschule
+6.14953;51.05665;167;Städt. Realschule;Realschule;Realschule
+6.10378;51.05811;191;Städt. Realschule;Realschule;Realschule
+6.1879555;51.1446605;78;Freie Waldorfschule Kreis Heinsberg;Waldorfschule;Waldorfschule
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;

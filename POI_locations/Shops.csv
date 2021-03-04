@@ -1,0 +1,775 @@
+﻿x;y;gid;Name;description;new
+6.11222;51.06936;4;Sascha Laumen Happy-Preis;Einrichtung;Haushaltswaren
+6.2792841;51.0339325;5;Stern-Apotheke;Apotheke;Apotheke
+6.139479;51.100779;19;Wassenberger Polsterwerkstätten;Inneneinrichtung;Möbel
+5.9881011;51.0702284;20;Dessy;mode;Mode
+6.2060773;50.9971214;28;Grünes Warenhaus;Garten;Garten
+5.9073471;51.014501;29;Lavedo Custom Leather E.k.;Mode;Mode
+5.924047;50.9953501;30;Star Tankstelle Husmann;Tankstelle;Kiosk
+6.07371;50.97989;31;moland GmbH & Co. KG;Mode;Mode
+6.1031735;50.977168;33;Bauma GmbH;Baumarkt;Baumarkt
+6.0702571;51.1049754;34;Tekstra;Garten;Garten
+6.12197;51.06114;38;Winkens GmbH;Garten;Garten
+6.0931612;51.0643867;39;ASIA AFRO SHOP und Kiosk in Heinsberg;Kiosk;Kiosk
+6.09277;51.06097;46;Creative Fashion;Mode;Mode
+6.1128;51.0682;47;TAKKO FASHION Heinsberg;Mode;Mode
+6.0949001;51.06102;48;MODE NOLTEN;Mode;Mode
+6.09278;51.06098;49;Weiss Womens Fashion e.K.;Mode;Mode
+6.09797;51.06544;50;Strauch Mode;Mode;Mode
+6.0950784;51.0622856;51;M&B Moda Park;Mode;Mode
+6.10661;51.0655;52;Heinsberger Strick GmbH;Mode;Mode
+6.0965538;51.064573;53;tausendschön;Mode;Mode
+6.0969323;51.0650979;54;Greko KG;Mode;Mode
+6.0946785;51.061871;55;Tredy-fashion GmbH;Mode;Mode
+6.0959346;51.0639969;56;Siegbert Kaumanns Cheyenne;Mode;Mode
+6.0921;51.05974;57;Secondhand - Damen- & Herrenmoden Bei Maja;Mode;Mode
+6.0947501;51.0638103;58;Black & White;Mode;Mode
+6.09797;51.06544;59;Jeans Fritz;Mode;Mode
+6.0956783;51.0631229;60;H&M;Mode;Mode
+6.0949743;51.0615628;61;Ernsting's family;Mode;Mode
+6.1241618;51.075105;62;Schmitz Kindermoden;Mode;Mode
+6.0955124;51.0629938;63;Cecil Heinrichs Systemhandel C.GmbH& Co.KG;Mode;Mode
+6.0949466;51.0612339;64;KiK Textilien und Non-Food GmbH;Mode;Mode
+6.1146675;51.0614541;65;Shell;Tankstelle;Kiosk
+6.0880606;51.0664351;66;TOTAL Tankstelle;Tankstelle;Kiosk
+6.1130835;51.0657761;67;Markenfreie Tankstelle;Tankstelle;Kiosk
+6.1089445;51.0631052;68;JET-Tankstelle;Tankstelle;Kiosk
+6.1412754;51.0554706;69;BFT Tankstelle J. von Dijke;Tankstelle;Kiosk
+6.0706203;51.1036171;70;Esso Station Husmann;Tankstelle;Kiosk
+6.1076641;51.0304799;71;Esso;Tankstelle;Kiosk
+6.1443071;51.0425911;72;TAP PflipsenGroup Tankstelle;Tankstelle;Kiosk
+6.1153456;51.061702;73;Tankstelle K&K Bikershop;Tankstelle;Kiosk
+6.1102665;51.0646621;74;Total Saarberg GmbH;Tankstelle;Kiosk
+6.12295;51.06093;75;Hammer Fachmarkt Heinsberg;Baumarkt;Baumarkt
+6.0933739;51.0616204;87;Petra Susanne Feldges Traumwelten;Einrichtung;Haushaltswaren
+6.0987991;51.0652738;89;Woolworth;Einkauf;Haushaltswaren
+6.11996;50.96405;90;Woolworth;;Haushaltswaren
+6.0596971;51.0817053;92;Schürkens GmbH & Co. KG;Baumarkt;Baumarkt
+6.137052;50.9081779;94;Kiosk Fries;Kiosk;Kiosk
+6.1339018;50.8998852;95;JET-Tankstelle;Tankstelle;Kiosk
+6.13748;50.9127488;96;Shell;Tankstelle;Kiosk
+6.1368077;50.9146064;97;Esso;Tankstelle;Kiosk
+6.1371612;50.9170967;98;Tankreinigung Tank Team (Inh. Björn Keuter);Tankstelle;Kiosk
+6.1369499;50.9146798;99;Gasolinera Übach Palemberg;Tankstelle;Kiosk
+6.137747;50.903846;100;Möbelhaus und Bestattungen Hilgers e.K. Inh. Anja Esser;Einrichtung;Möbel
+6.1353447;50.9012613;106;filz design el.vira;mode;Mode
+6.1377321;50.911609;115;Netto Filiale;Einkauf;Discounter
+6.1117528;50.9247575;116;REWE;Einkauf;Supermarkt
+6.1153682;50.9221779;117;ALDI SÜD;Einkauf;Discounter
+6.1146117;50.9239019;118;Lidl;Einkauf;Discounter
+6.1121464;50.9242942;119;dm-drogerie markt;Drogerie;Drogerie
+6.1356091;50.9211075;120;real;Einkauf;Discounter
+6.1127458;50.9241917;121;TAKKO FASHION Übach-Palenberg;Mode;Mode
+6.1137531;50.9226393;122;KiK Textilien und Non-Food GmbH;Mode;Mode
+6.1157879;50.9207459;123;Parfumerie Sommerfeld Josefine;Mode;Mode
+6.14383;50.91249;125;Delahaye Hermann;Mode;Mode
+6.14569;50.91441;126;Linde Gas & More Übach-Palenberg;Tankstelle;Kiosk
+6.140096;50.9122709;127;Arzneicom.de;Apotheke;Apotheke
+6.137445;50.912186;128;Fidelis Apotheke;Apotheke;Apotheke
+6.1332688;50.9129796;129;Marianne Winter;Apotheke;Apotheke
+6.1167545;50.920334;130;Carolus-Magnus-Apotheke;Apotheke;Apotheke
+6.1130359;50.9208494;131;Herz Apotheke;Apotheke;Apotheke
+6.140414;50.9122668;132;Josef Kraus;Mode;Mode
+6.1438828;50.918734;135;Milz & Lindemann GmbH;Mode;Mode
+6.144518;50.919304;137;Comfort4Kids;Mode;Mode
+6.138494;50.9188643;140;RDS Reifen-Discount Schlebusch GmbH;Mode;Mode
+6.13186;50.91743;144;Gartencenter Kranz;Garten;Garten
+6.1315326;50.9161169;145;Eckardt;Mode;Mode
+6.109794;50.9209058;147;Shell;;Kiosk
+6.1137098;50.9212855;148;Michaela's Blumengalerie;Floristik;Garten
+6.1148306;50.9214858;149;Dohse;Mode;Mode
+6.1147462;50.921052;150;Funken;Mode;Mode
+6.1138952;50.922374;153;DEICHMANN;Mode;Mode
+6.1138826;50.9228;154;TEDi GmbH & Co. KG;Mode;Mode
+6.0941627;50.9252956;155;Kiefern Apotheke Ariane Kiefer e.K.;Apotheke;Apotheke
+6.0984429;50.9241146;156;Marien Apotheke;Apotheke;Apotheke
+6.1172136;50.9201579;158;Christophorus-Apotheke;Apotheke;Apotheke
+6.0989616;50.9248759;160;Dhl Deutsche Post;Post;Post
+6.0929922;50.9255663;161;Irmgard Lotto Post Hermes Shop Weber Lottoannahme;Post;Post
+6.0990397;50.9248522;162;M. Schneidersmann;Tabak;Kiosk
+6.1151289;50.9219738;163;DHL Packstation;Post;Post
+6.1171369;50.9203297;164;Deutsche Post Filiale;Post;Post
+6.1249488;50.9171575;165;Deutsche Post Filiale;Post;Post
+6.1352626;50.9208575;166;Deutsche Post Filiale;Post;Post
+6.1129015;50.9241268;168;mister*lady GmbH;Mode;Mode
+6.1122778;50.9242017;169;C&A;Mode;Mode
+6.1004921;50.924946;174;Lifestyle;Mode;Mode
+6.1003795;50.9249483;175;Erkens M.;Mode;Mode
+6.1001798;50.9249475;176;City Foto Knoblauch;Mode;Mode
+6.1017545;50.924892;177;Dampf Zebra UG (haftungsbeschränkt);Mode;Mode
+6.1003573;50.9247938;178;Wohndesign Müller;Wohnen;Möbel
+6.099417;50.925461;180;KARO - Kindersachen aus 2. Hand;Mode;Mode
+6.0993486;50.9255405;181;Sophia Antonia Scheffler Bekleidung Manana;Mode;Mode
+6.11749;50.91527;182;Pfennings;Tankstelle;Kiosk
+6.0927526;50.9261953;183;Saluma GbR;Mode;Mode
+6.0939423;50.9256136;184;Reinartz Hausgeräte;Wohnen;Möbel
+6.0939151;50.9248165;185;Lidl;Einkauf;Discounter
+6.09716;50.922347;186;Netto Filiale;Einkauf;Discounter
+6.0924692;50.9253304;187;Josef Emonds;Mode;Mode
+6.0877258;50.9287892;190;Sandros abuff (Kiosk)K;Kiosk;Kiosk
+6.09952;50.92952;191;Pflanzenmarkt Doris;Florist;Garten
+6.100001;50.9295134;192;LEO´S Werkstatt;Tankstelle;Kiosk
+6.0770852;50.9285374;194;TERRA4U;Mode;Mode
+6.0569603;50.923683;196;You wear Fashion;Mode;Mode
+6.0669647;50.9272189;199;Seifert u. Udvary;Mode;Mode
+6.0673281;50.9281474;200;Aral;Tankstelle;Kiosk
+6.0670342;50.928128;201;BP-Tankstelle 3093;Tankstelle;Kiosk
+6.0728699;50.9312898;202;Netto Filiale;Netto;Discounter
+6.07617;50.93286;203;Peter Bentz;Mode;Mode
+6.1055178;50.9412663;204;Optik Hall;Optiker;Optiker
+6.1071855;50.9476424;206;Dortants Garten(T)räume;Garten;Garten
+6.10821;50.94631;207;Norman Langen;Mode;Mode
+6.12048;50.96534;278;LINDA - St. Elisabeth Apotheke;Apotheke;Apotheke
+6.0723935;50.9536767;213;Deko-Stübchen;Deko;Haushaltswaren
+6.0598492;50.9543875;216;Natex Retail Store;Mode;Mode
+6.12365;50.96259;218;Modehaus Schüll GmbH;Mode;Mode
+6.1216553;50.9622054;219;Caprice;Mode;Mode
+6.1192931;50.9630507;220;Ernsting's family;Mode;Mode
+6.1189245;50.9631294;221;TAKKO FASHION Geilenkirchen;Mode;Mode
+6.120901;50.963643;222;Herrenmoden Stamm;Mode;Mode
+6.1202746;50.9640181;223;Per la Donna GmbH & Co. KG;Mode;Mode
+6.1234858;50.9627859;224;M.m. Mode GmbH;Mode;Mode
+6.1257329;50.9629604;225;Blumen Nobis oHG;Floristik;Garten
+6.122679;50.9629199;228;KIND Hörakustik & Augenoptik;Optiker;Optiker
+6.1216652;50.9630922;230;Buchhandlung de Kleine;Buchhandlung;Buchhandlung
+6.1210371;50.9631636;231;La Tienda;Mode;Mode
+6.1210792;50.9634916;234;Optik und Akustik Laumen GmbH;Optiker;Optiker
+6.1209895;50.9635855;235;BONITA GmbH;Mode;Mode
+6.1207336;50.9637888;236;TEDi GmbH & Co. KG;Non-Food Händler;Haushaltswaren
+6.1203597;50.9640298;238;Takko-Fashion am Kaufland;Mode;Mode
+6.1205595;50.9642197;239;W. Breuer am Kaufland;Mode;Mode
+6.1200673;50.9644983;242;Blumen Nobis OHG;Floristik;Garten
+6.1193482;50.9646889;244;Eck J.;Mode;Mode
+6.121311;50.965343;246;Stadtbücherei Geilenkirchen;Bücherei;Buchhandlung
+6.1188036;50.9623578;247;Action am Kaufland Geilenkirchen;Einkauf;Haushaltswaren
+6.1186338;50.9630874;249;Kaufland Geilenkirchen;Einkauf;Discounter
+6.1189309;50.9630036;250;dm-drogerie markt;Drogerie;Drogerie
+6.119086;50.9630214;251;DEICHMANN;Schuhe;Mode
+6.1188193;50.9635826;252;Apollo-Optik;Optik;Optiker
+6.1208148;50.9623867;254;REWE Center;Einkauf;Supermarkt
+6.112095;50.9421769;255;Ursula Wilms;Mode;Mode
+6.1245273;50.9615456;256;ARIZONA;Mode;Mode
+6.12194;50.96256;261;Maria Hahn;Mode;Mode
+6.12193;50.9626;262;Buchhandlung Lyne von de Berg e.k;Buchhandlung;Buchhandlung
+6.12723;50.96608;266;Damberg Lyne von de Berg;Mode;Mode
+6.1216341;50.9618757;267;Sebastian Nickel;Tankstelle;Kiosk
+6.110801;50.966624;268;PM Pfennings;Tankstelle;Kiosk
+6.1196459;50.9705863;269;Aral;Tankstelle;Kiosk
+6.0979199;50.9690645;270;Fred Pfennings GmbH & Co. KG;Tankstelle;Kiosk
+6.0999;50.97492;271;Designo;Tankstelle;Kiosk
+6.12352;50.9618;272;Deutsche Post;Post;Post
+6.122769;50.9629064;273;Hermes PaketShop;Post;Post
+6.1128001;50.9713427;274;REWE;Einkauf;Supermarkt
+6.1202298;50.9715413;275;PENNY;Einkauf;Discounter
+6.1065792;50.966784;276;Hildes Grünzeug;Garten;Garten
+6.11881;50.96464;277;Selfkant Apotheke;Apotheke;Apotheke
+6.1049638;50.9690703;284;Helmut Conen;Mode;Mode
+6.11294;50.9714;285;Karoline Beumers;Mode;Mode
+6.09128;50.97245;291;Gärtnerei Stahl;Garten;Garten
+6.093481;50.9709114;292;Richter Garten;Garten;Garten
+6.0922332;50.9727101;298;Shell Geilenkirchen;Tankstelle;Kiosk
+6.1012064;50.9778963;304;Lidl;Einkauf;Discounter
+6.0996013;50.9786769;306;REWE;Einkauf;Supermarkt
+6.0987337;50.9792405;307;KiK Textilien und Non-Food GmbH;Mode;Mode
+6.1000808;50.9786102;308;Mobau;Baumarkt;Baumarkt
+6.09912;50.97977;311;ALDI SÜD;Einkauf;Discounter
+6.0998495;50.9801455;312;Rossmann Drogeriemarkt;Drogerie;Drogerie
+6.0991181;50.9790948;315;TEDi GmbH & Co. KG;Non-Food Händler;Haushaltswaren
+6.1040804;50.9787636;316;Stracke's alldecor Hamacher&Wexel GmbH;Baumarkt;Baumarkt
+6.10083;50.97711;318;Melchers Gartenbau & Landschaftsbau - Melchers GmbH;Garten;Garten
+6.1022886;50.9811203;319;Auto Backus;Tankstelle;Kiosk
+6.11883;50.97232;329;Handyfant;Mode;Mode
+6.11667;50.98225;332;Mister Big;Mode;Mode
+6.09385;50.97267;346;Family Zoo;Mode;Mode
+6.0912175;50.9697276;348;Verteilzentrum Deutsche Post DHL;Post;Post
+6.08173;50.97766;350;Decadi Couture;Mode;Mode
+6.0748904;50.9812961;351;Käthi Hoffmanns;Mode;Mode
+6.072489;50.9820549;352;Sodermanns H.;Mode;Mode
+6.064048;50.9828834;353;star Tankstelle;Tankstelle;Kiosk
+6.0328982;50.9884721;358;Aral;Tankstelle;Kiosk
+5.997624;50.9927452;363;Blumenperle -Bouquets & Blumen;Florist;Garten
+5.9962779;50.992835;364;Hirsch Apotheke;Apotheke;Apotheke
+5.9858654;50.9927966;374;Lidl Gangelt;Einkauf;Discounter
+5.9856665;50.9935655;375;Netto Filiale;Einkauf;Discounter
+5.9886542;50.9937387;376;REWE;Einkauf;Supermarkt
+5.9873537;50.993978;377;ALDI SÜD;Einkauf;Discounter
+5.9888587;50.9946313;378;Mobau Wirtz Baumarkt;Baumarkt;Baumarkt
+5.9867285;50.9946517;379;KiK Textilien und Non-Food GmbH;Mode;Mode
+5.9858864;50.9945927;380;dm-drogerie markt;Drogerie;Drogerie
+5.9854163;50.994529;381;TEDi GmbH & Co. KG;Non-Food Handel;Haushaltswaren
+5.9853746;50.9941095;382;Catharina's Mode;Mode;Mode
+5.9845062;50.9924826;385;Tankstelle Stegemann;Tankstelle;Kiosk
+5.9967161;50.9927435;387;Weltladen Gangelt;Einkauf;Haushaltswaren
+5.9935982;50.9934428;391;Hermes PaketShop;Post;Post
+5.9951472;50.9913665;393;Vintage 26;Mode;Mode
+5.996587;50.993847;395;Sigrid Grunwald;Mode;Mode
+5.999107;50.9959959;397;PENNY;Einkauf;Discounter
+5.9991829;50.9961742;399;Grenzland-Apotheke;Apotheke;Apotheke
+5.9869489;50.996277;400;Easy Apotheke ( In Planung );Apotheke;Apotheke
+5.9859694;50.9947075;403;Ursula Schroeder;Kiosk;Kiosk
+5.9867717;50.9960816;404;Action ( In Planung );Einkauf;Haushaltswaren
+5.9872762;50.9963777;405;DEPOT ( In Planung );Einrichtung;Haushaltswaren
+5.9435251;50.995158;407;susterseel;Mode;Mode
+5.9375559;50.9965713;408;Shell;Tankstelle;Kiosk
+5.945864;50.991722;411;LTW GmbH;Garten;Garten
+5.9298778;50.9979401;413;Edeka Markt Schäpers;Einkauf;Supermarkt
+5.9301624;50.9981525;414;ALDI SÜD;Einkauf;Discounter
+6.215891;51.096444;763;Aral;Tankstelle;Kiosk
+5.9340475;50.9979762;415;Deutsche Post Filiale;Post;Post
+5.9223245;50.9951912;423;Blumen Bex;Floristik;Garten
+5.8991825;51.0142909;427;West-Apotheke im Selfkant;Einkauf;Apotheke
+5.9008019;51.0155939;429;Ernsting's family;Einkauf;Mode
+5.901873;51.0170398;430;REWE;Einkauf;Supermarkt
+5.9018728;51.0169859;432;dm-drogerie markt;Drogerie;Drogerie
+5.9000548;51.0173742;433;ALDI SÜD;Einkauf;Discounter
+5.8989501;51.0163567;435;Netto Filiale;Einkauf;Discounter
+5.9004039;51.0161103;436;Lidl;Einkauf;Discounter
+5.9006155;51.0158333;437;KiK Textilien und Non-Food GmbH;Mode;Mode
+5.9008883;51.0155881;438;TAKKO FASHION Selfkant;Mode;Mode
+5.900664;51.0156589;439;DEICHMANN;Mode;Mode
+5.9003184;51.0157214;440;KODi Diskontläden GmbH;Non-Food Handel;Haushaltswaren
+5.8978977;51.0162548;441;mister*lady GmbH;Mode;Mode
+5.8976007;51.0162962;442;Adler Modemärkte AG;Mode;Mode
+5.9010087;51.0172934;444;TEDi GmbH & Co. KG;Non-Food Handel;Haushaltswaren
+5.9010296;51.0142422;447;Shell;Tankstelle;Kiosk
+5.9023936;51.0146034;448;Esso;Tankstelle;Kiosk
+5.9045314;51.0114127;450;Dresscode Krawatten;Mode;Mode
+5.9096669;51.0112307;451;Groenenzo;Garten;Garten
+5.8961416;51.0133463;453;Deutsche Post Filiale;Post;Post
+5.8991161;51.0145233;456;Mertens & Hermanns OHG;Mode;Mode
+5.8988402;51.0146917;457;Hermes PaketShop;Post;Post
+5.8958353;51.0150829;458;Rauchert;Mode;Mode
+5.8842016;51.019001;461;BTB GmbH;Mode;Mode
+5.8819582;51.0198586;465;Gebr. Florack GmbH;Mode;Mode
+5.9816394;51.0128563;466;Wollnest – Ursula Tendyra;Mode;Mode
+5.953057;51.0208737;468;Saenen und Zaunbrecher;Garten;Garten
+5.9342453;51.0254157;471;Vossen H.;Mode;Mode
+5.9382822;51.0256453;472;Petras Shop Backshop Und Kiosk;Kiosk;Kiosk
+5.936934;51.027449;473;Klatschmohn Floristik;Floristik;Garten
+5.9563157;51.0300479;476;Shell;Tankstelle;Kiosk
+5.9899032;51.0277684;483;Ginko-Apotheke;Apotheke;Apotheke
+5.9927285;51.0308092;485;Hans-Josef Heinrichs;Garten;Garten
+6.021602;51.0207656;486;Garten- und Landschaftsbau Gangelt;Garten;Garten
+6.02368;51.01957;487;Krings Bau + Wohn Design;Einrichtung;Haushaltswaren
+6.0507329;51.0054393;493;REWE;Einkauf;Supermarkt
+6.0487532;51.0058369;498;Textilien;Mode;Mode
+6.0504844;51.0070402;499;Hermes;Post;Post
+6.0498428;51.0088671;501;Apotheke;Apotheke;Apotheke
+6.0583016;51.0048458;502;Buchhandlung;Buchhandlung;Buchhandlung
+6.0575253;51.0060146;505;Schlafsysteme;Inneneinrichtung;Möbel
+6.119022;50.9623584;506;Action;Non-Food Handel;Haushaltswaren
+6.0609544;51.0108299;507;Penny;Einkauf;Discounter
+6.1200522;50.9631493;508;Apotheke;Apotheke;Apotheke
+6.1158526;50.9801254;513;Glückskind;Mode;Mode
+6.1539445;50.9439015;514;Waurichen;Mode;Mode
+6.1678844;50.9500642;515;Möbel;Möbel;Möbel
+6.1701016;50.9514013;518;Hermes;Post;Post
+6.1786209;50.9531698;521;Gärtnerei;Gärtnerei;Garten
+6.1861414;50.9934847;524;Schloemer;Mode;Mode
+6.1835183;50.9952226;527;Gärtnerei;Gärtnerei;Garten
+6.1906886;50.9956248;528;Floristik;Floristik;Garten
+6.2058354;50.9977623;532;Edeka;Einkauf;Supermarkt
+6.206007;50.9978112;533;Blumen;Floristik;Garten
+6.2413142;51.0040905;537;Deutsche Post;Post;Post
+6.2414497;51.0042407;538;Apotheke;Apotheke;Apotheke
+6.2401279;51.0039163;539;Floristik;Floristik;Garten
+6.2407498;51.0046168;541;Merzbavh;Kiosk;Kiosk
+6.2401556;51.0047629;542;Jumpertz;Mode;Mode
+6.23818;51.0054;544;Barbara Palmen;Floristik;Garten
+6.2414641;51.0087057;545;Netto Filiale;Einkauf;Discounter
+6.038188;51.0530808;565;Ango's Mode;Mode;Mode
+6.03638;51.05253;567;Palmen GmbH;Floristik;Garten
+6.0412886;51.0572513;568;DPD Pickup Paketshop;Post;Post
+6.0438306;51.0570452;569;Selfkant Wolters GmbH;Floristik;Garten
+5.995894;51.0588455;574;TEDi GmbH & Co. KG;Non-Food-Handel;Haushaltswaren
+5.9955884;51.0590733;575;Rossmann Drogeriemarkt;Drogerie;Drogerie
+5.9954476;51.0593274;576;KiK Textilien und Non-Food GmbH;Mode;Mode
+5.9963512;51.0595586;577;ALDI SÜD;Einkauf;Discounter
+5.9971538;51.0599128;580;REWE;Einkauf;Supermarkt
+5.9962099;51.060211;581;Triple Horn Saddlery;Mode;Mode
+5.9917942;51.0640843;588;Rosen Apotheke;Apotheke;Apotheke
+5.9909575;51.0645742;589;Uhren & Optik Küppers;Optiker;Optiker
+5.9850689;51.0631071;590;Tholen J.;Garten;Garten
+5.9813669;51.0649705;592;Cleef Fashion GmbH;Mode;Mode
+5.9900363;51.0651688;594;Deutsche Post Filiale;Post;Post
+5.9901167;51.065189;595;Lotto-Toto, Zeitschriften;Kiosk;Kiosk
+5.9935664;51.074457;601;Niederungsmotte Bolleberg;Garten;Garten
+6.0203596;51.086123;605;Rombey W.;Mode;Mode
+6.027114;51.0848955;606;Edeka Markt Helmut Verboket KG;Einkauf;Supermarkt
+6.031884;51.0882727;607;Hubertus-Apotheke;Apotheke;Apotheke
+6.0367334;51.0920616;610;Frisch & Günstig;Einkauf;Supermarkt
+6.04423;51.0909;613;Firma Hans Esser;Garten;Garten
+6.050855;51.084203;616;PM Pfennigs Waldfeucht;Tankstelle;Kiosk
+6.05107;51.08394;617;Haarener Tankstellen GmbH & Co. KG;Tankstelle;Kiosk
+6.063942;51.0785819;620;Euregio Apotheke;Apotheke;Apotheke
+6.0727909;51.0744174;621;Pinguin Apotheke;Apotheke;Apotheke
+6.07277;51.07426;622;Blumen Donners;Floristik;Garten
+6.0819659;51.0940023;624;Aral;Tankstelle;Kiosk
+6.07795;51.09685;626;H. Randerath;Mode;Mode
+6.0773975;51.0973625;628;PENNY;Einkauf;Discounter
+6.0769537;51.0991076;630;Fashion Outlet;Mode;Mode
+6.074;51.1008121;632;LINDA - Severinus Apotheke;Apotheke;Apotheke
+6.0733351;51.1013106;634;Hermes PaketShop;Post;Post
+6.0697731;51.1042443;635;Deutsche Post Filiale;Post;Post
+6.07961;51.10392;642;Thomas Aufsfeld;Garten;Garten
+6.07926;51.10655;643;Primeur-Moden GmbH;Mode;Mode
+6.0773386;51.1092933;644;Casa Grandiflora;Floristik;Garten
+6.100901;51.0936805;647;Die Bücherei St. Nikolaus Rurkempen;Bücherei;Buchhandlung
+6.1001328;51.122643;654;Der Gartenzwerg;Garten;Garten
+6.1186287;51.0892971;660;Edeka Kahn;Einkauf;Supermarkt
+6.146443;51.098714;672;HEM Tankstelle;Tankstelle;Kiosk
+6.157136;51.091738;675;Lidl;Einkauf;Discounter
+6.1594045;51.0923449;676;ALDI SÜD;Einkauf;Discounter
+6.1586717;51.0911281;677;Rossmann Drogeriemarkt;Drogerie;Drogerie
+6.1595065;51.0915264;679;Edeka Hensges;Einkauf;Supermarkt
+6.1591101;51.0917358;681;Michael Bauer Blumenhandel;Floristik;Garten
+6.1556152;51.0977847;685;Rauch Lounge;Tabak;Kiosk
+6.1556003;51.0978364;686;DHL Poststation;Post;Post
+6.155687;51.0979172;687;Deutsche Post Filiale;Post;Post
+6.155575;51.098041;689;Park-Apotheke;Apotheke;Apotheke
+6.1556006;51.099641;693;Ella Fashion & Trends;Mode;Mode
+6.1551852;51.1014558;697;Blumen by Alice;Floristik;Garten
+6.16443;51.09506;698;Willy Nolten;Inneneinrichtung;Möbel
+6.1569763;51.0998703;699;Schnäppchenhaus;Non-Food-Handel;Haushaltswaren
+6.15676;51.09972;700;Lidia Kartheuser-Fischer;Mode;Mode
+6.156598;51.099204;701;Floristik und mehr;Floristik;Garten
+6.1843266;51.1021086;720;Tchibo im Supermarkt;Non-Food-Handel;Haushaltswaren
+6.1834066;51.1021475;721;dm-drogerie markt;Drogerie;Drogerie
+6.1836979;51.102452;722;REWE;Einkauf;Supermarkt
+6.1834583;51.1024438;723;KiK Textilien und Non-Food GmbH;Mode;Mode
+6.1833695;51.1025293;724;TEDi GmbH & Co. KG;Non-Food-Handel;Haushaltswaren
+6.1830477;51.1025006;725;Ernsting's family;Mode;Mode
+6.1827915;51.102432;726;NORMA Filiale;Mode;Mode
+6.194311;51.100658;729;Wassenberg Myhl;Mode;Mode
+6.1757042;51.1042592;731;Bekleidungshaus Wilms-Dohmen e.K. Inh. Doris Dohmen;Mode;Mode
+6.1715123;51.1035226;734;Penny Super Market;Einkauf;Discounter
+6.1714491;51.1034371;735;PENNY;Einkauf;Discounter
+6.1681584;51.1028575;738;Netto Filiale;Einkauf;Discounter
+6.1754707;51.1051269;741;Jaegers & Klingenhäger GmbH Wassenberg;Optiker;Optiker
+6.1759397;51.1054244;743;LINDA - Marien-Apotheke Michael Krug;Apotheke;Apotheke
+6.1779383;51.1062855;744;Hermes PaketShop;Post;Post
+6.1786977;51.1073405;746;Aral;Tankstelle;Kiosk
+6.1858892;51.1059383;747;Casa del Prinzi;Mode;Mode
+6.218997;51.0955149;758;REWE;Einkauf;Supermarkt
+6.2178082;51.0960504;759;Glocken Apotheke;Apotheke;Apotheke
+6.2172688;51.0960906;760;HS-Kiosk / Lottoannahmestelle / Hermes Versand;Kiosk;Kiosk
+6.2103833;51.097014;764;NORMA Filiale;Einkauf;Discounter
+6.22229;51.09955;768;Doraflor Zillekens KG;Floristik;Garten
+6.2169316;51.096905;769;Sonderpostendiscount;Discounter;Discounter
+6.21455;51.09887;774;Astrid Grzelka;Floristik;Garten
+6.2179147;51.1196793;783;Thelen Pflanzenhandel;Garten;Garten
+6.1921846;51.1263713;788;Shell;Tankstelle;Kiosk
+6.2094767;51.1497103;817;Hermes PaketShop;Post;Post
+6.2081454;51.1574002;820;Heinen Textil Inh. Beate Heinen e.K.;Mode;Mode
+6.2096985;51.140834;821;REWE;Einkauf;Supermarkt
+6.2104215;51.1434782;822;Marien Apotheke;Apotheke;Apotheke
+6.2131411;51.1419468;826;Jakob Bollermann;Garten;Garten
+6.2361903;51.1360413;829;insektenhotels.de;Garten;Garten
+6.2549;51.11922;833;FG Pipes-n-more;Tabak;Kiosk
+6.2613497;51.1379678;839;Floristika - UG (haftungsbeschränkt);Floristik;Garten
+6.2439628;51.1362581;842;Blumen Heyer;Floristik;Garten
+6.2423494;51.1360264;843;Blumendoc-Shop;Floristik;Garten
+6.28792;51.1258;848;TexTha Textilien GmbH;Mode;Mode
+6.28602;51.12702;849;Blatt und Blume - Schockert;Floristik;Garten
+6.27578;51.13915;851;Optik Michels;Optiker;Optiker
+6.275449;51.1393905;852;Trends & Lifestyle Wegberg;Mode;Mode
+6.275378;51.1393642;853;by Silvia;Mode;Mode
+6.2759086;51.1396095;854;Buchhhandlung Kirch;Buchhandlung;Buchhandlung
+6.27641;51.13962;855;Apotheke am Berg;Apotheke;Apotheke
+6.275149;51.13945;857;TEDi GmbH & Co. KG;Non-Food-Handel;Haushaltswaren
+6.2764368;51.1400114;862;Deutsche Post Filiale;Post;Post
+6.2764771;51.1400313;863;Outfit Textilhandels GmbH;Mode;Mode
+6.2764861;51.140154;864;UPS Access Point;Post;Post
+6.271429;51.1393542;866;Netto Filiale;Einkauf;Discounter
+6.2708186;51.1404491;867;PENNY;Einkauf;Discounter
+6.2703489;51.1405453;868;KiK Textilien und Non-Food GmbH;Mode;Mode
+6.2773301;51.14042;870;BB Damenmode Gr.32-60, Secondhand/Neuware;Mode;Mode
+6.2780858;51.1421089;874;Optik Alte Post;Optiker;Optiker
+6.2784629;51.1422051;875;Deutsche Post Filiale;Post;Post
+6.279518;51.1441707;878;Kiosk Buschhüter;Kiosk;Kiosk
+6.2794833;51.144423;879;Olli's - Kids Secondhand;Mode;Mode
+6.27971;51.14953;881;Hans-Peter Lindt;Mode;Mode
+6.2801;51.14998;882;AUTOANKAUF WEGBERG UNFALLWAGEN ANKAUF WEGBERG;Mode;Mode
+6.2734536;51.1493883;885;Andreas Grothof , Gärtnerei;Garten;Garten
+6.3069131;51.1306162;890;Blumen Fervers;Floristik;Garten
+6.3020479;51.1342158;894;Deutsche Post Filiale;Post;Post
+6.2991433;51.1403077;897;***RACOONPASSION***;Mode;Mode
+6.2821978;51.1513736;900;HIT Handelsgruppe GmbH & Co. KG;Einkauf;Supermarkt
+6.2841004;51.1507014;905;Verbrauchermarkt Grenzland Herburger GmbH & Co. KG;Garten;Garten
+6.2833417;51.1504089;906;Grenzland Tankstelle;Tankstelle;Kiosk
+6.30099;51.1407;907;Thomas Joereßen;Gärtnerei;Garten
+6.2872735;51.1381567;914;Aral;Tankstelle;Kiosk
+6.287324;51.1383209;915;Hermes PaketShop;Post;Post
+6.2841414;51.1449876;930;ALDI SÜD;Einkauf;Discounter
+6.2841266;51.1446101;931;Lidl;Einkauf;Discounter
+6.2839961;51.1442968;932;TAKKO FASHION Wegberg;Mode;Mode
+6.283498;51.144341;933;farma-plus Apotheke im Edeka-Center;Apotheke;Apotheke
+6.2832381;51.1441211;934;EDEKA Endt & Lojewski;Einkauf;Supermarkt
+6.2836488;51.1442044;937;Ernsting's family;Mode;Mode
+6.2838776;51.1450712;938;DHL Packstation;Post;Post
+6.28388;51.1385909;945;Lillis Buchladen;Buchhandlung;Buchhandlung
+6.28194;51.139472;946;Antonius Apotheke;Apotheke;Apotheke
+6.2803002;51.1403748;947;Hirsch Apotheke;Apotheke;Apotheke
+6.27883;51.14073;949;Blumen Feijen;Floristik;Garten
+6.2777801;51.14048;950;Enten-Apotheke Hassiepen;Apotheke;Apotheke
+6.2488443;51.1615882;956;Jan P. Kraemer;Garten;Garten
+6.2696337;51.1566447;960;Gärtnerei Derichs;Gärtnerei;Garten
+6.28425;51.16;976;Julias-Fellnasenshop;Mode;Mode
+6.3307414;51.1166375;995;Shell;Tankstelle;Kiosk
+6.34026;51.109671;1001;Ines Klukas Geschenkedeko;Deko;Haushaltswaren
+6.331847;51.1148504;1002;dm-drogerie markt;Drogerie;Drogerie
+6.3318967;51.1146704;1003;Der Blumenladen;Floristik;Garten
+6.32957;51.1147378;1005;M.I.G.home;Garten;Garten
+6.33066;51.11373;1015;ALDI SÜD;Einkauf;Discounter
+6.37399;51.0927542;1029;Malo-Moda;Mode;Mode
+6.39803;51.08465;1032;Cyclone Collection Gill GmbH;Mode;Mode
+6.4127012;51.0945344;1033;Blumen Heinen Heiner , MG-Wanlo;Floristik;Garten
+6.4135982;51.0953759;1034;stock & concept;Mode;Mode
+6.41629;51.08356;1038;Hannis Blumenlädchen;Floristik;Garten
+6.40727;51.04947;1040;Reiner Krimp Blumenhandel;Floristik;Garten
+6.4029147;51.0476725;1042;Toni von Wirth Tankstelle;Tankstelle;Kiosk
+6.403042;51.0477849;1043;Independent Erkelenz-Holzweiler;Tankstelle;Kiosk
+6.40268;51.04936;1047;Anna Bendrin Festmoden;Mode;Mode
+6.3386098;51.0642877;1052;ALDI SÜD;Einkauf;Discounter
+6.3487466;51.059387;1055;Tran Le GmbH;Mode;Mode
+6.3198065;51.1094;1059;Kupfer-Anton I Gehlen & HH Küppers OHG - Kupfer-Gartengeräte, Wasserbelebung, Neue Technologien;Garten;Garten
+6.31445;51.053;1066;Optologisches Zentrum Dürselen;Optiker;Optiker
+6.29813;51.0564;1068;Design & More Textil GmbH;Mode;Mode
+6.2885499;51.05621;1069;Thomas Fell Zierpflanzen;Floristik;Garten
+6.3122035;51.0647137;1087;Teichhandel Greven;Garten;Garten
+6.3081302;51.0652;1105;MGS Europe GmbH;Garten;Garten
+6.30768;51.0685;1122;TRATETO;Möbel;Möbel
+6.31048;51.06798;1125;Mode Bösckens e.K.;Mode;Mode
+6.302417;51.0700431;1136;Shell Tankstelle;Tankstelle;Kiosk
+6.3022801;51.0700986;1137;Shell;Tankstelle;Kiosk
+6.303896;51.0720006;1138;Gartencenter im OBI Markt Erkelenz;Baumarkt;Baumarkt
+6.3040877;51.0722966;1139;OBI Markt Erkelenz;Baumarkt;Baumarkt
+6.3136043;51.0725918;1144;Jürgen Jonas;Mode;Mode
+6.3101485;51.0714196;1145;Theodor Heuss Apotheke Stephan Wagner e.K.;Apotheke;Apotheke
+6.304665;51.0706395;1146;Lidl;Einkauf;Discounter
+6.30692;51.0708711;1147;Nadelhexe Inh. Marion Baues;Mode;Mode
+6.305743;51.075155;1156;REWE Center;Einkauf;Supermarkt
+6.3059676;51.0753261;1157;PENNY;Einkauf;Discounter
+6.3063609;51.0757599;1158;TEDi GmbH & Co. KG;Non-Food-Handel;Haushaltswaren
+6.3064294;51.075754;1160;Boyraz Möbel;Möbel;Möbel
+6.3045013;51.0762558;1167;dm-drogerie markt;Drogerie;Drogerie
+6.3037591;51.0766562;1168;ALDI SÜD;Einkauf;Discounter
+6.3054228;51.0768396;1170;KiK Textilien und Non-Food GmbH;Mode;Mode
+6.3047568;51.0763547;1176;Thomas Philipps Sonderposten;Non-Food-Handel;Haushaltswaren
+6.3076802;51.077365;1182;Jet-Tankstelle;Tankstelle;Kiosk
+6.3066999;51.0776581;1183;Ernsting's family;Mode;Mode
+6.3069982;51.0776813;1184;Kaufland Erkelenz;Einkauf;Discounter
+6.30671;51.077753;1186;mister*lady GmbH;Mode;Mode
+6.3059974;51.0792914;1189;Lomberg H. GmbH & Co. KG;Tabak;Kiosk
+6.29897;51.09543;1195;Franz Bongartz;Garten;Garten
+6.32715;51.07171;1205;A. Müller-Platz GmbH & Co. KG;Garten;Garten
+6.32423;51.07382;1210;Widax-Reutter GmbH;Mode;Mode
+6.323905;51.0733521;1211;Esso;Tankstelle;Kiosk
+6.3289083;51.0773573;1225;PM24 Tankstelle Erkelenz;Tankstelle;Kiosk
+6.33122;51.08175;1236;Garten Bündgen;Garten;Garten
+6.3118515;51.0829602;1242;Shell;Tankstelle;Kiosk
+6.31009;51.08492;1243;Blumen mit Pfiff Hermann Klauth;Floristik;Garten
+6.3181807;51.0898712;1249;Fashionworld-Klask;Mode;Mode
+6.3200036;51.0905442;1251;EDEKA Esser;Einakuf;Supermarkt
+6.3195969;51.0897926;1253;Hermes PaketShop;Post;Post
+6.3198621;51.089544;1254;Netto Filiale;Einkauf;Discounter
+6.331945;51.088659;1258;JD Sommer GmbH;Mode;Mode
+6.3272181;51.0872285;1261;CYANUS Haus und Gartenservice;Garten;Garten
+6.3236645;51.0836964;1267;Müller;Garten;Garten
+6.3225877;51.0795754;1268;DPD Pickup Paketshop;Post;Post
+6.3089252;51.0774474;1273;PM Tankstelle;Tankstelle;Kiosk
+6.3108584;51.0777335;1277;Angelika Schunk;Floristik;Garten
+6.3126027;51.0783112;1279;Kiosk und Asiatischer Supermarkt (Mala Shop);Kiosk;Kiosk
+6.3124019;51.0781135;1280;Orient Shisha Shop Erkelenz;Tabak;Kiosk
+6.313444;51.078479;1281;EKO48;Einkauf;Kiosk
+6.3136795;51.0784425;1282;Copygarden;Druck;Kiosk
+6.3138101;51.0788589;1283;Electric Vehicle Charging Station;Ladestation;Kiosk
+6.3151707;51.0790723;1284;Hahn - Wohnen mit Kontrasten;Inneneinrichtung;Kiosk
+6.3152781;51.0791064;1285;Buchhandlung Wild GbR;Buchhandlung;Kiosk
+6.3154733;51.0791447;1286;Uhren & Schmuck Annemie Tillmann;Schmuck;Kiosk
+6.315342;51.0793244;1287;Fisch Lemmen;Einkauf;Kiosk
+6.3154097;51.0793834;1288;Mieder u. Dessous Melcher;Dessous;Kiosk
+6.315498;51.0793828;1289;Twinkle mein Modeladen;Mode;Kiosk
+6.31568;51.07959;1290;Modehaus Claassen KG;Mode;Kiosk
+6.31562;51.07968;1291;Lady´s Braut- und Schützenmoden GmbH;Brautmode;Kiosk
+6.3158904;51.0792902;1292;Mama&mia;Mode;Mode
+6.31615;51.07933;1293;Regina Kratz Prestige Moden;Mode;Mode
+6.3159999;51.0793;1294;Hirsch Apotheke;Apotheke;Apotheke
+6.31687;51.07938;1297;Body Needs;Mode;Mode
+6.3175142;51.0787896;1300;Hut Jansen Männermode;Mode;Mode
+6.3182503;51.0780019;1302;ONLY Women's Wear;Mode;Mode
+6.3187963;51.0774809;1305;KODi Diskontläden GmbH;Non-Food-Handel;Haushaltswaren
+6.3178248;51.077156;1307;Netto Filiale;Einkauf;Discounter
+6.3130975;51.0776262;1309;Europa-Apotheke;Apotheke;Apotheke
+6.3135696;51.077746;1311;KMS Mode GmbH;Mode;Mode
+6.315907;51.0784539;1313;New york;Mode;Mode
+6.3211117;51.0764685;1314;Kiosk/West Lotto;Kiosk;Kiosk
+6.3192666;51.0774044;1315;Apotheke am Bahnhof;Apotheke;Apotheke
+6.3190665;51.0775983;1316;NKD;Mode;Mode
+6.3189294;51.077708;1317;Wüllenweber - Mode und Accessoires;Mode;Mode
+6.319349;51.0779114;1318;Classic Kontor;Mode;Mode
+6.318674;51.078096;1320;Stern Apotheke Erkelenz;Apotheke;Apotheke
+6.318138;51.0785034;1322;Jaegers & Klingenhäger GmbH Erkelenz;Optiker;Optiker
+6.3186493;51.0786355;1324;Tee u. Geschenkartikel;Geschenkartikel;Haushaltswaren
+6.3181557;51.0787762;1326;Fielmann – Ihr Optiker;Optiker;Optiker
+6.3179863;51.0789786;1327;Apollo-Optik;Optiker;Optiker
+6.319849;51.079328;1331;Optik Schwark;Optiker;Optiker
+6.31844;51.08082;1334;Optik am AugenCentrum Erkelenz GmbH;Optiker;Optiker
+6.3174739;51.0791699;1335;Pleines Fashion Optik;Optiker;Optiker
+6.3170722;51.0795092;1339;dm-drogerie markt;Drogerie;Drogerie
+6.3166037;51.0798772;1341;Löwen-Apotheke;Apotheke;Apotheke
+6.31649;51.07997;1343;Coco Rebell;Mode;Mode
+6.31669;51.08003;1344;Corpo Boutique;Boutique;Mode
+6.3154333;51.080409;1352;Per la Donna Mode GmbH & Co. KG - Erkelenz (Büro);Mode;Mode
+6.3149181;51.0817292;1356;Gaststätte Zur Alten Burg;Gaststätte;Garten
+6.3148632;51.0810935;1357;Rheinische Post ServicePunkt;Post;Post
+6.1772347;51.0164898;1362;Blumen;Floristik;Garten
+6.3572432;51.0351133;1372;Gärtnerei Zumborn;Floristik;Garten
+6.3249689;51.0324556;1381;Monika Mohren & Ellen Mader Vitex-Moden;Mode;Mode
+6.3246064;51.0323275;1382;Adler-Apotheke;Apotheke;Apotheke
+6.3242878;51.032561;1384;Deutsche Post Filiale;Post;Post
+6.3160092;51.0316438;1385;Möbel Berger GmbH & Co. KG;Möbel;Möbel
+6.312744;51.03254;1388;H. Eicken;Garten;Garten
+6.302932;51.039176;1390;EcoFlora Dachbegrünungen e.K.;Garten;Garten
+6.318614;51.03449;1392;EDEKA Nikolaou;Einkauf;Supermarkt
+6.2833166;51.0308154;1397;Nesrin Ertas;Geschenkartikel;Haushaltswaren
+6.2791155;51.0313887;1400;Deutsche Post Filiale;Post;Post
+6.2791871;51.0359915;1404;Netto Filiale;Einkauf;Discounter
+6.2820175;51.0400975;1407;Shell;Tankstelle;Kiosk
+6.2740529;51.0309951;1413;Winand Cremer;Mode;Mode
+6.2556146;51.0383287;1438;Hermes PaketShop;Post;Post
+6.2396906;51.0439605;1440;Coraido, Cornelia Schurz;Mode;Mode
+6.2796789;51.0752906;1448;Blumen Selbst Schneiden;Floristik;Garten
+6.257184;51.0514644;1451;R&D Baumhaus;Garten;Garten
+6.2465027;51.0490488;1458;Carolas Blumenstube;Floristik;Garten
+6.2440226;51.0501004;1462;Möbel Sieben GmbH;Inneneinrichtung;Möbel
+6.25511;51.08389;1467;Röstel Pflanzen;Floristik;Garten
+6.217;51.03326;1479;REWE;Einkauf;Supermarkt
+6.2158249;51.0345858;1480;Lotto Görtz;Lotto;Kiosk
+6.2154212;51.0344322;1481;NORMA Filiale;Einkauf;Discounter
+6.21904;51.03709;1484;Betina Lengersdorf;Mode;Mode
+6.2133243;51.0356398;1486;Tanja Henßen Haubentraum;Deko;Haushaltswaren
+6.2115558;51.0399305;1487;Hilfarther Korbhaus;Möbel;Möbel
+6.2195273;51.0408506;1491;Michele Gabler-Schröder;Lotto;Kiosk
+6.2197549;51.040793;1492;Deutsche Post Filiale;Lotto;Kiosk
+6.2201858;51.0415108;1495;Rosen-Apotheke;Apotheke;Apotheke
+6.2206438;51.0416689;1496;Esser Damen- und Herrenmoden GmbH;Mode;Mode
+6.229336;51.0476965;1502;Shell;Tankstelle;Kiosk
+6.22196;51.04884;1507;Karin Krings Shopping Begleitung, Farbberatung, Stilberatung, Figurtypanalyse;Mode;Mode
+6.2284986;51.0490556;1508;Monika Thora;Mode;Mode
+6.2257601;51.0489001;1509;JET;Tankstelle;Kiosk
+6.22748;51.05068;1510;Blumen DA-Capo InH. K. Schuermann;Floristik;Garten
+6.2285735;51.0536862;1515;M. Sellger;Mode;Mode
+6.2285641;51.0533943;1517;Harald Gramzow;Garten;Garten
+6.2297233;51.0546515;1518;Sieler;Möbel;Möbel
+6.2302378;51.0548508;1519;Second-Hand;Mode;Mode
+6.2293574;51.0562773;1521;Möbelhaus der Kumpels, Inh. Hermann Josef Hausmann;Möbel;Möbel
+6.2280749;51.0561087;1522;Blumen Tenesch - Ihr Floristmeister;Floristik;Garten
+6.22453;51.05153;1535;Schibbe W.;Einrichtung;Haushaltswaren
+6.224036;51.051571;1536;Designermoden & Secondhand;Mode;Mode
+6.2247113;51.0525064;1540;Buchhandlung Wild - Hückelhoven;Buchhandlung;Buchhandlung
+6.226076;51.053681;1544;Augenblick° • Ulrich Zumfeld;Optiker;Optiker
+6.2271042;51.054579;1546;MODEPARK RÖTHER;Mode;Mode
+6.2264994;51.0538922;1547;Hermes PaketShop;Post;Post
+6.2265832;51.0552828;1548;Kiosk, türkische und arabische Lebensmittel;Kiosk;Kiosk
+6.2232238;51.0524662;1551;Haag Apotheke;Apotheke;Apotheke
+6.223201;51.0533903;1554;Herrenmoden Janssen Inh. Dirk Radeke e.K.;Mode;Mode
+6.2232231;51.0537247;1555;Marien-Apotheke;Apotheke;Apotheke
+6.2226357;51.0532772;1556;Netto;Einkauf;Discounter
+6.222592;51.05324;1557;EDEKA Plum;Einkauf;Supermarkt
+6.2221345;51.0532874;1558;ALDI SÜD;Einkauf;Discounter
+6.223148;51.0538712;1559;ONLY Women's Wear;Mode;Mode
+6.2231216;51.0539849;1561;Rossmann Drogeriemarkt;Drogerie;Drogerie
+6.223557;51.0542404;1562;KODi Diskontläden GmbH;Non-Food-Handel;Haushaltswaren
+6.2232058;51.0541904;1563;Optik Eye Design Martin Höffgen;Optiker;Optiker
+6.2237129;51.0544817;1564;Apollo-Optik;Optiker;Optiker
+6.2231202;51.0543703;1568;Ileyda Boutique;Boutique;Mode
+6.22303;51.05523;1570;St. Barbara-Apotheke;Apotheke;Apotheke
+6.22293;51.0553;1571;La Fleur Silvia Krimp;Tabak;Kiosk
+6.2233311;51.0555561;1573;Zeeman Hückelhoven Parkhofstraße;Non-Food-Handel;Haushaltswaren
+6.22292;51.0557;1574;Good Looks;Mode;Mode
+6.22218;51.056;1576;Asiatischer Supermarkt;Einkauf;Supermarkt
+6.22185;51.05629;1579;Brillen Uhren Ralf Brinkmann;Optiker;Optiker
+6.2222059;51.0563713;1580;Deutsche Post Filiale;Post;Post
+6.2211404;51.0569055;1583;DHL Packstation 111;Post;Post
+6.22079;51.0569;1584;KiK Hückelhoven;Mode;Mode
+6.2205522;51.0566026;1585;Lidl;Einkauf;Discounter
+6.2199998;51.0563409;1587;Takko;Mode;Mode
+6.2199278;51.0562819;1588;TAKKO FASHION Hückelhoven;Mode;Mode
+6.2200615;51.0563645;1589;mister*lady GmbH;Mode;Mode
+6.2198841;51.056319;1591;Jeans Fritz;Mode;Mode
+6.22091;51.05594;1593;Skupi, Ebert, Knorr GbR;Lotto;Kiosk
+6.2210014;51.0556051;1594;Kaufland Hückelhoven;Einkauf;Discounter
+6.2216955;51.0552102;1595;MAXMO Apotheke im Kaufland Hückelhoven;Einkauf;Apotheke
+6.2216758;51.0549547;1596;Adler Modemärkte AG;Mode;Mode
+6.2213295;51.0548354;1598;Ernsting's family;Mode;Mode
+6.2223723;51.0549036;1599;C&A;Mode;Mode
+6.2216215;51.0544704;1600;dm-drogerie markt;Drogerie;Drogerie
+6.2172342;51.0569974;1605;Decathlon Hückelhoven;Mode;Mode
+6.2188249;51.0571998;1606;Netto Filiale;Einkauf;Discounter
+6.22173;51.05956;1608;Zum Treffpunkt;Kiosk;Kiosk
+6.2173503;51.0527153;1615;Aral;Tankstelle;Kiosk
+6.2179963;51.0546635;1618;OBI Markt Hückelhoven;Baumarkt;Baumarkt
+6.21562;51.0563455;1619;ROLLER GmbH & Co. KG;Non-Food-Handel;Möbel
+6.2187451;51.0503674;1620;Action;Non-Food-Handel;Haushaltswaren
+6.2176175;51.0503167;1623;TEDi GmbH & Co. KG;Non-Food-Handel;Haushaltswaren
+6.2177485;51.050228;1624;Checkout Womenswear Hückelhoven;Mode;Mode
+6.2174636;51.0495528;1626;KiK Hueckelhoven;Mode;Mode
+6.2160628;51.049839;1630;hagebaumarkt Hückelhoven GmbH;Baumarkt;Baumarkt
+6.216881;51.0511453;1635;CENTERSHOP Hückelhoven;Discounter;Discounter
+6.2171925;51.0515137;1636;tedox KG;Non-Food-Handel;Haushaltswaren
+6.2003919;51.0560547;1647;Kiosk, Anhängervermietung, Autovermietung, Lipo UG;Kiosk;Kiosk
+6.1945018;51.0595835;1650;PENNY;Einkauf;Discounter
+6.1929674;51.0623302;1655;REWE;Einkauf;Supermarkt
+6.19247;51.06257;1656;NORMA Filiale;Einkauf;Discounter
+6.1929566;51.0624499;1658;easyApotheke Ratheim Center;Apotheke;Apotheke
+6.1922632;51.0621329;1659;McGas LPG Tankstelle;Tankstelle;Kiosk
+6.2135733;51.0662262;1660;Hermes PaketShop;Post;Post
+6.1908492;51.0661748;1667;Kronen Apotheke;Apotheke;Apotheke
+6.1888853;51.0655292;1668;Deutsche Post Filiale;Post;Post
+6.1877231;51.0663102;1670;PM Tankstelle;Tankstelle;Kiosk
+6.1855241;51.0686714;1672;Tankcenter;Tankstelle;Kiosk
+6.19443;51.06639;1676;N.S.B. - Moden Natürliche Schuh- und Bekleidungsmoden GmbH;Mode;Mode
+6.1916356;51.0679364;1678;Netto Filiale;Netto;Discounter
+6.18475;51.07174;1685;Müller Moden Inh. Hans Armin Müller;Mode;Mode
+6.19114;51.08169;1694;Franz Stahl;Floristik;Garten
+6.2261392;51.0731771;1695;Deutsche Post Filiale;Post;Post
+6.2183078;51.0781261;1699;Gangelter Einrichtung Maria Hilf;Einrichtung;Haushaltswaren
+6.2275267;51.0795106;1701;Herbert Hahn;Floristik;Garten
+6.2421619;51.0037186;1703;Brünker Verwaltungs GmbH;Möbel;Möbel
+6.0993227;50.9798504;1709;DHL Packstation;Post;Post
+6.0987251;50.9793114;1710;T€di;Non-Food-Handel;Haushaltswaren
+6.0987918;50.9791626;1712;KiK Geilenkirchen;Mode;Mode
+6.11126;50.96853;1721;G. Vehres;Floristik;Garten
+6.1125777;50.968846;1722;Hermes PaketShop;;Post
+6.1125777;50.968846;1723;Hermes PaketShop;Post;Post
+6.12254;50.96763;1724;CONBAM Bambus-Produkte Inh. Dipl.-Ing. Christoph Tönges;Garten;Garten
+6.1235481;50.961892;1730;Wolf Post&Shop;Post;Post
+6.105626;50.9413165;1740;Barbara Apotheke;Apotheke;Apotheke
+6.092837;50.924969;1744;Lidl;Einkauf;Discounter
+6.1142722;50.921685;1752;Hermes PaketShop;Post;Post
+6.1153156;50.9222984;1753;DHL Packstation;Post;Post
+6.1165343;50.9205804;1754;Blattwerk Silvia Schmitz;Floristik;Garten
+6.1182524;50.9200408;1757;Hermes PaketShop;Post;Post
+6.1249949;50.9171538;1763;Lotto-Postagentur Hermanns;Kiosk;Kiosk
+6.1307724;50.9208621;1768;Mobau Übach-Palenberg Handelsgesellschaft mbH;Baumarkt;Baumarkt
+6.1267338;50.9192868;1769;Gartengestaltung Linea Verde;Garten;Garten
+6.1311403;50.9197158;1772;Thomas Philipps Sonderposten;Garten;Garten
+6.1347488;50.9222208;1778;Real Getränkemarkt;Einkauf;Discounter
+6.1348208;50.9205609;1780;Hammer Fachmarkt Übach-Palenberg;Baumarkt;Baumarkt
+6.1461106;50.9145401;1799;Lidl Tyskland;Einkauf;Discounter
+6.13825;50.91415;1805;Möbel Rochtus Geschäfts- führungs-GmbH;Möbel;Möbel
+6.090754;50.972185;1824;Schlömer Garten & Stein GmbH;Garten;Garten
+6.0627904;50.9828348;1825;PetersHM In-en Verkoop van Meubels & Ontruimingen;Möbel;Möbel
+5.9045328;51.0391281;1831;SB Tankstelle, Hauptstraße, Selfkant, Duitsland;Tankstelle;Kiosk
+5.98744;51.019916;1836;Living at the Country;Mode;Mode
+6.1724713;51.0525284;1845;Blumen Dimmerling;Floristik;Garten
+6.17616;51.06953;1849;Bernhard Rütten;Garten;Garten
+6.1462926;51.039264;1869;Lambertus Apotheke, Apotheker Christopher Vaassen e.K.;Apotheke;Apotheke
+6.150146;51.0451575;1875;Netto Filiale;Einkauf;Discounter
+6.15899;51.04663;1886;Distec GmbH;Möbel;Möbel
+6.14479;51.06067;1903;Deutsche Post Filiale;Post;Post
+6.144334;51.0598991;1905;Kreuz-Apotheke;Apotheke;Apotheke
+6.1398038;51.0555401;1912;mister*lady GmbH;Mode;Mode
+6.13728;51.05375;1915;Monika Warnstedt Lotto-Toto;Kiosk;Kiosk
+6.13756;51.05154;1917;Blumenhandel Roland Lenzen e.K.;Floristik;Garten
+6.13009;51.05105;1922;W. Hermanns;Floristik;Garten
+6.1224;51.04943;1924;Bonsai-Shopping;Garten;Garten
+6.11776;51.05474;1935;Wittkens Braut & Festmode;Mode;Mode
+6.11433;51.04592;1936;Rosen Lenzen;Floristik;Garten
+6.1282219;51.0564185;1937;Rossmann Drogeriemarkt;Drogeriemarkt;Drogerie
+6.1224947;51.06088;1942;Hammer Fachmarkt Heinsberg;Baumarkt;Baumarkt
+6.1236275;51.0728172;1961;Pflanzenhof Plum;Florisitk;Garten
+6.084912;51.068901;1988;Möbel Jansen;Möbel;Möbel
+6.0816441;51.0765372;1994;Marcienne Collection;Mode;Mode
+6.10128;51.07942;1997;Forscheln Blumen und Pflanzen;Floristik;Garten
+6.0986115;51.0681681;1999;Styles4less.de;Mode;Mode
+6.0973511;51.0657105;2001;Marco polo;Mode;Mode
+6.0977027;51.0659815;2002;Stehcafe Kiosk;Kiosk;Kiosk
+6.09601;51.0646603;2006;MVZ Diaverum Erkelenz;Apotheke;Apotheke
+6.0949504;51.064298;2007;Apotheke am Medizinzentrum;Apotheke;Apotheke
+6.0947789;51.0652522;2009;Rur Apotheke;Apotheke;Apotheke
+6.09388;51.06354;2013;TEDi GmbH & Co. KG;Non-Food-Handel;Haushaltswaren
+6.09304;51.06183;2016;Moden Imkamp;Mode;Mode
+6.0928;51.06163;2017;Peter Schruff;Mode;Mode
+6.0931562;51.062314;2018;Dom Apotheke;Apotheke;Apotheke
+6.0914302;51.0618641;2020;Blumencenter Chudziak GmbH;Floristik;Garten
+6.0912954;51.0618728;2022;Hermes PaketShop;Post;Post
+6.09296;51.06138;2026;Flair Paris Inh. Carola van den Eynden;Mode;Mode
+6.0913887;51.0641186;2027;Apotheke an der Westpromenade;Apotheke;Apotheke
+6.094614;51.060943;2033;City-Moden Gerd Rademacher;Mode;Mode
+6.09488;51.06091;2034;Optik Lorenz;Optiker;Optiker
+6.09356;51.06115;2036;Geschenkhaus Schweitzer;Geschenke;Haushaltswaren
+6.09399;51.0611;2038;Pinocchio;Mode;Mode
+6.094139;51.061049;2039;Jonen Augenoptik Hörakustik;Optiker;Optiker
+6.0932527;51.0613853;2040;Damenmoden Oliver Jung;Mode;Mode
+6.09325;51.06153;2041;Kluge Wolle - Wollgeschäft;Mode;Mode
+6.0940157;51.0614793;2043;Freaky Modestore & Werbeagentur OC24;Mode;Mode
+6.0942795;51.0616422;2047;ONLY Women's Wear;Mode;Mode
+6.0946159;51.0617027;2048;BONITA GmbH;Mode;Mode
+6.0933244;51.061672;2049;Beimaiem Mode;Mode;Mode
+6.09447;51.06157;2051;Heinrichs;Mode;Mode
+6.0946533;51.0619504;2052;Gina Laura - Damenmode Heinsberg;Mode;Mode
+6.0945295;51.0622791;2053;dm-drogerie markt;Drogerie;Drogerie
+6.0948992;51.0627623;2055;Smile Optic Heinsberg - Mein Optiker;Optiker;Optiker
+6.0950258;51.0627888;2056;Mayersche Buchhandlung;Buchhandlung;Buchhandlung
+6.0952938;51.0632437;2058;KODi Diskontläden GmbH;Non-Food-Handel;Haushaltswaren
+6.0952694;51.06369;2060;Carpano Moden;Mode;Mode
+6.0943569;51.0637002;2062;Hosen- Bürsgens e.K. Inh. Harald Metzemakers;Mode;Mode
+6.0959527;51.0639446;2064;Christa Hast Ravanello + Bellino;Mode;Mode
+6.0960367;51.0640972;2065;Pretty Woman;Mode;Mode
+6.0961378;51.0642407;2067;Zeeman Heinsberg Hochstraße;Non-Food-Handel;Haushaltswaren
+6.0963074;51.064496;2068;s.Oliver;Mode;Mode
+6.0956922;51.0643359;2069;Loreen;Mode;Mode
+6.094953;51.06162;2071;Herrenmoden Stamm;Mode;Mode
+6.0952009;51.0624262;2079;DEPOT;Non-Food-Handel;Haushaltswaren
+6.0952068;51.0625316;2080;Marien-Apotheke;Apotheke;Apotheke
+6.0957413;51.0632225;2086;Müller Drogeriemarkt;Drogerie;Drogerie
+6.095838;51.0633364;2087;Handelshaus Heinrichs GmbH & Co. KG;Mode;Mode
+6.0959062;51.0634176;2088;Buchhandlung Gollenstede;Buchhandlung;Buchhandlung
+6.09653;51.064437;2090;St. Gangolfs Apotheke;Apotheke;Apotheke
+6.0963484;51.0642118;2092;Ute Sonnenschein;Deko;Haushaltswaren
+6.0963161;51.0641206;2093;Jagdhaus GmbH;Mode;Mode
+6.09628;51.063935;2094;Floria Blumen Heinsberg;Floristik;Garten
+6.0963052;51.0638694;2095;Marktstand Waldfeuchter Garten;Garten;Garten
+6.0982472;51.0655642;2107;Michael Bauer;Floristik;Garten
+6.0985447;51.0654427;2109;Edeka Kahn;Einkauf;Supermarkt
+6.0981;51.06544;2112;Rossmann Drogeriemarkt;Drogerie;Drogerie
+6.098047;51.064658;2113;Falken Apotheke;Apotheke;Apotheke
+6.1098898;51.0638454;2121;Mobau Wirtz Baumärkte - Heinsberg;Baumarkt;Baumarkt
+6.1048333;51.0653317;2124;DPD Pickup Paketshop;Post;Post
+6.106654;51.0685567;2130;Marken Outlet;Mode;Mode
+6.10657;51.06835;2131;Heinz Ströde Möbelhaus;Möbel;Möbel
+6.1125536;51.0651027;2135;Schaffrath Wohnkaufhaus Heinsberg;Inneneinrichtung;Möbel
+6.1099149;51.0671485;2148;easyApotheke Heinsberg;Apotheke;Apotheke
+6.11214;51.06653;2150;Blumen Risse;Floristik;Garten
+6.0920343;50.9901631;2160;Ingrid Lenzner;Floristik;Garten
+6.0651741;51.0218175;2174;Fell M.;Garten;Garten
+6.0599239;51.0809957;1413;TOTAL Mineralöl GmbH - Kundenzentrum Heinsberg;Tankstelle;Kiosk
+5.9095436;51.0555823;1227;Westdeutsche Apotheken-agentur Fritz Herlet;Apotheke;Apotheke
+6.1130181;50.9241138;908;DEPOT;Mode;Mode
+6.123036;50.9628867;1285;Optik;Optik;Optiker
+6.33468;51.08146;2079;Ophelders Wintergärten;Inneneinrichtung;Möbel
+6.1928743;51.0576049;2531;Optique Exquisite e.K.;Optiker;Optiker
+6.10567;50.9414895;2654;Hans Hall;Optiker;Optiker
+6.14953;51.06241;2932;Theo Jansen;Inneneinrichtung;Möbel
+6.1194494;51.0670455;3005;Audiodev GmbH;Optiker;Optiker
+6.0939449;51.0609687;3124;Augenoptik Hörakustik Jaegers GmbH & Co. KG;Optiker;Optiker
+6.0940543;51.0632302;3133;Home Instead im Kreis Heinsberg;Mode;Mode
+6.1412639;51.0558805;84;REWE;Einkauf;Supermarkt
+6.0918401;51.0642106;85;ALDI SÜD;Einkauf;Discounter
+6.0999641;51.0661503;86;Lidl;Einkauf;Discounter
+6.1094958;51.067961;87;ALDI SÜD;Einkauf;Discounter
+6.1048845;51.0651122;88;REWE Center;Einkauf;Supermarkt
+6.1286277;51.0562391;89;Lidl;Einkauf;Discounter
+6.1187449;51.0595391;90;Netto Filiale;Einakuf;Discounter
+6.1101991;51.0694528;91;real;Einkauf;Discounter
+6.1440882;51.0597947;93;NORMA Filiale;Einkauf;Discounter
+6.0950003;51.0596004;94;NORMA Filiale;Einkauf;Discounter
+6.0712663;51.102174;95;NORMA Filiale;Einkauf;Discounter
+6.1508058;51.0451137;96;Netto Filiale;Einkauf;Discounter
+6.1377321;50.911609;97;Netto Filiale;Êinkauf;Discounter
+6.12723;50.96608;210;Damberg Lyne von de Berg;Mode;Mode
+6.1432149;50.9728534;216;by Jewelzzz GmbH;Mode;Mode
+6.1239828;50.962803;300;Apotheke;Apotheke;Apotheke
+6.2258561;51.0489793;33;SPAR Express;Einkauf;Supermarkt

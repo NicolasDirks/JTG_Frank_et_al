@@ -1,0 +1,775 @@
+﻿x;y;gid;Name;description;new
+6.1133855;50.9207491;18;MEGA FUN CASINO;Casino;Casino
+6.0927614;50.9733063;35;MERKUR Spielothek;Spielothek;Casino
+5.9949372;50.993183;44;PP Power Play GmbH;Spielothek;Casino
+6.3215559;51.0753454;203;Mega Fun Casino;Casino;Casino
+6.3147989;51.0780334;210;Merkur Spielothek;Spielothek;Casino
+6.3149025;51.078042;211;Spiel Halle;Spielhalle;Casino
+6.3151598;51.0780449;212;Casino Royal GmbH;Casino;Casino
+6.3100701;51.077851;208;Gloria Filmpalast;Kino;Kino
+6.2224326;51.0428023;240;Corso Filmpalast;Kino;Kino
+6.0949227;51.0618375;302;Roxy Filmtheater;Kino;Kino
+6.28274;51.1588;167;Förder- und Muesumsverein Schrofmühle Rickelrath e.V.;Museum;Museum
+6.3228819;51.0321271;225;Feuerwehrmuseum;Museum;Museum
+6.21915;51.03682;238;Rurtal-Korbmacher e.V. Museum Hilfarth;Museum;Museum
+6.2225;51.06038;246;Mineralien- und Bergbaumuseum;Museum;Museum
+5.9911545;51.0542725;1364;Radio Museum Bocket;Museum;Museum
+6.0379063;51.0622891;76;Musikverein Braunsrath;Musikverein;Musik
+6.0176601;51.0735626;81;Musikverein Obspringen;Musikverein;Musik
+6.3074291;51.0796108;197;Kreismusikschule Heinsberg;Musikschule;Musik
+6.18214;51.01745;221;Musikverein St. Josef Horst e.V.;Musikverein;Musik
+6.1026847;51.0577224;190;Jugendmusikschule Heinsberg e.V.;Jugendmusikschule;Musik
+6.12045;50.96471;1037;Musikschule Geilenkirchen e.V.;Musikschule;Musik
+6.12045;50.96471;1037;Musikschule Geilenkirchen e.V.;Musikschule;Musik
+6.1360234;50.9130635;7;Förderverein Freibad Übach-Palenberg e.V.;Freibad;Schwimmbad
+6.2249304;51.0165113;70;Freibad Brachelen (Kiosk-Frittenbude);Freibad;Schwimmbad
+6.0240913;51.0910856;84;Hallenbad Haaren;Schwimmbad;Schwimmbad
+6.07735;51.07784;92;Freibad Kirchhoven;Freibad;Schwimmbad
+6.093462;51.1304235;99;Amici Beach Park;Aquapark;Schwimmbad
+6.1462984;51.0963612;109;Parkbad Wassenberg;Schwimmbad;Schwimmbad
+6.2184491;51.0975899;125;Hallenbad Erkelenz-Gerderath;Hallenbad;Schwimmbad
+6.2824088;51.1348532;152;GrenzlandRingBad;Hallenbad;Schwimmbad
+6.3118143;51.0803969;218;Schwimmbad;Schwimmbad;Schwimmbad
+6.3101978;51.0808774;220;ERKA-Bad;Schwimmbad;Schwimmbad
+6.2247195;51.0560244;243;Freizeitbad Hückelhoven;Freizeitbad;Schwimmbad
+6.2244171;51.0558259;244;Wasserspielplatz;Wasserspielplatz;Schwimmbad
+6.1042819;51.058656;303;Hallenbad Heinsberg;Hallenbad;Schwimmbad
+6.1140739;50.9150781;895;Ü-Bad;Freibad;Schwimmbad
+6.11194;50.92312;905;Schwimmsportschule Übach-Palenberg;Schwimmbad;Schwimmbad
+6.0493947;50.9996463;1;Fußball;Fußball;Sport
+6.1454178;51.0566891;2;THE FITNESS POOL;Fitness;Sport
+6.1180388;50.981927;6;Tanzschule Theißen;;Sport
+6.1170138;50.9149056;8;VfR Verein für Rasenspiele Übach-Palenberg e.V.;Fußball;Sport
+6.0859674;50.9299608;9;Tischfußballclub Marienberg;Tischtennis;Sport
+6.0681501;50.9306701;10;Reiterverein 1974 e.V. Scherpenseel Reiterstube;Reiten;Sport
+6.0653973;50.9310795;11;SV 09 Scherpenseel-Grotenrath e.V.;Sportverein;Sport
+6.1165299;50.9128277;12;Tennisplatz Übach;Tennis;Sport
+6.115;50.91459;13;VfR Übach-Palenberg e.V. Fussballabteilung;Fußball;Sport
+6.14241;50.91794;14;LaOla Fussballcenter Übach-Palenberg;Fußball;Sport
+6.1149198;50.9187631;15;VfR Übach-Palenberg e.V.;Fußball;Sport
+6.1170854;50.9148456;16;Sport Platz;Sportplatz;Sport
+6.0692688;50.9570872;23;F.C. Germania 1910 Teveren e.V.;Fußball;Sport
+6.13707;50.941377;24;Reiterverein Geilenkirchen;Reiten;Sport
+6.1261347;50.9684446;25;Tennis-Club Rot-Weiß 1970 e.V. Geilenkirchen;Tennis;Sport
+6.110469;50.9583468;26;FSV 09 Geilenkirchen-Hünshoven e.V;Sportverein;Sport
+6.12226;50.96672;28;Leichtathletik Club Phönix Geilenkirchen 1993 e.V.;Leichtathletik;Sport
+6.1274141;50.970326;30;Budo Sport Club Geilenkirchen eV;Sport;Sport
+6.1249011;50.9754082;31;Allgemeiner TV 1927 Geilenkirchen e.V.;Turnverein;Sport
+6.1102572;50.9729793;32;Schachfreunde Geilenkirchen 1984;Schach;Sport
+6.1461341;50.9608594;33;LOHERHOF - Sportpark. Golfanlage. Restaurant.;Golfanlage;Sport
+6.1204992;50.9712315;34;Mega Fun Bowling;Bowling;Sport
+6.11868;50.97851;37;Schachfreunde Erkelenz 1959 e.V.;Schach;Sport
+6.0420166;50.9798951;40;FC Concordia 1926 Stahe-Niederbusch;Fußball;Sport
+6.0404039;50.9792536;41;RuFV Rodebachtal u. Umg. 1973 e.V.;Fußball;Sport
+6.0429788;50.9799021;42;DS Reitschule;Reiten;Sport
+5.9976872;50.9861399;43;Freibad Gangelt;Freibad;Sport
+5.9320137;51.0039354;45;TC Selfkant Westerheide e.V.;Tennis;Sport
+5.9199102;50.9809343;46;SV Hillensberg 1954 Fußballverein Hans Feitz;Fußball;Sport
+5.8992345;51.0122213;47;V.f.R. 1912 Tüddern e.V.;Fußball;Sport
+6.00533;51.00901;48;QiAcademy;Kampfkunst;Sport
+5.9950983;51.0335489;52;Reitsport Houben;Reiten;Sport
+6.0517944;51.0002973;54;Tennisclub;Tennisclub;Sport
+6.0544728;51.008904;56;Fußball;Fußball;Sport
+6.0575496;51.0109796;57;Fußball;Fußball;Sport
+6.1928755;50.9531588;60;Vereinsheim;Fußball;Sport
+6.1666568;50.9903765;61;Reitsport;Reiten;Sport
+6.1639987;51.0032365;63;Fußballverein;Fußball;Sport
+6.2419491;51.0080297;68;SV 1910 Brachelen e.V.;Sportverein;Sport
+6.0075211;51.0537365;73;SV Waldfeucht-Bocket e.V.;Sportverein;Sport
+5.999595;51.0626618;78;Islandpferdehof Frilinghoven;Reiten;Sport
+5.994444;51.071279;79;TuS Freizeitpark Waldfeucht e.V.;Sportverein;Sport
+6.026144;51.0924988;85;TC Haaren 75 e.V.;Turnverein;Sport
+6.0387279;51.0939218;87;Concordia 1912 Haaren e.V. Sportheim;Sportverein;Sport
+6.0530953;51.0867095;89;Reit- und Fahrgemeinschaft Vinn e.V.;Reitgemeinschaft;Sport
+6.0714591;51.0999513;94;SV Grün-Weiß Karken 1928 e.V.;Sportverein;Sport
+6.080064;51.11696;98;MFC Karken;Fußball;Sport
+6.0977399;51.1281147;100;SV Adler Effeld e.V.;Sportverein;Sport
+6.0960809;51.0946678;101;Eintracht Kempen Jgd.;Fußballverein;Sport
+6.1041942;51.0926506;102;FC Eintracht 1910 Kempen e.V. Harald Winkens;Fußball;Sport
+6.1044817;51.0952276;103;FC Eintracht Kempen;Fußball;Sport
+6.0983291;51.1070348;104;Ophoven Sportplatz;Sportplatz;Sport
+6.1138819;51.1068961;106;Kringshof Wassenberg;Reiten;Sport
+6.1235539;51.1125715;107;Crowfieldranch;Reiten;Sport
+6.1616055;51.0970474;112;TC Blau Gold Wassenberg e.V.;Sportverein;Sport
+6.1830019;51.0963393;114;SC 1920 Myhl e.V.;Sportverein;Sport
+6.18555;51.09662;115;SC Myhl Leichtathletik e.V.;Sportverein;Sport
+6.168542;51.1044087;118;Sporthalle;Sporthalle;Sport
+6.2075759;51.0994966;124;SV Grün-Weiß Sparta Gerderath 1923 e.V.;Sportverein;Sport
+6.3084127;51.1335599;131;Budo Club Wegberg e.V.;Kampfsport;Sport
+6.2003452;51.1193116;133;SV Helpenstein E.V.;Sportverein;Sport
+6.2014572;51.1213251;134;SV Helpenstein;Sportverein;Sport
+6.236454;51.118381;135;Golf Club Wildenrath e. V.;Golf;Sport
+6.1519753;51.1186438;137;FC Concordia Birgelen e.V.;Fußball;Sport
+6.13087;51.137803;138;Golf Club Residenz Rothenbach;^Golf;Sport
+6.2558366;51.138987;146;SV Klinkum Fussball Platz;Sportplatz;Sport
+6.2548494;51.1392148;147;Spielverein Klinkum 1919 e.V. Wegberg-Klinkum;Sportverein;Sport
+6.2384219;51.1333728;150;Johann Büschgens;Badminton;Sport
+6.2875298;51.1331678;151;Rasentrainingsplatz HSV Wegberg;Sportplatz;Sport
+6.3067582;51.138032;158;JFC Jugend-Fußballclub Wegberg-Beeck e.V.;Fußball;Sport
+6.2822274;51.1504723;160;Günter Bennemann - Tenniscenter Wegberg;Tennis;Sport
+6.2260871;51.1572431;162;Golf- und Landclub Schmitzhof e.V.;Golf;Sport
+6.23495;51.16024;163;Reitanlage Merbeck;Reiten;Sport
+6.2748638;51.1692554;168;Thomeshof Wanderreiten;Reiten;Sport
+6.32032;51.12972;171;Fußballclub FC Viktoria Wegberg 1985 e.V.;Fußball;Sport
+6.332849;51.1172407;173;SC Viktoria Rath-Anhoven e.V.;Sportverein;Sport
+6.3726131;51.0941493;174;SV Schwarz-Gelb Venrath 1932 e.V.;Sportverein;Sport
+6.4072706;51.0930016;175;Mönchengladbacher Golfsport GmbH;Golf;Sport
+6.4088611;51.0819511;180;TuS Keyenberg;Turnverein;Sport
+6.3905819;51.0522311;181;SV Holzweiler 1920 e.V.;Sportverein;Sport
+6.3470391;51.0605934;185;TuS Germania 1912 e.V. Kückhoven;Fußball;Sport
+6.2945661;51.1245698;187;Sportfreunde 1930 Uevekoven e.V.;Sportverein;Sport
+6.29971;51.04861;190;VfR Granterath 1919 e.V.;Fußball;Sport
+6.3016;51.05929;192;Ferdinand Coenen;Reiten;Sport
+6.30238;51.06297;193;Reiten in Erkelenz;Reiten;Sport
+6.303274;51.0759997;196;La Vida Loca;Tanzverrein;Sport
+6.3285498;51.0951149;199;Mehrzweckhalle Borschemich-Neu;Mehrzweckhalle;Sport
+6.32971;51.07273;202;Tanzschule ADTV Gaspers;Tanzschule;Sport
+6.33236;51.08002;205;Klaus Hundertmark;Sportpark;Sport
+6.3142551;51.084033;207;Tennisclub Blau-Weiß 1912 e.V. Erkelenz;Tennisclub;Sport
+6.3143665;51.0779355;209;Ballett & Bewegung, Martina Hardt;Ballet;Sport
+6.3102144;51.0798578;219;SC09 Erkelenz e.V.;Fußball;Sport
+6.3508265;51.036163;222;Sportplatz Katzem;Sportplatz;Sport
+6.3334036;51.0335883;223;Stadion am Hötzelenberg;Stadion;Sport
+6.3312867;51.0346595;224;Rock n Roll Cycles;Tanzen;Sport
+6.2730341;51.0578041;230;Mehrzweckhalle Hetzerath;Mehrzweckhalle;Sport
+6.2750916;51.0984835;232;Ballett-Studio Schwanensee;Ballett;Sport
+6.2463713;51.0538046;233;FC Viktoria Doveren 1910 e.V.;Fußball;Sport
+6.239572;51.1024765;236;Reiterhof Stefan von der Forst;Reiten;Sport
+6.20998;51.0313803;237;TuS Jahn Hilfarth e.V.;Fußball;Sport
+6.22202;51.04043;239;Kampfsport Hückelhoven;Kampfsport;Sport
+6.2185423;51.0538562;247;Skateanlage;Skatepark;Sport
+6.21126;51.05134;249;Air-Power-Arena;Arena;Sport
+6.2038489;51.0544366;250;S.V. Roland Millich 1930 e.V.;Sportverein;Sport
+6.21535;51.06615;251;Boxclub Hückelhoven 1931 e.V.;Boxclub;Sport
+6.2036;51.0719;253;Reitstall Willi Schreinemacher;Reitstall;Sport
+6.2042613;51.0799498;255;LSV Rurtal;Fußball;Sport
+6.1071627;50.9729378;261;FC 09 Germania Bauchem;Fußball;Sport
+6.1443323;50.9619492;263;Golfpark Loherhof;Golf;Sport
+6.09573;50.91812;267;Reitsportanlage Achim Maaßen;Reiten;Sport
+6.031002;51.0202744;274;SVG Birgden-Langbroich-Schierwaldenrath 2012 e.V.;Sportverein;Sport
+6.178097;51.0597711;281;V F J 1912 Ratheim;Fußball;Sport
+6.1561847;51.0909427;284;1.FC Wassenberg-Orsbeck 09/19 e.V.;Fußball;Sport
+6.1480822;51.0444844;285;Tennisclub Dremmen;Tennis;Sport
+6.1462981;51.0568193;288;Stadion Oberbruch;Stadion;Sport
+6.1411121;51.0528745;290;BC 09 Oberbruch Jugendabteilung;Fußball;Sport
+6.11606;51.05469;294;FC Union Schafhausen e.V.;Fußball;Sport
+6.0886124;51.0715208;295;Tennisclub Lieck e.V.;Tennis;Sport
+6.0882396;51.0722472;296;1.FC 1910 Heinsberg-Lieck e.V.;Fußball;Sport
+6.0912941;51.0630619;300;Heinsberg Lions;Basketball;Sport
+6.09097;51.01052;305;Straeten e.V.;Tischtennis;Sport
+6.090379;51.013616;306;TTC Straeten 1974 e.V.;Tischtennis;Sport
+6.0642282;51.0235917;307;Reitsportzentrum Pütt - Armin Scheuvens;Reiten;Sport
+6.10718;51.03693;308;Reit- und Pensionsstall Honold;Reiten;Sport
+6.24673;51.17135;94;ThoMassage - ayurveda - wellness - fitness;Fitness;Sport
+6.1471891;51.0583427;170;TuS Oberbruch 1909 e.V.;Turnverein;Sport
+6.1016664;51.0575272;189;Turnhalle Realschule im Klevchen;Turnhalle;Sport
+6.11014;50.92182;892;Kun-Tao Übach e.V.;Kampfsport;Sport
+6.1456557;50.9148768;894;Absolut Fit & Dance;Fitness;Sport
+6.1138111;50.9151897;899;Fitness 4 U;Fitness;Sport
+6.1242724;50.9185019;900;DJK Übach-Palenberg e.V. - Turnhalle;Turnhalle;Sport
+6.0994645;50.9244107;911;World Of Fitness 6;Fitness;Sport
+6.1154676;50.9214063;924;SPORT HINTZEN;Sport;Sport
+6.099464;50.925321;925;Insane Sports;Sport;Sport
+6.0991459;50.9255547;926;Ug - Sports Kampfsport & Fitness;Sport;Sport
+6.1073622;50.9278582;938;Werksportplatz SV Rot Weiss Schlafhorst;Sportplatz;Sport
+6.0970246;50.926532;950;SV Marienberg 1971 e.V.;Sportverein;Sport
+6.11086;50.94275;967;Behindertensportverein e.V.;Sport;Sport
+6.1000078;50.946605;971;Turn- und Sportverein 1909 Rot-Weiß Frelenberg;Sportverein;Sport
+6.1261011;50.9675141;1024;Sporthalle der Städtischen Realschule Geilenkirchen;Sporthalle;Sport
+6.1186856;50.9838066;1031;Fitness-Gym Geilenkirchen;Fitness;Sport
+6.11687;50.98316;1032;World of Fitness;Fitness;Sport
+6.1118827;50.9829803;1033;COREFIT - HB Core Training;Fitness;Sport
+6.11104;50.98266;1034;Hua Long Kampfkunstcenter (Wing Chun Kung Fu und Selbstverteidigung );Sport;Sport
+6.1041801;50.9789001;1035;VITAL center;Fitness;Sport
+6.1185984;50.9640208;1036;Ballettstudio;Ballett;Sport
+6.1091248;50.972353;1059;Sportzentrum Geilenkirchen;;Sport
+6.1190841;50.9625023;1065;Joysira Yoga, Dance & Fitness;Fitness;Sport
+5.9973539;50.9870325;1120;SG Gangelt-Hastenrath e. V;Sport;Sport
+5.9708953;51.0018748;1158;Hastenrath Sportplatz;Sportplatz;Sport
+5.9893264;51.0231893;1233;Sportverein 1920 Blau-Weiß Breberen;Sportverein;Sport
+6.06337;51.00448;1264;Fitnessstudio GrenzenlosGesund;Fitness;Sport
+6.169078;50.9496096;1297;Sportpaltz;Sportplatz;Sport
+6.2141426;50.9815112;1327;Pferdepension;Pferde;Sport
+6.1440211;51.0971541;1498;Oliver Wiza Fitneßstudio;Fitness;Sport
+6.1830597;51.1015636;1572;i2-fitness GmbH Wassenberg;Fitness;Sport
+6.1614765;51.1011633;1588;Felix Marx;Pferde;Sport
+6.17556;51.11278;1607;Freizeitreitschule Cremer;Reiten;Sport
+6.2819732;51.1351894;1703;Sporthalle;Sporthalle;Sport
+6.2787119;51.1370334;1706;Turnhalle Hauptschule;Turnhalle;Sport
+6.2793555;51.1437506;1746;EASYFITNESS Wegberg;Fitness;Sport
+6.28447;51.1488;1784;Activ Centrum Wegberg GmbH;Fitness;Sport
+6.2263334;51.1539062;1808;Gestüt Glimbach GmbH;Pferde;Sport
+6.3187883;51.1082738;1922;Triangle-B Reininghorses;Reiten;Sport
+6.3114557;51.0675199;1984;b-one Club;Fitness;Sport
+6.3054144;51.0730527;2009;i2-fitness GmbH;Fitness;Sport
+6.3166912;51.0722907;2041;Fitness Hall Erkelenz;Fitness;Sport
+6.3242717;51.0741812;2063;Forum Sport- und Gesundheitszentrum Erkelenz;Fitness;Sport
+6.31296;51.08066;2211;Turnverein Erkelenz 1860 e.V.;Turnverein;Sport
+6.35173;51.0350265;2245;Haflinger Gestüt Dawinenhof;Reiten;Sport
+6.3204211;51.0320009;2265;Spiel-und Turnverein 1919 Lövenich e.V.;Turnverein;Sport
+6.2820392;51.0414384;2296;SV Baal 1912 e.V.;Sportverein;Sport
+6.2654;51.05841;2321;Yoga Schule Jana Ludwicki und Praxis für Ortho-Bionomy®;Yoga;Sport
+6.2801212;51.1018916;2340;TV Schwanenberg e. V;Turnverein;Sport
+6.277123;51.103038;2342;"SV ""Schwarz-Weiss"" Schwanenberg 1931 e.V.";Sportverein;Sport
+6.22779;51.04576;2406;FitnessKing Hückelhoven;Fitness;Sport
+6.23034;51.04758;2410;Bodyimpuls;Fitness;Sport
+6.2155667;51.0487751;2500;Flow Fitness GmbH;Fitness;Sport
+6.20563;51.06143;2534;Ivos Fitness World;Fitness;Sport
+6.21064;51.06579;2538;Reiner Klinken Reitsportartikel;Reiten;Sport
+6.12038;50.96351;2629;Jaud S.;Ballet;Sport
+6.0714411;50.9303999;2759;Andreas Rudolf Wintgens;Reitschule;Sport
+6.05651;50.92221;2765;Dressurausbildungsstall Marcel Wolf;Reiten;Sport
+5.883548;51.037952;2793;Gut Schaesberg UG (haftungsbeschränkt);Pferde;Sport
+5.8843312;51.0376642;2794;Drs. B.Th. Horsmans;Pferde;Sport
+5.9048175;51.0399248;2795;Reit und Fahrverein Selfkant;Reitverein;Sport
+6.027213;51.0053651;2813;Michael Heuter;Pferde;Sport
+6.1773064;51.0412251;2829;Sportplatz Porselen;Sportplatz;Sport
+6.178103;51.0706265;2852;TV Hückelhoven-Ratheim e.V.;Turnverein;Sport
+6.1640137;51.0746789;2855;Pescherhof (Fam. Thönnissen);Reiten;Sport
+6.1550662;51.0912594;2873;Fußballplatz;Sportplatz;Sport
+6.1468;51.04084;2891;Ars Vivendi - Tanzschule & Eventlocation;Tanzschule;Sport
+6.15302;51.04414;2905;TuS Rheinland Dremmen e.V.;Turnverein;Sport
+6.1176235;51.0507147;2968;"Sportplatz ""Im Kuhlert""";Sportplatz;Sport
+6.11289;51.05382;2971;Reit- u. Fahrverein Rodebachtal und Umgebung e.V.;Reitverein;Sport
+6.1135154;51.0582993;2992;"Sportplatz ""Driescher Kempen""";Sportplatz;Sport
+6.0616;51.08096;3021;PMC - Pferdesport Mobil Coenen - Ausbildung & Zubehör;Pferdesport;Sport
+6.1113006;51.0703044;3028;Active Fitness & Gesundheits - Center Heinsberg;Fitness;Sport
+6.0759604;51.07272;3047;SSV Blau Weiß Kirchhoven 1910 e. V;Sportverein;Sport
+6.10502;51.06354;3164;World Of Fitness 19;Sport;Sport
+6.0730509;51.0483888;3255;SVG Aphoven-Laffeld 1928/31 e.V.;Sportverein;Sport
+6.0202271;51.0721488;3269;Janek Vluggen;Pferde;Sport
+6.1456557;50.9148768;113;Absolut Fit & Dance;Fitnessstudio;Sport
+6.0570936;51.0092472;3;Theater;Theater;Theater
+6.1011196;50.9246915;17;Theater Traumkarussell;Theater;Theater
+6.1007516;50.9247904;19;Traumkarussell Theater;Theater;Theater
+6.0995952;50.9255006;20;Tanzzentrum Step4ward & Eventlocation Kupferschmiede;Tanzen;Theater
+6.11004;50.95714;21;Thursday Evening Band;Theater;Theater
+6.0382266;50.9786462;39;Lunatic;Theater;Theater
+5.987994;51.0224754;49;Paint My Horse Green;Theater;Theater
+6.0146499;51.0185361;53;Laienspielgruppe Langbröker Selfkanttheater;Theater;Theater
+6.0518709;51.0092588;55;Theater;Theater;Theater
+6.2397791;51.0064568;67;Kaisersaal;Theater;Theater
+6.05603;51.08594;90;Plahnlos;Theater;Theater
+6.1864693;51.1062035;120;hi tereska;Theater;Theater
+6.2846307;51.0311182;226;Freisinn Baal;Theater;Theater
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;

@@ -1,0 +1,636 @@
+﻿x;y;gid;Name;description;new
+6.0974121;51.0657757;1;Pietros Pizzalinie Heinsberg;Pizzeria;Restaurant
+6.0950365;51.0593234;2;Vinoteca Heinsberg;Restaurant;Restaurant
+6.1263256;51.073966;3;Restaurant Croatia;restaurant;Restaurant
+6.0928732;51.0608841;4;Hoa Mai;Restaurant;Restaurant
+6.13683;51.05382;5;Estoril;Restaurant;Restaurant
+6.09526;51.06357;6;MännerMetzger by OTTO GOURMET;Metzgerei;Metzger
+6.0934317;51.0611966;7;Tempura Sushi;Sushi;Restaurant
+6.09691;51.06388;8;Restaurant Medaillon;Restaurant;Restaurant
+6.09797;51.06544;9;China Garten Restaurant Heinsberg;Restaurant;Restaurant
+6.0963209;51.0634555;10;Jasmin Döner;Imbiss;Restaurant
+6.0837824;51.0686869;11;Jasmin 1 Döner imbiss;Imbiss;Restaurant
+6.14029;51.06215;12;Altstadt Oberbruch - Pizzeria & Kebap Haus;Pizzeria;Restaurant
+6.0949765;51.0619236;13;Viet Bistro;Restaurant;Restaurant
+6.0948997;51.0595968;14;Döner Akdeniz Heinsberg;Imbiss;Restaurant
+6.0961862;51.0643734;15;Lychees;Imbiss;Restaurant
+6.0950065;51.0597006;16;Arin Gyros Grill Heinsberg;Imbiss;Restaurant
+6.1427542;51.0589338;17;Helena Grill;Imbiss;Restaurant
+6.07691;51.09863;18;City- Snack;Imbiss;Restaurant
+6.1449688;51.0395788;19;Zum Grillhahn;Imbiss;Restaurant
+6.1005981;51.0658028;20;McDonald's Restaurant;Restaurant;Restaurant
+6.115807;51.0615779;21;Bäcker Dick GmbH;Bäckerei;Baecker
+6.0942389;51.063561;22;Kremers-Kupietz GmbH;Bäckerei;Baecker
+6.1541448;51.0487351;23;Bäcker Dick GmbH;Bäckerei;Baecker
+6.1456328;51.0609071;24;Bäcker Dick GmbH;Bäckerei;Baecker
+6.0947879;51.0624246;25;Bäcker Dick GmbH;Bäckerei;Baecker
+6.07104;51.07552;26;Bäcker Dick GmbH;Bäckerei;Baecker
+6.0962567;51.0647428;27;Landbäckerei Stinges;Bäckerei;Baecker
+6.1286232;51.0561356;28;Landbäckerei Stinges;Bäckerei;Baecker
+6.0796193;51.1018539;29;Kremers-Kupietz GmbH;Bäckerei;Baecker
+6.09526;51.06256;30;Kamps Bäckerei;Bäckerei;Baecker
+6.1097045;51.0689865;31;Restaurant Mahlzeit;Restaurant;Restaurant
+6.098426;51.0660071;32;Heinsbürger;Restaurant;Restaurant
+6.0942389;51.063561;33;Kremers-Kupietz GmbH;Bäckerei;Baecker
+6.0796193;51.1018539;34;Kremers-Kupietz GmbH;Bäckerei;Baecker
+6.0934339;51.0774015;35;Bootshaus am Lago Laprello;Restaurant;Restaurant
+6.13683;51.05382;36;Estoril;Restaurant;Restaurant
+6.1188747;51.0601171;37;Burger King Heinsberg;Restaurant;Restaurant
+6.1200414;51.0599771;38;Back Bulli;Bäckerei;Baecker
+6.0975613;51.0658823;39;Grillmaster;Restaurant;Restaurant
+6.0985171;51.0654143;40;Bäckerei Büsch;Bäckerei;Baecker
+6.0954558;51.0598353;41;Pizzeria Rustica;Pizzeria;Restaurant
+6.0971225;51.0618285;42;Pizzeria Roma;Pizzeria;Restaurant
+6.0974121;51.0657757;43;Pietros Pizzalinie Heinsberg;Pizzeria;Restaurant
+6.090491;51.0587247;44;"""Ristorante Pizzeria Genio Il Mito";Pizzeria;Restaurant
+6.0936426;51.0631342;45;Pizzeria Kebaphaus;Pizzeria;Restaurant
+6.0945622;51.0612614;46;a Casa Restaurant;Restaurant;Restaurant
+6.07295;51.07433;47;Pizzeria Pane e Vino;Pizzeria;Restaurant
+6.070078;51.103681;48;Pizzeria il Genio(Karken);Pizzeria;Restaurant
+6.1450057;51.0601474;49;Pizzeria Rustica III;Pizzeria;Restaurant
+6.06872;51.10492;50;Pizzeria il Gargano;Pizzeria;Restaurant
+6.0940114;51.0621471;51;Stadthalle-Ratskeller Heinsberg;Restaurant;Restaurant
+6.0957694;51.0621851;52;Landbäckerei Stinges;Bäckerei;Baecker
+6.0954913;51.0620202;53;Gaststätte Le Journal;Gaststätte;Restaurant
+6.09491;51.06108;54;Grillmaster;Restaurant;Restaurant
+6.09204;51.0591;55;früh'HS;Gaststätte;Restaurant
+6.0925481;51.0605932;56;Restaurant Sto-Hani;Restaurant;Restaurant
+6.0931126;51.0629672;57;Don Quijote - Tapas y mas;Restaurant;Restaurant
+6.08185;51.07156;58;Hubert Vogten Bäckerei;Bäckerei;Baecker
+6.1175934;51.0906389;60;Kempener Hof;Restaurant;Restaurant
+6.11683;51.09264;61;B+G Gastro GmbH & Co. KG;Restaurant;Restaurant
+6.1015157;51.0923324;62;Bäckerei Tholen;Bäckerei;Baecker
+6.07828;51.09691;63;Gaststätte Randerath (Rös);Gaststätte;Restaurant
+6.0785173;51.0976429;64;Bäcker Dick GmbH;Bäckerei;Baecker
+6.07958;51.10416;65;Ursula Pohlen;Restaurant;Restaurant
+6.0964837;51.0633954;66;"das ""kleine"" Steakhouse GmbH";Restaurant;Restaurant
+6.144989;51.039523;67;Gyros Pitta;Imbiss;Restaurant
+6.14495;51.03941;68;Landbäckerei Stinges;Bäckerei;Baecker
+6.100338;51.066832;69;Restaurant Weidenhof;Restaurant;Restaurant
+6.0990484;51.066841;70;Restaurant Hellas;Restaurant;Restaurant
+6.0972746;51.0634311;71;Campus live;Restaurant;Restaurant
+6.0902731;51.0655038;72;Margarida Maria Santos Imbiss;Imbiss;Restaurant
+6.073279;51.07372;73;Gasthaus Bodens;Gaststätte;Restaurant
+6.03718;51.09017;74;Zum Imbiss bei Manni;Imbiss;Restaurant
+6.0356265;51.0900699;75;Spezialitäten Restaurant Braustube e.K.;Restaurant;Restaurant
+6.0221366;51.0858927;76;"Landgasthof ""Haus Lutgen""";Restaurant;Restaurant
+6.0334444;51.0956072;77;Café Restaurant 't Berghoes;Restaurant;Restaurant
+6.0189696;51.0890585;78;Pizzeria;Pizzeria;Restaurant
+5.9931503;51.0715612;79;Restaurant Am Bolleberg;Restaurant;Restaurant
+6.141707;51.060123;80;Otto Gourmet GmbH;Metzger;Metzger
+6.1250863;51.0733913;81;Am Kamin Inh. Stolz S.;Restaurant;Restaurant
+6.1252314;51.0728713;82;Altes Brauhaus;Restaurant;Restaurant
+6.1243026;51.0477498;83;Restaurant Haus Dohmen;Restaurant;Restaurant
+6.140414;50.9122668;101;Josef Kraus;Metzgerei;Metzger
+6.1370504;50.9090951;102;LEO Der Bäcker & Konditor;Bäckerei;Baecker
+6.1405465;50.9122539;103;Bäckerei/Konditorei Moll, Inh. Gerrit Ackermann e.K.;Bäckerei;Baecker
+6.1373745;50.9123464;104;Ralf Mertens;Bäckerei;Baecker
+6.1375985;50.9070607;105;Restaurant Schlemmerstüble;Restaurant;Restaurant
+6.137145;50.908573;106;Mardinos Grill& Pizzeria Kebab Haus;Restaurant;Restaurant
+6.1372395;50.9097083;107;Restaurant hünkar;Restaurant;Restaurant
+6.1370511;50.9107955;108;Pizzeria Nido;Pizzeria;Restaurant
+6.1368718;50.9118599;109;Hünkar Restaurant;Restaurant;Restaurant
+6.1369181;50.9135536;110;Döner Treff Übach;Imbiss;Restaurant
+6.1366681;50.9154011;111;pitstop;Pizzeria;Restaurant
+6.1364519;50.9024481;112;Josef und Rose Bergerhausen;Restaurant;Restaurant
+6.1311464;50.9196703;113;Curry Zwerg;Imbiss;Restaurant
+6.1337079;50.9234905;114;Meat N Greek;Imbiss;Restaurant
+6.1205032;50.9196873;115;Bäckerei Heinz-Josef Plum;Imbiss;Restaurant
+6.1190307;50.9199265;116;Deniz Grill;Imbiss;Restaurant
+6.102232;50.9246754;117;Sy le man;Imbiss;Restaurant
+6.1004508;50.9225388;118;Leon Restaurant - Imbiss - Partyservice;Restaurant;Restaurant
+6.1375683;50.919814;119;McDonald's Restaurant;Restaurant;Restaurant
+6.1157907;50.920562;120;Europa Stuben;Restaurant;Restaurant
+6.1133303;50.9237461;121;Mongu Star / chang jiang China Restaurant;Restaurant;Restaurant
+6.1052077;50.9250109;122;Restaurant Artion;Restaurant;Restaurant
+6.1023538;50.9249582;123;Trattoria Nido;Restaurant;Restaurant
+6.1183634;50.9196911;124;Biergarten;Restaurant;Restaurant
+6.0983428;50.9229413;125;Restaurant Postwagen;Restaurant;Restaurant
+6.1023538;50.9249582;126;Trattoria Nido;Restaurant;Restaurant
+6.1058966;50.9432629;127;Pizzeria Milano;Pizzeria;Restaurant
+6.1155984;50.921377;128;Subway;Restaurant;Restaurant
+6.1420809;50.9123748;129;Gaststätte Cheers;Gaststätte;Restaurant
+6.1192449;50.9196881;130;Maria Schulz Gaststätte;Gaststätte;Restaurant
+6.1050669;50.9250224;131;Moby Dick;Gaststätte;Restaurant
+6.1225907;50.9179588;133;Gaststätte Haus Hagen;Gaststätte;Restaurant
+6.1193168;50.9197421;134;Gaststätte Alt Übach;Gaststätte;Restaurant
+6.1179027;50.9200633;135;Übach Grillhaus;Gaststätte;Restaurant
+6.117419;50.9203666;136;Grillkönig;Gaststätte;Restaurant
+6.1372191;50.912293;137;Bäckerei Konditorei Cafe Mertens;Bäckerei;Baecker
+6.114968;50.921358;142;Bäckerei Schneider;Bäckerei;Baecker
+6.1154353;50.9206315;143;Özi Döner;Imbiss;Restaurant
+6.1052077;50.9250109;144;Restaurant Artion;Restaurant;Restaurant
+6.102232;50.9246754;145;Sy le man;Restaurant;Restaurant
+6.0972901;50.9225185;146;LEO Der Bäcker & Konditor;Bäckerei;Baecker
+6.1000175;50.9244553;147;Lale Grillhaus;Restaurant;Restaurant
+6.0991415;50.926085;148;Pizzeria Restaurant Rustica;Pizzeria;Restaurant
+6.109005;50.9219529;149;La Toscana;Imbiss;Restaurant
+6.0933804;50.9255823;150;Hellas Grill;Imbiss;Restaurant
+6.1000898;50.9247907;151;Erbel's Backhaus;Bäckerei;Baecker
+6.0939803;50.9253328;152;Bäckerei MOSS;Bäckerei;Baecker
+6.098493;50.925726;153;Kaiser-Karl Stube Inh. Edgar Busch;Restaurant;Restaurant
+6.1001915;50.9254321;154;Eurolympia Taverne & Bistro;Bistro;Restaurant
+6.1131322;50.9240798;155;Berzan Feinkost & Schnellrestaurant;Imbiss;Restaurant
+6.1372191;50.912293;156;Bäckerei Konditorei Cafe Mertens;Bäckerei;Baecker
+6.1127463;50.9241287;157;Bäckerei MOSS;Bäckerei;Baecker
+6.1016818;50.924888;158;Rhodos Grill;Imbiss;Restaurant
+6.1001125;50.9262325;159;Metzgerei Meertens-Busch Palenberg;Metzgerei;Metzger
+6.0571335;50.9222507;160;Restaurant Odessa;Restaurant;Restaurant
+6.0602523;50.9233632;161;Steak House Mujo;Restaurant;Restaurant
+6.0665922;50.9273172;162;Metzgerei Beckers;Metzgerei;Metzger
+6.0674953;50.9276921;163;Toscana Ristorante Pizzeria;Restaurant;Restaurant
+6.0685319;50.9286306;164;Pizzeria Il Piccolo Genio Scherpenseel;Pizzeria;Restaurant
+6.101933;50.9355945;165;Restaurant Haus Houben;Restaurant;Restaurant
+6.1132323;50.9412389;167;Gaststätte Bomans;Gaststätte;Restaurant
+6.0788162;50.9533375;168;Grillstube & Partyservice Manfred Theves;Restaurant;Restaurant
+6.0786506;50.9524109;169;Zeus Grill;Restaurant;Restaurant
+6.0560878;50.9398045;170;Jägerhof - golan Restaurant;Restaurant;Restaurant
+6.0504309;50.9544147;171;The Rotodome;Restaurant;Restaurant
+6.1261066;50.9625079;173;Gaststätten, Restaurants El Vivo;Gaststätte;Restaurant
+6.1198878;50.9642486;174;Cam Nguyen;Imbiss;Restaurant
+6.1178631;50.965044;175;Efes;Pizzeria;Restaurant
+6.11127;50.96661;176;Grillmaster Schnellrestaurant;Imbiss;Restaurant
+6.0953861;50.9732066;177;Imbiss an der Mausefalle;Imbiss;Restaurant
+6.0996752;50.9788918;178;Chantal's Imbiss;Imbiss;Restaurant
+6.1269096;50.9625612;179;Restaurant Athen;Restaurant;Restaurant
+6.1241805;50.9618657;180;Carpaccio-Ristorante Italiano GmbH;Restaurant;Restaurant
+6.1237774;50.9619581;181;Pizzeria Napoli;Pizzeria;Restaurant
+6.12124;50.964104;182;Hotel/Restaurant am Markt;Restaurant;Restaurant
+6.1207728;50.9708318;183;Restaurant Akropolis;Restaurant;Restaurant
+6.1239543;50.9610728;184;Kamps Bäckerei;Bäckerei;Baecker
+6.1243786;50.9612502;185;McDonald's Restaurant;Restaurant;Restaurant
+6.122795;50.9609962;186;Havana American Diner;Restaurant;Restaurant
+6.120581;50.9622133;187;Kamps Bäckerei;Bäckerei;Baecker
+6.1190248;50.9634225;188;Bäckerei-Bremer GmbH;Bäckerei;Baecker
+6.11996;50.96405;189;Landbäckerei Stinges;Bäckerei;Baecker
+6.1139056;50.9703602;190;Bäckerei Böven;Bäckerei;Baecker
+6.1136373;50.9711603;191;Kamps Bäckerei;Bäckerei;Baecker
+6.10037;50.97826;192;Bäckerei Brueder Oebel;Bäckerei;Baecker
+6.1292901;50.9629008;196;Pizzeria Carthago Geilenkirchen;Pizzeria;Restaurant
+6.1291118;50.962961;197;Gaststätte Marktschänke;Pizzeria;Restaurant
+6.1263298;50.9626583;198;China Garten;Restaurant;Restaurant
+6.1245752;50.9631078;199;Räucherwerk;Restaurant;Restaurant
+6.12193;50.96273;202;Casa Leonardo;Restaurant;Restaurant
+6.1212436;50.9631831;203;Landbäckerei Stinges;Bäckerei;Baecker
+6.1207892;50.9633806;204;Bäckerei Dohlen;Bäckerei;Baecker
+6.1198392;50.9628633;205;Restaurant Kornmühle GmbH;Restaurant;Restaurant
+6.1237546;50.9620882;206;Pizzeria Etna;Pizzeria;Restaurant
+6.1208726;50.9634027;207;Metzgerei Meertens-Busch Geilenkirchen;Metzgerei;Metzger
+6.1191001;50.96475;208;Pizzeria Romana;Pizzeria;Restaurant
+6.1168907;50.9653584;209;Laguna Grill;Imbiss;Restaurant
+6.11781;50.96161;211;Viet Asia Cuisine;Restaurant;Restaurant
+6.1198173;50.9643083;212;Grill Haus Geilenkirchen;Imbiss;Restaurant
+6.1188358;50.9649723;213;La Toscana - Restaurant & Pizzeria;Restaurant;Restaurant
+6.1128006;50.9720902;214;Pizzeria Milano bollywood;Pizzeria;Restaurant
+6.12099;50.97077;215;Babylon-Bar UG (haftungsbeschränkt);Imbiss;Restaurant
+6.1454072;50.9760622;217;Jugendheim Süggerath;Restaurant;Restaurant
+6.14871;50.97576;218;Gasthof Damm;Gaststätte;Restaurant
+6.108369;50.978633;219;Mykonos Restaurant;Restaurant;Restaurant
+6.11921;50.97865;220;Gaststätte Jütten UG (haftungsbeschränkt);Gaststätte;Restaurant
+6.11858;50.9843;221;Hong Yun Lai;Restaurant;Restaurant
+6.105268;50.983089;222;Heimgesellschaft Selfkant Kaserne e.V.;Restaurant;Restaurant
+6.0756238;50.9811722;224;Gillrather Kebaphaus;Imbiss;Restaurant
+6.07433;50.98131;225;Grill Master;Imbiss;Restaurant
+6.0698873;50.9823639;226;Il Genio Gillrath;Imbiss;Restaurant
+6.03056;50.98862;229;Restaurant El Greco Neue Name DAFNE;Restaurant;Restaurant
+5.9970814;50.9928963;231;Med Kebaphaus Gangelt;Imbiss;Restaurant
+5.9960105;50.9930634;232;Pizzeria Il Genio;Pizzeria;Restaurant
+5.9958556;50.9930482;233;Restaurant Peppers Grill & Bar in Gangelt;Restaurant;Restaurant
+5.995604;50.992942;235;Zweiländer-Eck Restaurant;Restaurant;Restaurant
+5.9857633;50.994163;237;Wurstspezialitäten Esser;Metzger;Metzger
+5.9975374;50.9865312;238;Haus Hamacher;Restaurant;Restaurant
+5.9887168;50.9872375;239;Leo Martin Honings Geflügelhof;Metzger;Metzger
+5.9888353;50.9937871;240;Landbäckerei Stinges;Bäckerei;Baecker
+5.9854642;50.9941044;241;Bäcker Dick GmbH;Bäcker;Baecker
+5.9774228;50.9828266;243;Brommler Mühle;Restaurant;Restaurant
+5.9771829;50.9829132;244;Gaststätte Haus Derichs;Gaststätte;Restaurant
+5.968373;50.9827202;245;Haus Wildblick;Restaurant;Restaurant
+5.9417444;50.9959444;246;Pizzeria Bella Italia;Pizzeria;Restaurant
+5.9433712;50.9934109;247;Bäckerei-Konditorei Stassen;Bäckerei;Baecker
+5.9314446;50.9974115;248;Zur Bahn;Restaurant;Restaurant
+5.9301942;50.9979363;249;Büsch GmbH;Restaurant;Restaurant
+5.9286285;51.003385;250;Waldschänke;Restaurant;Restaurant
+5.933225;51.0044184;251;El Pimiento;Restaurant;Restaurant
+5.9701611;51.0055779;252;Kroatisch Restaurant Hastenrather Hof;Restaurant;Restaurant
+5.9692702;51.0107128;253;Flammerie;Imbiss;Restaurant
+5.9262251;50.9942128;254;AMICI;Restaurant;Restaurant
+5.9264471;50.9939947;255;Asia Wok & Grill;Imbiss;Restaurant
+5.9232909;50.9952645;256;Restaurant Zagreb;Restaurant;Restaurant
+5.9217819;50.9953016;257;Theo und Annemarie Backhaus;Restaurant;Restaurant
+5.919514;50.995035;258;Olympia;Restaurant;Restaurant
+5.9015142;51.016461;260;Grill Imbiss Loettel / Toni´s Snack mobil;Imbiss;Restaurant
+5.9016444;51.0168951;261;Bomanns;Imbiss;Restaurant
+5.9005913;51.0160631;262;Landbäckerei Stinges;Bäckerei;Baecker
+5.8995975;51.0160634;263;Taste of India;Restaurant;Restaurant
+5.8997159;51.0162402;264;Grenzenlos;Restaurant;Restaurant
+5.9019428;51.0145538;266;Frituur Imbiss Op de Eck;Imbiss;Restaurant
+5.9009167;51.0079158;267;O Português;Restaurant;Restaurant
+5.902562;51.01387;268;Park Restaurant Tüddern;Restaurant;Restaurant
+5.8976024;51.0144279;269;Pizzeria Byblos;Pizzeria;Restaurant
+5.8948334;51.0136134;270;Restaurant Medo;Restaurant;Restaurant
+5.8920102;51.0142332;271;El Greco;Restaurant;Restaurant
+5.887811;51.017985;272;De Verborge Uul;Restaurant;Restaurant
+5.8965405;51.0147378;273;Pizzeria Roma;Pizzeria;Restaurant
+5.900501;51.0111895;275;O Hollander Imbiss;Imbiss;Restaurant
+5.9004593;51.0142182;276;Schnellrestaurant MED 2 Grill & Pizzahaus;Imbiss;Restaurant
+5.952766;51.0206273;277;Original Flammlachs;Restaurant;Restaurant
+5.932703;51.023804;278;Restaurant Pfeffer und Salz;Restaurant;Restaurant
+5.9371122;51.0283887;279;Pizzeria La Candela;Pizzeria;Restaurant
+5.9596525;51.0320786;281;Pizzeria Selfkant;Pizzeria;Restaurant
+5.9611116;51.0320527;282;Gasthof Aretz;Gaststätte;Restaurant
+5.9904186;51.0245067;284;La Piccola;Pizzeria;Restaurant
+5.9911336;51.0253124;285;Bäckerei Franken;Bäckerei;Baecker
+5.9912735;51.0248772;286;Görtz R.;Metzgerei;Metzger
+5.988999;51.0270225;287;Willy Bomanns;Imbiss;Restaurant
+6.0196773;51.0205631;289;Altes Brauhaus Temporary Lodging;Gaststätte;Restaurant
+6.03749;51.01398;290;Gleis 3 – Restaurant Zur Selfkantbahn;Restaurant;Restaurant
+6.048814;51.012416;291;Pizzeria La Pali;Restaurant;Restaurant
+6.0542069;51.008904;292;Kebaphaus Birgden;Imbiss;Restaurant
+6.0495969;51.0094994;293;Gaststätte Krükel, Inhaber Manuela Schmitz;Gaststätte;Restaurant
+6.0540083;51.0088141;294;Il Genio Pizzeria;Pizzeria;Restaurant
+6.0602892;51.0103456;295;Bäckerei;Bäckerei;Baecker
+6.072278;50.9819426;296;Bäckerei;Bäckerei;Baecker
+6.0565788;51.0093838;297;Restaurant;Restaurant;Restaurant
+6.119609;50.9627819;298;Sonador Grill;Imbiss;Restaurant
+6.1231808;50.962863;299;Restaurant;Restaurant;Restaurant
+6.0919675;50.9898679;301;Bäckerei;Bäckerei;Baecker
+6.1684543;50.9522145;303;Bäckerei;Bäckerei;Baecker
+6.167993;50.9517735;304;Gaststätte;Gaststätte;Restaurant
+6.1664387;51.0039846;306;Imbiss;Imbiss;Restaurant
+6.208287;50.9968639;307;Imbiss;Imbiss;Restaurant
+6.2057876;50.9962313;308;Gaststätte;Gaststätte;Restaurant
+6.2057769;50.9974472;309;Bremer, W;Imbiss;Restaurant
+6.2431995;51.0036032;310;Pizzeria;Pizzeria;Restaurant
+6.2424519;51.0034673;311;Grillstube;Gaststätte;Restaurant
+5.99972;51.052236;312;"Imbiss & Catering Flatroyal der ""Pommeswagen vor Ort"" zu Ihrer Party";Imbiss;Restaurant
+6.038123;51.050973;313;Michas Imbiss;Imbiss;Restaurant
+6.0390932;51.0558901;314;Bäckerei Speis;Bäckerei;Baecker
+6.0394899;51.0560426;315;"Zur Post ""Savo""";Restaurant;Restaurant
+5.9971827;51.0597971;316;Landbäckerei Stinges;Bäckerei;Baecker
+5.9893064;51.0655467;317;Bischofs F.;Metzger;Metzger
+5.9891017;51.0656085;318;Vogten H.;Imbiss;Restaurant
+5.9880344;51.0660082;319;Ratsstube;Restaurant;Restaurant
+5.9881108;51.065861;320;Pizzeria Kebaphaus bei Rino;Pizzeria;Restaurant
+5.9886512;51.0659794;321;Pizzeria Mario e Rino;Pizzeria;Restaurant
+6.0161647;51.0841486;322;Bäckerei Speis;Bäckerei;Baecker
+6.0188811;51.0887814;323;Pizzeria Mega;Pizzeria;Restaurant
+6.0605852;51.0809914;327;GOURMET VERSAND;Imbiss;Restaurant
+6.06629;51.07796;328;Pfannkuchenhaus und Partyservice;Restaurant;Restaurant
+6.0722074;51.074754;330;Fleischerei Bischofs;Fleischerei;Metzger
+6.0786;51.0974;331;Metzgerei Kurt Heinrichs;Metzgerei;Metzger
+6.071337;51.1023028;332;Landbäckerei Stinges;Bäckerei;Baecker
+6.0712497;51.1022797;333;Wurstspezialitäten Esser;Metzger;Metzger
+6.1018773;51.0933954;334;Gaststätte Am DORFPLATZ;Gaststätte;Restaurant
+6.1034093;51.1052518;335;Tortentastisch;Konditorei;Baecker
+6.1022421;51.1080985;336;Pizzeria Capri;Pizzeria;Restaurant
+6.1008085;51.1218529;337;Effelder Spargelfest;Restaurant;Restaurant
+6.1015695;51.1235682;338;Restaurant Ohlenforst;Restaurant;Restaurant
+6.10485;51.12742;339;Effelder Bürgerstube;Restaurant;Restaurant
+6.15923;51.09182;340;Kamps Bäckerei;Bäckerei;Baecker
+6.1578295;51.0920847;341;Wurstspezialitäten Esser;Metzger;Metzger
+6.1581464;51.0918317;342;Angora Grill;Imbiss;Restaurant
+6.1550607;51.0973459;343;Strick-Chic Peter Lindt GmbH;Restaurant;Restaurant
+6.15482;51.09805;344;Wassenberger Grill;Imbiss;Restaurant
+6.1555101;51.0993003;347;Der Ribatejo;Imbiss;Restaurant
+6.1554185;51.0993135;348;Der Ribatejo Portugiesische Spezialität;Imbiss;Restaurant
+6.1558452;51.099664;349;Pizzeria Nemo;Pizzeria;Restaurant
+6.15542;51.09996;350;Restaurant Braukeller Wassenberg;Restaurant;Restaurant
+6.1547927;51.0998966;352;Landhaus Brender;Restaurant;Restaurant
+6.1546794;51.0998615;353;Ratskeller;Restaurant;Restaurant
+6.15441;51.09983;354;Bäckerei Esser;Bäckerei;Baecker
+6.1556212;51.1005801;355;Huns Ahn Restaurant;Restaurant;Restaurant
+6.1655;51.09518;356;Restaurant Tante Lucie;Restaurant;Restaurant
+6.1583922;51.0987605;357;Froschkönig;Restaurant;Restaurant
+6.15616;51.0996496;358;Bucanero;Restaurant;Restaurant
+6.1574186;51.1004485;359;Restaurant Burg Wassenberg by Savio;Restaurant;Restaurant
+6.1546303;51.1096459;360;Gaststätte Zum Junkersbruch;Gaststätte;Restaurant
+6.1507886;51.1129439;361;Mönius, E.;Restaurant;Restaurant
+6.1521012;51.1129239;362;Grill & Pizzeria ROSA;Imbiss;Restaurant
+6.192644;51.0985752;363;Restaurant Algarve;Restaurant;Restaurant
+6.19325;51.09868;364;Dreßen;Imbiss;Restaurant
+6.1854239;51.1007341;365;Pizzeria Myhl (ehem. Al Batal);Imbiss;Restaurant
+6.1809024;51.101416;366;Grillstube Piräus;Restaurant;Restaurant
+6.1839992;51.1022976;367;Pizzeria Remo;Pizzeria;Restaurant
+6.1749843;51.1039624;368;Bäckerei Hans Kohlen;Bäckerei;Baecker
+6.174787;51.1044841;369;Gaststätte Supergrill;Gaststätte;Restaurant
+6.1718538;51.1036792;370;Alaturka Kebaphaus Wassenberg;Imbiss;Restaurant
+6.1630469;51.1017783;372;Das Wok;Restaurant;Restaurant
+6.1753722;51.1050369;374;Landbäckerei Stinges;Bäckerei;Baecker
+6.178093;51.106402;375;Gaststätte KruG;Gaststätte;Restaurant
+6.178358;51.1063632;376;Capri Corn;Gaststätte;Restaurant
+6.2230863;51.0958841;378;Franz und E. Kremer;Metzgerei;Metzger
+6.212825;51.0969402;379;Zur Zöff;Restaurant;Restaurant
+6.21016;51.09712;380;Landbäckerei Stinges;Bäckerei;Baecker
+6.2162339;51.0970495;381;Gerderath Bäckerei & Cafe Hoffmann;Bäckerei;Baecker
+6.21413;51.09874;382;Pizzeria Ciao;Pizzeria;Restaurant
+6.2126031;51.1025645;384;Diva Döner;Imbiss;Restaurant
+6.1996259;51.1190528;386;Father & Son Burger and Soulfood Company;Restaurant;Restaurant
+6.1933738;51.1243026;388;zur Post;Restaurant;Restaurant
+6.1921786;51.1266558;389;Zum Griechen;Imbiss;Restaurant
+6.1502033;51.1219511;390;Hotel-Restaurant Rosenhof;Restaurant;Restaurant
+6.1199478;51.1398714;391;Restaurant Adria;Restaurant;Restaurant
+6.1876;51.14232;392;Hartmut Casteel Metzgerei;Metzgerei;Metzger
+6.1865371;51.1441136;393;Tholen U.;Restaurant;Restaurant
+6.1864568;51.1452874;394;Dalheimer Hof;Gaststätte;Restaurant
+6.184437;51.1565226;395;Trattoria pizzeria da Giulia & Rosario;Pizzeria;Restaurant
+6.2089823;51.1514527;396;Arsbecker Grill;Restaurant;Restaurant
+6.2091178;51.1498315;397;Fleischerei Klaus Schmitz;Metzgerei;Metzger
+6.16324;51.14846;398;Dalheimer Mühle;Restaurant;Restaurant
+6.2111961;51.1429756;399;Steh-Pizzeria da Franco;Pizzeria;Restaurant
+6.21091;51.142743;400;Restaurant Crazy XXL;restaurant;Restaurant
+6.2096462;51.1409974;401;Kamps Bäckerei;Bäckerei;Baecker
+6.2333438;51.136912;402;"Ehemalige Gaststätte "" Zum Toni""";Gaststätte;Restaurant
+6.24795;51.11745;403;Werner Hoffmann;Gasthof;Restaurant
+6.264717;51.123007;405;Tüschenbroicher Mühle GmbH & Co. KG;Restaurant;Restaurant
+6.2602835;51.1370033;406;Klinkumer Schlemmer Stübchen;Restaurant;Restaurant
+6.25187;51.13556;407;Bäckerei Esser;Bäckerei;Baecker
+6.2516551;51.1357892;408;Feinkost Fleischerei Heinz Kohlen;Metzgerei;Metzger
+6.24888;51.1360699;409;Metzkerei;Metzgerei;Metzger
+6.28423;51.135818;411;Ophover Mühle;Restaurant;Restaurant
+6.27524;51.13986;412;Kohlen H.;Metzgerei;Metzger
+6.2763865;51.1399815;414;Dalyan Döner - Pizzeria;Imbiss;Restaurant
+6.2701662;51.1397629;415;Landbäckerei Stinges;Bäckerei;Baecker
+6.2767489;51.1401705;416;Der Grieche;Restaurant;Restaurant
+6.2772952;51.1401094;417;Kepinu Pizza;Pizzeria;Restaurant
+6.27715;51.14;418;Ristorante - Pizzeria Bella Mia;Pizzeria;Restaurant
+6.27731;51.14031;419;Willi Havers;Restaurant;Restaurant
+6.2774346;51.1407412;420;Pizzeria Bella Italia;Pizzeria;Restaurant
+6.2778444;51.1417661;421;Japi's Bistro;Restaurant;Restaurant
+6.2781216;51.1422164;422;Bäckerei Klaus Hinzen;Bäckerei;Baecker
+6.2783196;51.1424961;423;Zum Stöckske;Restaurant;Restaurant
+6.278901;51.143005;424;Harmonie Pizzeria;Pizzeria;Restaurant
+6.2796952;51.1459242;425;Gaststätte Dorfkrug;Gaststätte;Restaurant
+6.2801932;51.1467083;426;"Pizzeria ""La Perla""";Pizzeria;Restaurant
+6.2729593;51.146548;427;Anni Grothof;Bäckerei;Baecker
+6.3062133;51.1325306;428;Ristorante Piro;Restaurant;Restaurant
+6.3055594;51.133087;429;Beecker Brauhaus;Brauhaus;Restaurant
+6.3028465;51.1336742;430;China Garten;Restaurant;Restaurant
+6.3009368;51.1348361;431;Beecker Schlemmereck;Restaurant;Restaurant
+6.2907064;51.1373862;432;Christos-Theke;Restaurant;Restaurant
+6.2866978;51.1382166;433;Casa Veronica;Restaurant;Restaurant
+6.283145;51.1508244;434;Grenzlandgrill;Restaurant;Restaurant
+6.2822474;51.1440343;435;Landbäckerei Stinges;Bäckerei;Baecker
+6.281474;51.145052;436;Das kleine Steakhaus Wegberg;Restaurant;Restaurant
+6.2815922;51.1423399;437;Rusticagrill;Imbiss;Restaurant
+6.2834227;51.1388227;439;XinChao Wok & Sushi;Restaurant;Restaurant
+6.2829581;51.1389937;440;Adria Grill;Restaurant;Restaurant
+6.2825587;51.1392091;441;Landbäckerei Stinges;Bäckerei;Baecker
+6.2815441;51.139694;442;Rustica Grill;Restaurant;Restaurant
+6.2809056;51.1401968;443;Pizzeria Roma;Pizzeria;Restaurant
+6.278598;51.1406293;444;City Grillpfanne;Restaurant;Restaurant
+6.27896;51.14059;445;Longo A.;Restaurant;Restaurant
+6.2691522;51.1578489;448;Gaststätte Jackels;Gaststätte;Restaurant
+6.2676819;51.1637284;449;Ristorante-Pizzeria La Tosca;Restaurant;Restaurant
+6.2496665;51.1746281;450;Franz-Josef van deFlierdt;Metzgerei;Metzger
+6.2541169;51.1766816;451;Josef Rüther Schnellrestaurant;Imbiss;Restaurant
+6.2522283;51.1738651;452;SV Merbeck 1912 e.V.;Restaurant;Restaurant
+6.2491041;51.1738016;453;Restaurant Vesuvio;Restaurant;Restaurant
+6.27643;51.17276;454;Gasthof und Pension Timmermans;Gaststätte;Restaurant
+6.2854629;51.1698158;455;Ristorante La Tosca;Restaurant;Restaurant
+6.2845387;51.1694359;456;La Vie en France Französische Spezialitäten;Restaurant;Restaurant
+6.33107;51.1176;457;Asiana Restaurant;Restaurant;Restaurant
+6.3380469;51.1119008;458;Heidis-Genusslädchen;Restaurant;Restaurant
+6.3323337;51.1146628;459;Pesch Backwaren;Bäcker;Baecker
+6.3279937;51.1143951;460;Stereo Holland-Gebäck GmbH & Co. KG;Bäcker;Baecker
+6.3284449;51.1094142;462;Ristorante Pizzeria LaFarfalla;Pizzeria;Restaurant
+6.356895;51.1179145;465;Esser Konfekt und Feingebäck GmbH & Co. KG;Böckerei;Baecker
+6.3721241;51.0906011;466;Gaststätte Bruns;Gaststätte;Restaurant
+6.372351;51.090387;467;Gillraths Brotkorb;Bäcker;Baecker
+6.3736087;51.0902494;469;Heinz Lambertz;Metzgerei;Metzger
+6.4061682;51.0933398;470;Golfclub Rittergut Wildenrath;Restaurant;Restaurant
+6.40804;51.09336;471;golfclub mönchengladbach-wanlo;Restaurant;Restaurant
+6.4133406;51.0951403;472;Heinz Lambertz;Metzgerei;Metzger
+6.41218;51.0839;473;Wolfgang Laumanns;Bäckerei;Baecker
+6.4154838;51.083743;474;Gaststätte Keyenberger Hof;Gaststätte;Restaurant
+6.41438;51.08373;475;Ulrich Wimmers;Metzgerei;Metzger
+6.4388104;51.0512627;476;Pizzeria La Piccola;Pizzeria;Restaurant
+6.40573;51.0482;477;Karl-Josef Krummen;Restaurant;Restaurant
+6.3698076;51.0408229;478;Gutshof Hauerhof;Gaststätte;Restaurant
+6.3392574;51.0643728;479;Landbäckerei Stinges;Bäckerei;Baecker
+6.3506314;51.0617344;480;Pizzeria Trattoria Da Michele;Pizzeria;Restaurant
+6.349186;51.061065;481;Gasthaus Küppers;GAsthaus;Restaurant
+6.3502833;51.0615158;482;Metzger-Partyservice Alois Quasten;Metzgerei;Metzger
+6.3243225;51.054166;483;Trattoria Villa Toscana;Restaurant;Restaurant
+6.31551;51.05456;484;Zum alten Kuhstall;Restaurant;Restaurant
+6.29557;51.05417;486;Heinz Jansen;Restaurant;Restaurant
+6.326469;51.0652642;488;Gerdi's Bistro;Bistro;Restaurant
+6.3081548;51.0689102;489;Landbäckerei Stinges;Bäckerei;Baecker
+6.3016462;51.0701295;490;Burger King Erkelenz;Burger King;Restaurant
+6.3146352;51.0745408;491;La Piazza;Pizzeria;Restaurant
+6.3045388;51.0746931;493;Restaurant WanHao;Restaurant;Restaurant
+6.3074076;51.0753131;494;Grillkönig;Imbiss;Restaurant
+6.3055948;51.0754172;495;Domino's Pizza Erkelenz;Pizzeria;Restaurant
+6.307728;51.0753237;496;Wurstteufel;Imbiss;Restaurant
+6.307718;51.0758072;497;Subway;Imbiss;Restaurant
+6.308071;51.0762386;498;McDonald's Restaurant;Restaurant;Restaurant
+6.3046038;51.0767921;499;Kamps Bäckerei;Bäckerei;Baecker
+6.3082177;51.0779336;500;Pizza Life;Pizzeria;Restaurant
+6.3090205;51.0777336;501;THE JUNGLE;Restaurant;Restaurant
+6.30631;51.0755;502;Kamps Bäckerei;Bäckerei;Baecker
+6.2978294;51.0833709;503;Pizza Lounge;Pizzeria;Restaurant
+6.31651;51.06795;504;Feinbäckerei Otten GmbH & Co. KG;Bäckerei;Baecker
+6.3214001;51.07507;507;Casa Piri Piri;Restaurant;Restaurant
+6.3202048;51.0758638;508;Grand Canyon American Diner Lounge;Restaurant;Restaurant
+6.3192414;51.0769654;509;Bistro Cafe Kö;Bistro;Restaurant
+6.3091028;51.080314;510;blub;Restaurant;Restaurant
+6.3096431;51.0811687;511;The Jungle Erkelenz;Restaurant;Restaurant
+6.3089445;51.0855959;513;Oerather Mühle;Restaurant;Restaurant
+6.3139626;51.0883214;514;Hinzen - Bäckerei, Konditorei, Café;Bäckerei;Baecker
+6.3201015;51.0903743;515;Bäckerei Oebel;Bäckerei;Baecker
+6.3252412;51.0835433;516;Ristorante-Pizzeria Dolce Vita Inh. M. Girardi;Pizzeria;Restaurant
+6.3198461;51.080063;517;Josef Vos;Restaurant;Restaurant
+6.31748;51.08615;518;Gaststätte Kirchhofer;Gaststätte;Restaurant
+6.3119641;51.0779803;520;Restaurant Hellena;Restaurant;Restaurant
+6.3124265;51.0781317;521;Hellena`s Grill;Restaurant;Restaurant
+6.3119661;51.078219;522;Berfin Grill;Restaurant;Restaurant
+6.3129176;51.0782332;523;Cafe‘ Pause;Bar;Restaurant
+6.3132991;51.0785212;524;Hessmann;Restaurant;Restaurant
+6.3137233;51.0784974;525;Pizzeria Pinocchio Il Piccolo Giardino;Pizzeria;Restaurant
+6.3140455;51.0788987;526;Vlaamse Frites;Imbiss;Restaurant
+6.3149031;51.0791226;527;RIVA Pizzeria & Restaurant;Pizzeria;Restaurant
+6.3152446;51.0792752;529;Josef Gillrath;Restaurant;Restaurant
+6.3151421;51.0794438;530;Königs-Stuben;Restaurant;Restaurant
+6.3163528;51.0793815;531;Zum Alten Rathaus;Restaurant;Restaurant
+6.3165;51.07937;533;Le Journal Bistro Baguetterie und Pfannkuchenhaus;Restaurant;Restaurant
+6.3170518;51.0792743;534;Bäckerei Büsch;Bäckerei;Baecker
+6.3173141;51.0790801;535;Fleischerei Rösken;Metzgerei;Metzger
+6.3175795;51.0787042;536;Worms Leben & Genießen;Restaurant;Restaurant
+6.318557;51.0777593;537;Kamps Bäckerei;Bäckerei;Baecker
+6.3178784;51.0778785;539;Orient Döner Pizzeria Erkelenz;Pizzeria;Restaurant
+6.3214832;51.0768712;540;Anton's;Imbiss;Restaurant
+6.3193146;51.0773267;541;Chick O Grill;Restaurant;Restaurant
+6.3194107;51.0789444;542;Weiß J.;Metzgerei;Metzger
+6.3180345;51.0791214;543;Oishii Sushi;Sushi;Restaurant
+6.318064;51.079171;544;Döner-Pizza Taxi;Imbiss;Restaurant
+6.3192711;51.0791745;545;Landbäckerei Stinges;Bäckerei;Baecker
+6.3167998;51.07967;546;PatRick's Café Bistro;Bistro;Restaurant
+6.3169502;51.0802429;548;Vintage;Restaurant;Restaurant
+6.3180178;51.080831;549;Bäckerei Schneider GmbH;Bäckerei;Baecker
+6.3151509;51.0804425;550;Jedermann-Erkelenz;Restaurant;Restaurant
+6.3148458;51.0805614;551;Bistro Baguetterie Am Markt;Bistro;Restaurant
+6.3135868;51.0792233;552;Gaststätte Zum Treppchen;Gaststätte;Restaurant
+6.3119414;51.0785429;553;Poseidon Erkelenz;Imbiss;Restaurant
+6.1723701;51.0153001;554;Restaurant Neunfinger;Restaurant;Restaurant
+6.1775535;51.0155289;555;Bäckerei-Bremer GmbH;Bäckerei;Baecker
+6.1790112;51.0156911;556;Istanbul Kebab Haus;Imbiss;Restaurant
+6.1766443;51.0159227;557;Hensens Residenz;Restaurant;Restaurant
+6.1766473;51.0160142;558;St. Jacques;Restaurant;Restaurant
+6.32543;51.03196;560;Kamps Bäckerei;Bäckerei;Baecker
+6.324887;51.0323363;561;Imbis Schlemmerstube Buchmann;Imbiss;Restaurant
+6.3250392;51.0320718;562;Gaststätte Zum lustigen Dreieck;Gaststätte;Restaurant
+6.3241104;51.0325581;564;Pizza New York;Pizzeria;Restaurant
+6.3243632;51.0323871;565;Pizzeria Vulkano;Pizzeria;Restaurant
+6.3219541;51.0319708;566;Wurstspezialitäten Esser;Spezialitäten;Metzger
+6.3189944;51.0343005;567;Bäckerei Schneider GmbH;Bäckerei;Baecker
+6.2791703;51.0338268;568;Pizza Time;Pizzeria;Restaurant
+6.2788244;51.0331608;569;Euro Kebaphaus;Imbiss;Restaurant
+6.2776241;51.0330225;570;Bäckerei Marcel Schmitz;Bäckerei;Baecker
+6.27797;51.03304;571;Metzgerei Rible;Metzgerei;Metzger
+6.2697453;51.0121859;572;Bürgersaal;Restaurant;Restaurant
+6.2380471;51.0416391;573;Axel Goertz;Metzgerei;Metzger
+6.2477;51.04915;574;Fleischerei Hubert Schröder;Metzgerei;Metzger
+6.2478638;51.049515;575;Bäckerei Bremer GmbH;Bäckerei;Baecker
+6.27207;51.05687;576;Pisters & Sohn Fleisch und Wurstwaren;Metzgerei;Metzger
+6.2719273;51.0568338;577;Arnold Pisters;Metzgerei;Metzger
+6.2702568;51.055982;578;Kischel's Imbiss;Imbiss;Restaurant
+6.2746648;51.0992979;580;Lentholter Hof - Qualitätsfleisch;Metzgerei;Metzger
+6.2742651;51.1003616;581;Mira D'Ouro;Restaurant;Restaurant
+6.2746257;51.1017557;582;Marktschänke;Restaurant;Restaurant
+6.2445521;51.0488669;583;Wolfgang Stübner Imbiss & Partyservice;Imbiss;Restaurant
+6.251;51.08367;585;Anton Hermanns;Restaurant;Restaurant
+6.2538885;51.0927498;586;Röhlen Qualitätsferkel GbR;Fleisch;Metzger
+6.2159785;51.0339277;587;Kamps Bäckerei;Bäckerei;Baecker
+6.22016;51.03579;588;Norbert Sieberichs;Restaurant;Restaurant
+6.2194947;51.0360286;589;Martino;Restaurant;Restaurant
+6.2197243;51.0380095;590;H. Windelen;Restaurant;Restaurant
+6.2120897;51.0354282;591;Bistro Cafe 62 Erdogan;Bistro;Restaurant
+6.2140702;51.037158;592;Friedbert Hensen;Metzgerei;Metzger
+6.21174;51.04019;593;Hilfarther Brauhaus;Brauhaus;Restaurant
+6.2194184;51.0403094;594;Pizzeria Pinocchio;;Restaurant
+6.2194184;51.0403094;595;Pizzeria Pinocchio;Pizzeria;Restaurant
+6.2269632;51.0442336;596;Su Food International Cuisine;Restaurant;Restaurant
+6.2275242;51.045476;597;Cheers;Restaurant;Restaurant
+6.2268025;51.0484459;599;Domino's Pizza Hückelhoven;Pizzeria;Restaurant
+6.2266761;51.0484899;600;Subway;Restaurant;Restaurant
+6.2267774;51.0513467;601;Restaurant Mediteran Inh. Mirko Sitar;Restaurant;Restaurant
+6.2272757;51.0509286;602;Jägerhof;Restaurant;Restaurant
+6.22644;51.0527;603;Bistro Hangover;Bistro;Restaurant
+6.2272701;51.0532352;604;Gaststätte Markt 17;Gaststätte;Restaurant
+6.2277014;51.0530889;605;Gaststätte Zum Hühnerrabbi;Gaststätte;Restaurant
+6.2241375;51.0515586;606;El Sombrero Hückelhoven;Restaurant;Restaurant
+6.2264661;51.0540765;607;Gaststätte La Baguette;Gaststätte;Restaurant
+6.2229331;51.0523713;608;Bistro Jojo's;Bistro;Restaurant
+6.2232148;51.0528844;609;Landbäckerei Stinges;Bäckerei;Baecker
+6.2232351;51.0531795;610;Athena;Imbiss;Restaurant
+6.223184;51.05493;611;Bistro Le Clou;Restaurant;Restaurant
+6.22288;51.05538;612;Kamps Bäckerei;Bäckerei;Baecker
+6.222765;51.0558775;615;Syriana Restaurant;Restaurant;Restaurant
+6.2225;51.0561;616;Pizzeria Ciao Ciao;Pizzeria;Restaurant
+6.222278;51.0559295;617;Bäckerei Bremer;Bäckerei;Baecker
+6.2223;51.05626;618;Devran-Grill;Restaurant;Restaurant
+6.22198;51.05621;619;King Of Cigköfte;Restaurant;Restaurant
+6.2193544;51.0566785;620;Landbäckerei Stinges;Bäckerei;Baecker
+6.2213795;51.0552442;622;Bäckerei Büsch GmbH;Bäckerei;Baecker
+6.2207857;51.0573418;623;Karadeniz Grill;Restaurant;Restaurant
+6.22239;51.06081;624;Tuna Kebaphaus & Pizzeria;Imbiss;Restaurant
+6.21848;51.05219;625;BURGER KING Deutschland GmbH;;Restaurant
+6.21848;51.05219;626;BURGER KING Deutschland GmbH;Restaurant;Restaurant
+6.2168568;51.0530905;627;McDonald's Restaurant;Restaurant;Restaurant
+6.2174527;51.050377;628;Landbäckerei Stinges;Bäckerei;Baecker
+6.1948059;51.0596362;630;Pizzeria Roma;Pizzeria;Restaurant
+6.1948885;51.0596989;631;Landbäckerei Stinges;Bäckerei;Baecker
+6.2062052;51.0625011;632;Camlica Döner;Imbiss;Restaurant
+6.1932532;51.0624267;633;Kamps Bäckerei;Bäckerei;Baecker
+6.21276;51.06425;634;Pizzeria Maria;Pizzeria;Restaurant
+6.1950823;51.0640505;635;Frank Klingler Family Restaurant;Restaurant;Restaurant
+6.1897634;51.0650735;637;Pizza Casa;Pizzeria;Restaurant
+6.188282;51.0655285;638;Diamant Restaurant - Lounge - Catering;Restaurant;Restaurant
+6.1892771;51.065285;639;Restaurant Zum Sheriff;Restaurant;Restaurant
+6.1891537;51.0652872;640;Helios Gyros;Restaurant;Restaurant
+6.1904173;51.0654329;641;Food Salon;Restaurant;Restaurant
+6.1904685;51.0657799;642;Bistro Buscher Eck;Bistro;Restaurant
+6.1909018;51.0659151;643;Baguetterie Francaise;Bäcker;Baecker
+6.1882125;51.0656034;644;Kamps Bäckerei;Bäckerei;Baecker
+6.1878201;51.06578;645;Gaststätte An der Chaussee;Gaststätte;Restaurant
+6.1862496;51.0677816;646;Remo Kebap;Imbiss;Restaurant
+6.1850909;51.06957;647;Die Wonny;Restaurant;Restaurant
+6.1916518;51.0681387;648;Landbäckerei Stinges;Bäckerei;Baecker
+6.193394;51.0679018;649;Hans-Konrad Frohnhofen;Metzgerei;Metzger
+6.1843224;51.0719145;651;China-Thai Imbiss: Hoang Long;Imbiss;Restaurant
+6.2211704;51.0770105;652;Arena Gastronomie GmbH;Restaurant;Restaurant
+6.1202592;50.96888;653;Johannes Grafen Inh. Josef Grafen e.K.;Metzgerei;Metzger
+6.1234836;50.9623721;654;Culinaria;Restaurant;Restaurant
+6.12299;50.9621;655;Wilhelm Oleg u. Vladimir Repp GbR;Metzgerei;Metzger
+6.1263438;50.9625442;656;Bollywood Curry;Restaurant;Restaurant
+6.1208572;50.9633846;657;Bäckerei Dohlen- Geilenkirchen;Bäckerei;Baecker
+6.1436923;50.9615858;658;LOHERHOF - Sportpark. Golfanlage. Restaurant.;Restaurant;Restaurant
+6.1015011;50.9248766;659;Frank Schaller;Fleischerei;Metzger
+6.11745;50.920369;660;Grillkönig;Restaurant;Restaurant
+6.1251463;50.9170309;661;Meertens, L u. Busch G.;Metzgerei;Metzger
+6.1356292;50.921447;662;Asia Bistro;Bistro;Restaurant
+6.1430501;50.91244;663;Willi Schoppenhoven;Metzgerei;Metzger
+6.1919609;51.0236832;665;Averna - Portugiesische Küche;Restaurant;Restaurant
+6.17367;51.03695;667;Oeben Gastroservice E.K.;Gastonomie;Restaurant
+6.1743212;51.0404925;668;H. Meuser;Restaurant;Restaurant
+6.1846994;51.0642316;669;Pizzeria Di Mark;Pizzeria;Restaurant
+6.1832;51.06539;670;Pizzeria Pronto;Pizzeria;Restaurant
+6.17979;51.06541;671;Rosi's Imbiss;Imbiss;Restaurant
+6.1783782;51.0653042;672;Metzger Mike - Metzgerei Michael Evertz;Metzgerei;Metzger
+6.1780297;51.0657501;673;Jägerhof;Restaurant;Restaurant
+6.1674992;51.0838482;675;FAMO Gastro;Gastronomie;Restaurant
+6.1457717;51.0850565;676;Bollo`s Burgerbude;Imbiss;Restaurant
+6.1492338;51.0883242;677;Hermanns;Restaurant;Restaurant
+6.1474729;51.0391169;678;Gaststätte Alt Dremmen;Gaststätte;Restaurant
+6.1469061;51.0390865;679;Meller´s Grill & Pizzeria;Imbiss;Restaurant
+6.1462397;51.0394877;680;Pizzeria Il Genio II;Pizzeria;Restaurant
+6.1504931;51.0440543;683;Dremmener Grill & Pizzeria;Pizzeria;Restaurant
+6.1580418;51.047568;684;Fritty Women;Restaurant;Restaurant
+6.1562;51.04803;685;Backfrucht Produktion & Handel GmbH;Restaurant;Restaurant
+6.1495521;51.0594718;687;Siegfried Esser Bäckerei;Bäckerei;Baecker
+6.15011;51.05955;688;Haag-Tränke;Restaurant;Restaurant
+6.1445186;51.0596566;690;H. Bischofs;Metzgerei;Metzger
+6.1437605;51.0595919;691;Kamps Bäckerei;Bäckerei;Baecker
+6.1435125;51.058649;693;Restaurant Alt Oberbruch;Restaurant;Restaurant
+6.1375601;51.05428;694;Pizzeria Bosa;Pizzeria;Restaurant
+6.13544;51.05181;695;F. Nobis;Bäckerei;Baecker
+6.1190046;51.0572869;696;Alte Bäckerei;Bäckerei;Baecker
+6.1379108;51.0637527;697;Gaststätte Altstadt-Treff;Gaststätte;Restaurant
+6.1395601;51.06283;698;Storms GmbH;Restaurant;Restaurant
+6.13998;51.06272;699;Restaurant Picasso Heinsberg;Restaurant;Restaurant
+6.14036;51.06259;700;La Bodega Heinsberg;Restaurant;Restaurant
+6.1413098;51.0627269;701;O Portugues Raposo;Restaurant;Restaurant
+6.14033;51.06208;702;Gaststätte Grillkönig;Gaststätte;Restaurant
+6.14089;51.0617584;703;Horst Esser;Metzgerei;Metzger
+6.1251089;51.0733519;704;H. Mobers;Restaurant;Restaurant
+6.09802;51.0693657;706;PommesPaula;Imbiss;Restaurant
+6.0991366;51.0706703;707;La Grotta;Restaurant;Restaurant
+6.0918552;51.0642824;709;Landbäckerei Stinges;Bäckerei;Baecker
+6.0931993;51.0629494;710;Ristorante Laguna;Restaurant;Restaurant
+6.093337;51.0627097;711;Wurstspezialitäten Esser;Metzgerei;Metzger
+6.0932493;51.062328;712;Landbäckerei Stinges;Bäckerei;Baecker
+6.0922534;51.0631447;713;Metzgerei Hermanns;Metzgerei;Metzger
+6.09225;51.0595;714;H.-F. Cüppers;Restaurant;Restaurant
+6.0973306;51.0636073;722;Chic;Restaurant;Restaurant
+6.10242;51.05893;723;A. Hermanns;Metzgerei;Metzger
+6.1097027;51.0689358;724;Restaurant Mahlzeit IMS GmbH;Restaurant;Restaurant
+6.10488;51.06528;725;Kamps Bäckerei;Bäckerei;Baecker
+6.1092605;51.0680177;726;Landbäckerei Stinges;Bäckerei;Baecker
+6.1095875;51.0680481;727;Wurstspezialitäten Esser;Metzgerei;Metzger
+6.10708;51.03654;728;Eduard Hermanns;Metzgerei;Metzger
+6.07158;51.04629;729;Dorfschänke;Gaststätte;Restaurant
+6.2334133;51.0088594;4;Gaststätte Zum Postmeister;Gaststätte;Restaurant
+6.2220774;51.0429082;2401;Gaststätte Sodekamp-Dohmen;Gaststätte;Restaurant
+5.9862345;51.0673126;22;Brot & Gebäck Shop Schmitz;Einkauf;Baecker
+6.1364519;50.9024481;110;Josef und Rose Bergerhausen;Bäckerei;Baecker
+6.05349;51.08691;619;Leo Schreinemachers;Restaurant;Restaurant
+6.07304;51.07429;623;Hans-Herbert Roubrocks;Restaurant;Restaurant
+6.31378;51.08832;1247;Fleischwaren Thönnissen;Einkauf;Metzger
+6.2785807;51.0347187;1401;Gelato Lounge - Italienische Eisspezialitäten;Restaurant;Restaurant
+6.2802128;51.035207;1402;Grill-König;Restaurant;Restaurant
+6.2803386;51.034897;1403;Jupps Bistro Cafe Kneipe;Bistro;Restaurant
+6.27494;51.10202;1453;Schwanenberg Bäckerei Hoffmann;Bäckerei;Baecker
+6.1941063;51.069151;1681;Glück Auf Imbiss;Imbiss;Restaurant
+6.145348;51.060773;1902;Eko Kebap;Imbiss;Restaurant
+6.1438168;51.0596106;1906;Ratskeller;Restaurant;Restaurant
+6.14283;51.06188;1953;Taverna 2000;Restaurant;Restaurant
+6.1078844;51.0301707;2175;Janses Mattes;Restaurant;Restaurant

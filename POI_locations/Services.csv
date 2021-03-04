@@ -1,0 +1,1669 @@
+﻿x;y;gid;Name;description;new
+6.1215531;50.9624198;13;Volksbank Heinsberg eG, Regionalzentrum Geilenkirchen;Bank;Bank
+6.121424;50.962379;14;Geldautomat Volksbank Heinsberg eG;Bank;Geldautomat
+6.03061;51.06863;16;Obspringen, Waldfeucht, Obspringen;Bushalte;Bushaltestelle
+5.98889;51.06576;20;Waldfeucht, Waldfeucht, Markt;Bushalte;Bushaltestelle
+5.9902734;51.0681182;21;Bushalte;Bushalte;Bushaltestelle
+6.18767;50.99353;22;Leiffarth, Geilenkirchen, Leiffarth Sparkasse;Bushalte;Bushaltestelle
+6.03061;51.06863;23;Obspringen, Waldfeucht, Obspringen;Bushalte;Bushaltestelle
+6.18702;51.00215;24;Honsdorf, Geilenkirchen, Honsdorf;Bushalte;Bushaltestelle
+6.2081199;50.99666;25;Lindern, Geilenkirchen, Lindern Bahnhof (Bus);Bahnhof;Bahnhof
+6.18498;50.99251;26;Leiffarth, Geilenkirchen, Leiffarth Abzw.Beeck;Bushalte;Bushaltestelle
+6.18582;50.98446;27;Beeck, Geilenkirchen, Beeck Kreuz;Bushalte;Bushaltestelle
+6.17801;50.99078;28;Würm, Geilenkirchen, Würm Prummerner Weg;Bushalte;Bushaltestelle
+6.16706;50.99026;29;Müllendorf, Geilenkirchen, Müllendorf Wurmbrücke;Bushalte;Bushaltestelle
+6.215;50.99596;30;Lindern, Geilenkirchen, Lindern Kirche;Bushalte;Bushaltestelle
+6.1684613;50.9874858;31;Bushalte;Bushalte;Bushaltestelle
+6.21396;50.99701;32;Lindern, Geilenkirchen, Lindern Linnicher Straße;Bushalte;Bushaltestelle
+6.18937;50.98533;33;Beeck, Geilenkirchen, Beeck Unterdorf;Bushalte;Bushaltestelle
+6.2255;51.00012;34;Brachelen, Hückelhoven, Brachelen Neuer Karweg;Bushalte;Bushaltestelle
+6.24735;50.99976;35;Brachelen, Hückelhoven, Brachelen Schwarzer Weg;Bushalte;Bushaltestelle
+6.23946;51.00362;36;Brachelen, Hückelhoven, Brachelen Kirche;Bushalte;Bushaltestelle
+6.23623;51.00615;37;Brachelen, Hückelhoven, Brachelen Neustraße;Bushalte;Bushaltestelle
+6.24735;50.99976;38;Brachelen, Hückelhoven, Brachelen Schwarzer Weg;Bushalte;Bushaltestelle
+6.27083;51.01309;39;Rurich, Hückelhoven, Rurich Kirche;Bushalte;Bushaltestelle
+6.27742;51.03088;40;Baal, Hückelhoven, Baal Süd;Bushalte;Bushaltestelle
+6.27982;51.03435;41;Baal, Hückelhoven, Baal Kirche;Bushalte;Bushaltestelle
+6.2734108;51.0332266;42;Bahnhof;Bahnhof;Bahnhof
+6.27322;51.03337;43;Baal, Hückelhoven, Baal Bahnhof (Bus);Bushalte;Bushaltestelle
+6.2735047;51.0332233;44;Bushalte;Bushalte;Bushaltestelle
+6.248955;51.043953;45;Doveren, Hückelhoven, Doveren Bahnhof;Bushalte;Bushaltestelle
+6.26435;51.03764;46;Baal, Hückelhoven, Baal Damm;Bushalte;Bushaltestelle
+6.24495;51.05195;47;Doveren, Hückelhoven, Doveren Schule;Bushalte;Bushaltestelle
+6.2426;51.04571;48;Doveren, Hückelhoven, Doveren Provinzialstraße;Bushalte;Bushaltestelle
+6.26278;51.05467;49;Doveren, Hückelhoven, Doveren Abzw. Doverhahn;Bushalte;Bushaltestelle
+6.24825;51.04999;50;Doveren, Hückelhoven, Doveren Markt;Bushalte;Bushaltestelle
+6.22332;51.0437;51;Hilfarth, Hückelhoven, Hilfarth Rurbrücke;Bushalte;Bushaltestelle
+6.24705;51.04752;52;Doveren, Hückelhoven, Doveren Mölleberg;Bushalte;Bushaltestelle
+6.24245;51.04684;53;Doveren, Hückelhoven, Doveren Holzapfelstraße;Bushalte;Bushaltestelle
+6.22716;51.04855;54;Hückelhoven, Hückelhoven, Seniorenwohnpark;Bushalte;Bushaltestelle
+6.22157;51.04789;55;Hückelhoven, Hückelhoven, Rheinstraße;Bushalte;Bushaltestelle
+6.22324;51.05518;56;Hückelhoven, Hückelhoven, Rathaus;Bushalte;Bushaltestelle
+6.2239214;51.0517706;57;Hückelhoven Parkhofstraße;Bushalte;Bushaltestelle
+6.21955;51.0398;58;Hilfarth, Hückelhoven, Hilfarth Kreuz;Bushalte;Bushaltestelle
+6.21893;51.05751;59;Hückelhoven, Hückelhoven, Zeche;Bushalte;Bushaltestelle
+6.22324;51.05518;60;Hückelhoven, Hückelhoven, Rathaus;Bushalte;Bushaltestelle
+6.22704;51.06447;61;Hückelhoven, Hückelhoven, Schlee;Bushalte;Bushaltestelle
+6.2041899;51.06294;62;Schaufenberg, Hückelhoven, Schaufenberg Fa. Povel;Bushalte;Bushaltestelle
+6.16178;51.00144;63;Kraudorf, Geilenkirchen, Kraudorf;Bushalte;Bushaltestelle
+6.10871;51.06063;64;Heinsberg, Heinsberg, Kreishaus (Bus);Bushalte;Bushaltestelle
+6.15571;51.00537;65;Hoven, Geilenkirchen, Hoven;Bushalte;Bushaltestelle
+6.16023;50.99329;66;Kogenbroich, Geilenkirchen, Kogenbroich;Bushalte;Bushaltestelle
+6.17801;50.99078;67;Würm, Geilenkirchen, Würm Prummerner Weg;Bushalte;Bushaltestelle
+6.17871;50.99198;68;Würm, Geilenkirchen, Würm Kirche;Bushalte;Bushaltestelle
+6.09738;51.06222;70;Heinsberg, Heinsberg, Ostpromenade;Bushalte;Bushaltestelle
+6.09771;51.06545;72;Heinsberg, Heinsberg, Busbahnhof;Bushalte;Bushaltestelle
+6.09779;51.05673;73;Heinsberg, Heinsberg, Gymnasium;Bushalte;Bushaltestelle
+6.12285;51.059;74;Oberbruch, Heinsberg, Oberbruch Hartenbauer;Bushalte;Bushaltestelle
+6.0636055;51.0787273;85;Bernhard J. Prinz Facharzt für Innere und Allgemeinmedizin;Allgemeinmedizin;Allgemeinmedizin
+6.0931;51.06201;88;Herr Dr. med. Ekkehart Walter;Allgemeinmedizin;Allgemeinmedizin
+6.0904489;51.0650983;90;Herr Richard Trevisan;Allgemeinmedizin;Allgemeinmedizin
+6.09488;51.0607;91;Praxis Philipp Prinz;Allgemeinmedizin;Allgemeinmedizin
+6.0932921;51.0640628;92;Herr Dr. med. Dieter Roettger;Allgemeinmedizin;Allgemeinmedizin
+6.0998306;51.0624636;93;Dr.med. Christiane Schmitz;Allgemeinmedizin;Allgemeinmedizin
+6.0931;51.06201;94;Dr.med. Anita Hoeppener;Allgemeinmedizin;Allgemeinmedizin
+6.10896;51.06018;95;Volksbank Heinsberg eG, Regionalzentrum Heinsberg;Bank;Bank
+6.0953593;51.0633193;96;Volksbank Heinsberg eG, Regionalzentrum Heinsberg - Hochstraße;Bank;Bank
+6.109981;51.0693894;97;Geldautomat Volksbank Heinsberg eG;Bank;Geldautomat
+6.0932787;51.062368;98;Volksbank Heinsberg eG, SB-Center Heinsberg - Apfelstraße;Bank;Bank
+6.1413172;51.0548592;99;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.14405;51.05929;100;Volksbank Heinsberg eG, Filiale Oberbruch;Bank;Bank
+6.1503786;51.043887;101;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.1450003;51.0415207;102;Volksbank Heinsberg eG, Filiale Dremmen;Bank;Bank
+6.07181;51.07475;103;Volksbank Heinsberg eG, Filiale Kirchhoven;Bank;Bank
+6.0946664;51.0621056;104;Commerzbank;Bank;Bank
+6.14091;51.06268;112;Oberbruch, Heinsberg, Oberbruch Altstadt;Bushalte;Bushaltestelle
+6.13518;51.07235;113;Unterbruch, Heinsberg, Unterbruch Alte Schmiede;Bushalte;Bushaltestelle
+6.1379;51.04664;114;Oberbruch, Heinsberg, Oberbruch Hülhoven Kreuz;Bushalte;Bushaltestelle
+6.06633;51.07781;115;Kirchhoven, Heinsberg, Kirchhoven Schuttorf;Bushalte;Bushaltestelle
+6.0989601;51.0647403;116;Heinsberg(Rheinl);Bahnhof;Bahnhof
+6.1087769;51.0618;117;Heinsberg, Kreishaus Bf;Bahnhof;Bahnhof
+6.09771;51.06545;118;Heinsberg, Heinsberg, Busbahnhof;Bushalte;Bushaltestelle
+6.10871;51.06063;119;Heinsberg, Heinsberg, Kreishaus (Bus);Bushalte;Bushaltestelle
+6.09215;51.05813;120;Heinsberg, Heinsberg, AOK;Bushalte;Bushaltestelle
+6.10695;51.06372;121;Heinsberg, Heinsberg, Industriestraße;Bushalte;Bushaltestelle
+6.09738;51.06222;122;Heinsberg, Heinsberg, Ostpromenade;Bushalte;Bushaltestelle
+6.08913;51.06583;123;Heinsberg, Heinsberg, Liecker Straße;Bushalte;Bushaltestelle
+6.10332;51.06581;124;Heinsberg, Heinsberg, Rudolf-Diesel-Straße;Bushalte;Bushaltestelle
+6.10435;51.05907;125;Heinsberg, Heinsberg, Agentur für Arbeit;Bushalte;Bushaltestelle
+6.11472;51.05591;126;Schafhausen, Heinsberg, Schafhausen Mehrzweckhalle;Bushalte;Bushaltestelle
+6.11837;51.05572;127;Schafhausen, Heinsberg, Schafhausen Kuhlertgraben;Bushalte;Bushaltestelle
+6.11163;51.06247;128;Heinsberg, Heinsberg, Gewerbegebiet;Bushalte;Bushaltestelle
+6.11105;51.06361;129;Heinsberg, Heinsberg, Siemensstraße;Bushalte;Bushaltestelle
+6.11219;51.0653;130;Heinsberg, Heinsberg, Borsigstraße;Bushalte;Bushaltestelle
+6.09841;51.068772;131;Heinsberg, Kolpingstrasse;Bushalte;Bushaltestelle
+6.09882;51.06929;132;Heinsberg, Heinsberg, Kolpingstraße;Bushalte;Bushaltestelle
+6.10505;51.068;133;Heinsberg, Heinsberg, Unterbrucher Straße;Bushalte;Bushaltestelle
+6.07853;51.05801;134;Aphoven, Heinsberg, Aphoven Oberlieck;Bushalte;Bushaltestelle
+6.0735099;51.05172;135;Aphoven, Heinsberg, Aphoven Kreutzer;Bushalte;Bushaltestelle
+6.08409;51.06874;136;Lieck, Heinsberg, Lieck;Bushalte;Bushaltestelle
+6.0928875;51.0567163;137;Bushalte;Bushalte;Bushaltestelle
+6.11709;51.07184;138;Unterbruch, Heinsberg, Unterbruch Peters;Bushalte;Bushaltestelle
+6.12745;51.0741;139;Unterbruch, Heinsberg, Unterbruch Kirche;Bushalte;Bushaltestelle
+6.13339;51.07535;140;Unterbruch, Heinsberg, Unterbruch Kirchpfad;Bushalte;Bushaltestelle
+6.1316217;51.0561975;141;Bushalte;Bushalte;Bushaltestelle
+6.12776;51.05742;142;Oberbruch, Heinsberg, Oberbruch Grebben Schule;Bushalte;Bushaltestelle
+6.1349393;51.0532526;143;Heinsberg-Oberbruch;Bushalte;Bushaltestelle
+6.13332;51.05211;144;Oberbruch, Heinsberg, Oberbruch Grebben Andreasstraße;Bushalte;Bushaltestelle
+6.14637;51.05697;145;Oberbruch, Heinsberg, Oberbruch Freibad;Bushalte;Bushaltestelle
+6.14233;51.0585;146;Oberbruch, Heinsberg, Oberbruch Volkspark;Bushalte;Bushaltestelle
+6.14904;51.05741;147;Oberbruch, Heinsberg, Oberbruch Parkstraße;Bushalte;Bushaltestelle
+6.14691;51.0603;148;Oberbruch, Heinsberg, Oberbruch Markt;Bushalte;Bushaltestelle
+6.15025;51.05654;149;Oberbruch, Heinsberg, Oberbruch Schulzentrum;Bushalte;Bushaltestelle
+6.15952;51.05462;150;Oberbruch, Heinsberg, Oberbruch Kranzes;Bushalte;Bushaltestelle
+6.1373066;51.0539321;151;Bushalte;Bushalte;Bushaltestelle
+6.1528646;51.0586552;152;Bushalte;Bushalte;Bushaltestelle
+6.1551513;51.0547884;153;Bushalte;Bushalte;Bushaltestelle
+6.1360999;51.049853;154;Bushalte;Bushalte;Bushaltestelle
+6.1298343;51.0509524;155;Bushalte;Bushalte;Bushaltestelle
+6.1261941;51.0487983;156;Bushalte;Bushalte;Bushaltestelle
+6.1237259;51.0477427;157;Bushalte;Bushalte;Bushaltestelle
+6.15114;51.04508;158;Dremmen, Heinsberg, Dremmen Bahnhof (Bus);Bushalte;Bushaltestelle
+6.14921;51.0427;159;Dremmen, Heinsberg, Dremmen Sängerheim;Bushalte;Bushaltestelle
+6.14403;51.04251;160;Dremmen, Heinsberg, Dremmen Sebastianusstraße;Bushalte;Bushaltestelle
+6.14665;51.03918;161;Dremmen, Heinsberg, Dremmen Kirche;Bushalte;Bushaltestelle
+6.15379;51.03867;162;Dremmen, Heinsberg, Dremmen Falder Straße;Bushalte;Bushaltestelle
+6.15253;51.04567;163;Heinsberg-Dremmen;Bahnhof;Bahnhof
+6.1054619;51.0385939;164;Bushalte;Bushalte;Bushaltestelle
+6.1128884;51.0491616;165;Bushalte;Bushalte;Bushaltestelle
+6.1117199;51.0530704;166;Bushalte;Bushalte;Bushaltestelle
+6.09435;51.05445;167;Heinsberg, Heinsberg, Friedhof;Bushalte;Bushaltestelle
+6.10244;51.04154;168;Schafhausen, Heinsberg, Schafhausen Schleiden Derichs;Bushalte;Bushaltestelle
+6.07182;51.04545;169;Aphoven, Heinsberg, Aphoven Mitte;Bushalte;Bushaltestelle
+6.06983;51.04157;170;Aphoven, Heinsberg, Aphoven Post;Bushalte;Bushaltestelle
+6.05804;51.0406;171;Laffeld, Heinsberg, Laffeld Genstraße (Schulbus);Bushalte;Bushaltestelle
+6.05473;51.03869;172;Laffeld, Heinsberg, Laffeld Schule;Bushalte;Bushaltestelle
+6.06223;51.03883;173;Laffeld, Heinsberg, Laffeld Mitte;Bushalte;Bushaltestelle
+6.07265;51.03713;174;Aphoven, Heinsberg, Aphoven Schelsberg;Bushalte;Bushaltestelle
+6.07519;51.03317;175;Straeten, Heinsberg, Straeten Scheifendahl Mitte;Bushalte;Bushaltestelle
+6.07925;51.02944;176;Straeten, Heinsberg, Straeten Scheifendahl Oberdorf;Bushalte;Bushaltestelle
+6.06446;51.02451;177;Waldenrath, Heinsberg, Waldenrath Pütt;Bushalte;Bushaltestelle
+6.03952;51.05688;178;Braunsrath, Waldfeucht, Braunsrath Dorfplatz;Bushalte;Bushaltestelle
+6.05581;51.05346;179;Aphoven, Heinsberg, Aphoven Abzw. Braunsrath;Bushalte;Bushaltestelle
+6.03835;51.0625;180;Löcken, Waldfeucht, Löcken;Bushalte;Bushaltestelle
+6.03168;51.0629;181;Schöndorf, Waldfeucht, Schöndorf;Bushalte;Bushaltestelle
+6.02395;51.05447;182;Hontem, Waldfeucht, Hontem;Bushalte;Bushaltestelle
+6.03809;51.05451;183;Braunsrath, Waldfeucht, Braunsrath Mühlenberg;Bushalte;Bushaltestelle
+6.03128;51.05182;184;Hontem, Waldfeucht, Hontem Neustraße;Bushalte;Bushaltestelle
+6.03677;51.0514;185;Selsten, Waldfeucht, Selsten Kreuzung;Bushalte;Bushaltestelle
+6.0383;51.04797;186;Selsten, Waldfeucht, Selsten Mitte;Bushalte;Bushaltestelle
+6.03861;51.04465;187;Selsten, Waldfeucht, Selsten Abzw. Pütt;Bushalte;Bushaltestelle
+6.0738;51.07384;188;Kirchhoven, Heinsberg, Kirchhoven Kirche;Bushalte;Bushaltestelle
+6.0615;51.08023;189;Kirchhoven, Heinsberg, Kirchhoven Lümbach;Bushalte;Bushaltestelle
+6.0526;51.08391;190;Kirchhoven, Heinsberg, Kirchhoven Abzw. Vinn;Bushalte;Bushaltestelle
+6.05498;51.08634;191;Kirchhoven, Heinsberg, Kirchhoven Vinn;Bushalte;Bushaltestelle
+6.09191;51.0625;192;Heinsberg, Heinsberg, Westpromenade;Bushalte;Bushaltestelle
+6.0988201;51.0698395;193;Bushalte;Bushalte;Bushaltestelle
+6.09964;51.07593;194;Heinsberg, Heinsberg, Schwarzmanns;Bushalte;Bushaltestelle
+6.10107;51.07966;195;Kempen, Heinsberg, Kempen Flutgraf;Bushalte;Bushaltestelle
+6.10192;51.08625;196;Heinsberg, Eickenerweg;Bushalte;Bushaltestelle
+6.11743;51.09078;197;Kempen, Heinsberg, Kempen Hochbrück;Bushalte;Bushaltestelle
+6.10256;51.09181;198;Kempen, Heinsberg, Kempen Hochfeld;Bushalte;Bushaltestelle
+6.1031868;51.0913248;199;Bushalte;Bushalte;Bushaltestelle
+6.1037233;51.0910216;200;Bushalte;Bushalte;Bushaltestelle
+6.10164;51.09321;201;Kempen, Heinsberg, Kempen Kämpchenstraße;Bushalte;Bushaltestelle
+6.10167;51.09364;202;Kempen, Heinsberg, Kempen Kirche;Bushalte;Bushaltestelle
+6.1013885;51.0930942;203;Bushalte;Bushalte;Bushaltestelle
+6.0974;51.09505;204;Kempen, Heinsberg, Kempen Friedhof;Bushalte;Bushaltestelle
+6.10494;51.09676;205;Kempen, Heinsberg, Kempen Rurbrücke;Bushalte;Bushaltestelle
+6.0963536;51.0949308;206;Bushalte;Bushalte;Bushaltestelle
+6.0975927;51.0951565;207;Bushalte;Bushalte;Bushaltestelle
+6.084363;51.09365;208;Karken, Scherrers;Bushalte;Bushaltestelle
+6.076874;51.098719;209;Karken, Post 403;Bushalte;Bushaltestelle
+6.08294;51.10047;210;Karken, Heinsberg, Karken Mühlenstraße;Bushalte;Bushaltestelle
+6.084333;51.093533;211;Karken, Scherrers;Bushalte;Bushaltestelle
+6.0786446;51.0969484;212;Bushalte;Bushalte;Bushaltestelle
+6.073856;51.101218;213;Karken, Schmiede;Bushalte;Bushaltestelle
+6.07635;51.10192;214;Karken, Heinsberg, Karken Schule;Bushalte;Bushaltestelle
+6.072709;51.101881;215;Karken, Schmiede;Bushalte;Bushaltestelle
+6.07972;51.10425;216;Karken, Heinsberg, Karken Kirche;Bushalte;Bushaltestelle
+6.068174;51.10509;217;Karken, Sonnenschein;Bushalte;Bushaltestelle
+6.0684772;51.1048455;218;Bushalte;Bushalte;Bushaltestelle
+6.0726476;51.1067338;219;Bushalte;Bushalte;Bushaltestelle
+6.0733435;51.1015327;220;Bushalte;Bushalte;Bushaltestelle
+6.04372;51.08764;221;Haaren, Waldfeucht, Haaren Driesch;Bushalte;Bushaltestelle
+6.03716;51.09067;222;Haaren, Waldfeucht, Haaren Neuhaaren;Bushalte;Bushaltestelle
+6.03231;51.09041;223;Haaren, Waldfeucht, Haaren Soperich;Bushalte;Bushaltestelle
+6.02664;51.08822;224;Haaren, Waldfeucht, Haaren Pölert;Bushalte;Bushaltestelle
+6.01953;51.08921;225;Haaren, Waldfeucht, Haaren Alte Schule;Bushalte;Bushaltestelle
+6.01349;51.08728;226;Haaren, Waldfeucht, Haaren Abzw. Obspringen;Bushalte;Bushaltestelle
+6.00763;51.08535;227;Haaren, Waldfeucht, Haaren Abzw. Schabroich;Bushalte;Bushaltestelle
+5.9964977;51.0745926;228;Birgit Höninger Busreisen;Bushalte;Bushaltestelle
+6.04665;51.08281;229;Von den Driesch;Bushalte;Bushaltestelle
+6.1084;51.02969;230;Schafhausen, Heinsberg, Schafhausen Schleiden Jansen;Bushalte;Bushaltestelle
+6.09393;51.02958;231;Heinsberg, Heinsberg, Erpen;Bushalte;Bushaltestelle
+6.09929;51.02765;232;Heinsberg, Heinsberg, Abzw. Dorath;Bushalte;Bushaltestelle
+6.09253;51.02584;233;Heinsberg, Heinsberg, Abzw. Erpen;Bushalte;Bushaltestelle
+6.08509;51.02238;234;Straeten, Heinsberg, Straeten Hamacher;Bushalte;Bushaltestelle
+6.1488986;51.0340085;235;Bushalte;Bushalte;Bushaltestelle
+6.17378;51.05448;236;Oberbruch, Heinsberg, Oberbruch Schanz;Bushalte;Bushaltestelle
+6.16978;51.05039;237;Oberbruch, Heinsberg, Bleckden;Bushalte;Bushaltestelle
+6.17522;51.04268;238;Porselen, Heinsberg, Porselen Bendengasse;Bushalte;Bushaltestelle
+6.201;51.04467;239;Hilfarth, Hückelhoven, Hilfarth Kaphof;Bushalte;Bushaltestelle
+6.17357;51.03647;240;Porselen, Heinsberg, Porselen Ort;Bushalte;Bushaltestelle
+6.17554;51.02905;241;Horst, Heinsberg, Horst Ort;Bushalte;Bushaltestelle
+6.1734438;51.0410108;242;Bahnhof;Bahnhof;Bahnhof
+6.1245553;51.053281;243;Bushalte;Bushalte;Bushaltestelle
+6.17554;51.02905;244;Horst, Heinsberg, Horst Ort;Bushalte;Bushaltestelle
+6.19385;51.02719;245;Randerath, Heinsberg, Randerath Himmerich Waldesruh;Bushalte;Bushaltestelle
+6.18982;51.02287;246;Randerath, Heinsberg, Randerath Himmerich;Bushalte;Bushaltestelle
+6.17237;51.01998;247;Randerath, Heinsberg, Randerath Am Hellenkamp;Bushalte;Bushaltestelle
+6.17254;51.01599;248;Randerath, Heinsberg, Randerath Sandberg;Bushalte;Bushaltestelle
+6.17693;51.01578;249;Randerath, Heinsberg, Randerath Kirche;Bushalte;Bushaltestelle
+6.18163;51.01648;250;Randerath, Heinsberg, Randerath Bahnhof (Bus);Bushalte;Bushaltestelle
+6.18383;51.01388;251;Randerath, Heinsberg, Randerath Heerweg;Bushalte;Bushaltestelle
+6.1882626;51.0123365;252;Karin Hanrath Schulkinderbeförderung;Bushalte;Bushaltestelle
+6.1659401;51.00346;253;Nirm, Geilenkirchen, Nirm;Bushalte;Bushaltestelle
+6.1824439;51.0162306;254;Bahnhof;Bahnhof;Bahnhof
+6.1822105;51.0288191;255;Bahnhof;Bahnhof;Bahnhof
+6.17794;51.00218;256;Flahstraß, Geilenkirchen, Flahstraß;Bushalte;Bushaltestelle
+6.23169;51.01025;257;Brachelen, Hückelhoven, Brachelen Alter Steinweg;Bushalte;Bushaltestelle
+6.23272;51.00887;258;Brachelen, Hückelhoven, Brachelen Unterführung;Bushalte;Bushaltestelle
+6.2312814;51.0077146;259;Brachelen;Bushalte;Bushaltestelle
+6.17871;50.99198;260;Würm, Geilenkirchen, Würm Kirche;Bushalte;Bushaltestelle
+6.15155;50.97864;261;Süggerath, Geilenkirchen, Süggerath Mühlenkamp;Bushalte;Bushaltestelle
+6.15111;50.97806;262;Süggerath, Geilenkirchen, Süggerath Unterdorf;Bushalte;Bushaltestelle
+6.14951;50.97605;263;Süggerath, Geilenkirchen, Süggerath Kirche;Bushalte;Bushaltestelle
+6.1431;50.97249;264;Süggerath, Geilenkirchen, Süggerath Oberdorf;Bushalte;Bushaltestelle
+6.16771;50.96597;265;Prummern, Geilenkirchen, Prummern Friedhof;Bushalte;Bushaltestelle
+6.13244;50.97286;266;Geilenkirchen, Geilenkirchen, Burg Trips;Bushalte;Bushaltestelle
+6.16771;50.96597;267;Prummern, Geilenkirchen, Prummern Friedhof;Bushalte;Bushaltestelle
+6.16772;50.95362;268;Immendorf, Geilenkirchen, Immendorf Friedhof;Bushalte;Bushaltestelle
+6.17272;50.95114;269;Immendorf, Geilenkirchen, Immendorf Amt;Bushalte;Bushaltestelle
+6.142;50.96157;270;Geilenkirchen, Geilenkirchen, Loherhof;Bushalte;Bushaltestelle
+6.13415;50.95794;271;Geilenkirchen, Geilenkirchen, Abzw. Loherhof;Bushalte;Bushaltestelle
+6.19018;50.95358;272;Apweiler, Geilenkirchen, Apweiler;Bushalte;Bushaltestelle
+6.15424;50.94349;273;Waurichen, Geilenkirchen, Waurichen;Bushalte;Bushaltestelle
+6.1355999;50.96059;274;Hünshoven, Geilenkirchen, Hünshoven;Bushalte;Bushaltestelle
+6.1310834;50.962069;275;Bushalte;Bushalte;Bushaltestelle
+6.12405;50.96109;276;Geilenkirchen, Geilenkirchen, Bahnhof (Bus);Bahnhof;Bahnhof
+6.1232198;50.9608384;277;WestVerkehr GmbH;Bushalte;Bushaltestelle
+6.123974;50.961562;278;Geilenkirchen, Bahnhof;Bushalte;Bushaltestelle
+6.121247;50.963718;279;Geilenkirchen, Markt;Bushalte;Bushaltestelle
+6.11197;50.96629;280;Bauchem, Geilenkirchen, Bauchem Sittarder Straße;Bushalte;Bushaltestelle
+6.11217;50.96821;281;Geilenkirchen, Geilenkirchen, Berufskolleg;Bushalte;Bushaltestelle
+6.11951;50.97199;282;Geilenkirchen, Geilenkirchen, Landstraße;Bushalte;Bushaltestelle
+6.1134;50.97151;283;Bauchem, Geilenkirchen, Bauchem Kirche;Bushalte;Bushaltestelle
+6.11741;50.98387;284;Niederheid, Geilenkirchen, Niederheid Gewerbegeb. Fürthenrode;Bushalte;Bushaltestelle
+6.1192;50.96531;285;Heinrich Funken Autobus Reisedienst oHG;Bushalte;Bushaltestelle
+6.11437;50.96556;286;Geilenkirchen, Geilenkirchen, Kreuzstraße;Bushalte;Bushaltestelle
+6.1161638;50.9656043;287;Bushalte;Bushalte;Bushaltestelle
+6.1153216;50.9658408;288;Bushalte;Bushalte;Bushaltestelle
+6.1112232;50.9664861;289;Bushalte;Bushalte;Bushaltestelle
+6.10733;50.9682;290;Geilenkirchen, Geilenkirchen, Johann-Plum-Platz;Bushalte;Bushaltestelle
+6.10429;50.967141;291;Bauchem, Schutzenstrasse;Bushalte;Bushaltestelle
+6.1042509;50.9670092;292;Bushalte;Bushalte;Bushaltestelle
+6.104452;50.966972;293;Bushalte;Bushalte;Bushaltestelle
+6.10021;50.96867;294;Bauchem, Geilenkirchen, Bauchem Flandernstraße;Bushalte;Bushaltestelle
+6.10513;50.97063;295;Geilenkirchen, Geilenkirchen, Bauchem Geldernstraße;Bushalte;Bushaltestelle
+6.09403;50.97146;296;Bauchem, Geilenkirchen, Bauchem Gutenbergstraße;Bushalte;Bushaltestelle
+6.1106;50.97288;297;Bauchem, Geilenkirchen, Bauchem Schulzentrum;Bushalte;Bushaltestelle
+6.105065;50.973473;298;Bauchem, Geilenkirchen, Bauchem Niederheider Weg;Bushalte;Bushaltestelle
+6.11645;50.97096;299;Geilenkirchen, Geilenkirchen, Gerhart-Hauptmann-Straße;Bushalte;Bushaltestelle
+6.1235735;50.9666299;300;Geilenkirchen, Geilenkirchen, Martin-Heyden-Straße;Bushalte;Bushaltestelle
+6.1212;50.96247;301;Geilenkirchen Kaufland , Haihover Straße;Bushalte;Bushaltestelle
+6.1193842;50.969056;302;Bushalte;Bushalte;Bushaltestelle
+6.1227608;50.965753;303;Bushalte;Bushalte;Bushaltestelle
+6.1216074;50.9633441;304;Bushalte;Bushalte;Bushaltestelle
+6.1257917;50.9637428;305;Bushalte;Bushalte;Bushaltestelle
+6.1241156;50.9610833;306;Geilenkirchen;Bushalte;Bushaltestelle
+6.114155;50.9598753;307;Bushalte;Bushalte;Bushaltestelle
+6.1094224;50.9638903;308;Bushalte;Bushalte;Bushaltestelle
+6.1214036;50.9720279;309;Bushalte;Bushalte;Bushaltestelle
+6.10037;50.94929;310;Frelenberg, Übach-Palenberg, Frelenberg Heinsberger Straße;Bushalte;Bushaltestelle
+6.1096978;50.9565595;311;Bushalte;Bushalte;Bushaltestelle
+6.10037;50.94929;312;Frelenberg, Übach-Palenberg, Frelenberg Heinsberger Straße;Bushalte;Bushaltestelle
+6.1021999;50.94565;313;Frelenberg, Übach-Palenberg, Frelenberg Teverenstraße;Bushalte;Bushaltestelle
+6.10729;50.94401;314;Frelenberg, Übach-Palenberg, Frelenberg Ägidiusstraße;Bushalte;Bushaltestelle
+6.10565;50.94334;315;Frelenberg, Übach-Palenberg, Frelenberg Kirche;Bushalte;Bushaltestelle
+6.11338;50.9432;316;Frelenberg, Übach-Palenberg, Frelenberg Ackerstraße;Bushalte;Bushaltestelle
+6.11469;50.94094;317;Frelenberg, Übach-Palenberg, Frelenberg Urweg;Bushalte;Bushaltestelle
+6.11053;50.94048;318;Frelenberg, Übach-Palenberg, Frelenberg Gürzelweg;Bushalte;Bushaltestelle
+6.106473;50.9416992;319;Bushalte;Bushalte;Bushaltestelle
+6.10366;50.93536;320;Zweibrüggen, Übach-Palenberg, Abzw. Zweibrüggen;Bushalte;Bushaltestelle
+6.10007;50.93636;321;Zweibrüggen, Übach-Palenberg, Zweibrüggen Wurmbrücke;Bushalte;Bushaltestelle
+6.09223;50.93889;322;Windhausen, Übach-Palenberg, Windhausen;Bushalte;Bushaltestelle
+6.0961686;50.935766;323;Bushalte;Bushalte;Bushaltestelle
+6.08073;50.93957;324;Siepenbusch, Übach-Palenberg, Siepenbusch;Bushalte;Bushaltestelle
+6.0702;50.94432;325;Grotenrath, Geilenkirchen, Grotenrath Eigelshoven;Bushalte;Bushaltestelle
+6.06659;50.94002;326;Grotenrath, Geilenkirchen, Grotenrath Am Feldkreuz;Bushalte;Bushaltestelle
+6.07771;50.95138;327;Teveren, Geilenkirchen, Teveren Waidmühle;Bushalte;Bushaltestelle
+6.05841;50.93996;328;Grotenrath, Geilenkirchen, Grotenrath Post;Bushalte;Bushaltestelle
+6.0717;50.93037;329;Scherpenseel, Übach-Palenberg, Scherpenseel Schule;Bushalte;Bushaltestelle
+6.09456;50.93216;330;Marienberg, Übach-Palenberg, Marienberg Am Erbbusch;Bushalte;Bushaltestelle
+6.0783;50.96835;331;Nierstraß, Geilenkirchen, Nierstraß;Bushalte;Bushaltestelle
+6.08224;50.95456;332;Teveren, Geilenkirchen, Teveren Schule;Bushalte;Bushaltestelle
+6.06143;50.95339;333;Teveren, Geilenkirchen, Teveren Fliegerhorst;Bushalte;Bushaltestelle
+6.08007;50.9527;334;Teveren, Geilenkirchen, Teveren Post;Bushalte;Bushaltestelle
+6.0728;50.92716;335;Scherpenseel, Übach-Palenberg, Scherpenseel Röntgenstraße;Bushalte;Bushaltestelle
+6.06898;50.92873;336;Scherpenseel, Übach-Palenberg, Scherpenseel Kirche;Bushalte;Bushaltestelle
+6.06243;50.92482;337;Scherpenseel, Übach-Palenberg, Scherpenseel Grenze;Bushalte;Bushaltestelle
+6.09293;50.92862;338;Marienberg, Übach-Palenberg, Marienberg Sandberg;Bushalte;Bushaltestelle
+6.0946045;50.9255146;339;Wurmtal;Bushalte;Bushaltestelle
+6.0874816;50.9256775;340;Bushalte;Bushalte;Bushaltestelle
+6.10039;50.92994;341;Palenberg, Übach-Palenberg, Palenberg Paul-Keller-Straße;Bushalte;Bushaltestelle
+6.10015;50.9265;342;Palenberg, Übach-Palenberg, Palenberg Wurmtalbrücke;Bushalte;Bushaltestelle
+6.10264;50.92477;343;Palenberg, Übach-Palenberg, Palenberg Mühlenweg;Bushalte;Bushaltestelle
+6.10709;50.92494;344;Palenberg, Übach-Palenberg, Palenberg Carolus-Magnus-Allee;Bushalte;Bushaltestelle
+6.097977;50.923278;345;Ubach-Palenberg, Palenberg Bf’perron B;Bushalte;Bushaltestelle
+6.0975059;50.9233143;346;Übach-Palenberg Bahnhof;Bushalte;Bushaltestelle
+6.0970494;50.9240733;347;Übach-Palenberg;Bahnhof;Bahnhof
+6.1023;50.92028;348;Palenberg, Übach-Palenberg, Palenberg Rimburger Acker;Bushalte;Bushaltestelle
+6.10903;50.92097;349;Palenberg, Übach-Palenberg, Palenberg Evangelische Kirche;Bushalte;Bushaltestelle
+6.1120085;50.9209325;351;Bushalte;Bushalte;Bushaltestelle
+6.11599;50.91669;352;Übach, Übach-Palenberg, Übach Sportzentrum;Bushalte;Bushaltestelle
+6.12647;50.91647;353;Übach, Übach-Palenberg, Übach Markt;Bushalte;Bushaltestelle
+6.1372;50.91202;354;Boscheln, Übach-Palenberg, Boscheln Brünestraße;Bushalte;Bushaltestelle
+6.13756;50.90344;355;Boscheln, Übach-Palenberg, Boscheln Mommertzhäuschen;Bushalte;Bushaltestelle
+6.13603;50.90156;356;Boscheln, Übach-Palenberg, Boscheln Alt Boscheln;Bushalte;Bushaltestelle
+6.0970494;50.9240733;357;Übach-Palenberg;Bushalte;Bushaltestelle
+6.1439551;50.9123888;358;Bushalte;Bushalte;Bushaltestelle
+6.1492337;50.9126594;359;Bushalte;Bushalte;Bushaltestelle
+6.14123;50.9097099;360;Bushalte;Bushalte;Bushaltestelle
+6.1373033;50.9084637;361;Bushalte;Bushalte;Bushaltestelle
+6.1412193;50.9071715;362;Bushalte;Bushalte;Bushaltestelle
+6.1369932;50.9160664;363;Bushalte;Bushalte;Bushaltestelle
+6.1390639;50.9168105;364;Bushalte;Busahlte;Bushaltestelle
+6.1296225;50.915735;365;Bushalte;Bushalte;Bushaltestelle
+6.1313102;50.9202375;366;Bushalte;Bushalte;Bushaltestelle
+6.1221585;50.9181476;367;Bushalte;Bushalte;Bushaltestelle
+6.1180494;50.9186075;368;Bushalte;Bushalte;Bushaltestelle
+6.1210117;50.919902;369;Bushalte;Bushalte;Bushaltestelle
+6.1315091;50.911801;370;Bushalte;Bushalte;Bushaltestelle
+6.15424;50.94349;371;Waurichen, Geilenkirchen, Waurichen;Bushalte;Bushaltestelle
+6.06659;50.94002;372;Grotenrath, Geilenkirchen, Grotenrath Am Feldkreuz;Bushalte;Bushaltestelle
+6.08078;50.97772;373;Gillrath, Geilenkirchen, Gillrath Teeuwen;Bushalte;Bushaltestelle
+6.07475;50.97811;374;Gillrath, Geilenkirchen, Gillrath Grundschule;Bushalte;Bushaltestelle
+6.0843;50.98545;375;Hatterath, Geilenkirchen, Hatterath Salzweg;Bushalte;Bushaltestelle
+6.07666;50.98197;376;Gillrath, Geilenkirchen, Gillrath Birgdener Straße;Bushalte;Bushaltestelle
+6.074354;50.981625;377;Gillrath, Geilenkirchen, Gillrath Kirche;Bushalte;Bushaltestelle
+6.06776;50.98262;378;Gillrath, Geilenkirchen, Gillrath Schwarzer Weg;Bushalte;Bushaltestelle
+6.0586281;50.983191;379;Gillrath, Gerads;Bushalte;Bushaltestelle
+6.05197;50.98416;380;Stahe, Gangelt, Stahe Leyenhaus;Bushalte;Bushaltestelle
+6.0730429;50.9796991;381;Bahnhof;Bahnhof;Bahnhof
+6.0682901;50.9827387;382;Bushalte;Bushalte;Bushaltestelle
+6.0673674;50.9826914;383;Bushalte;Bushalte;Bushaltestelle
+6.0605637;50.983196;384;Bushalte;Bushalte;Bushaltestelle
+6.0597322;50.9831251;385;Bushalte;Bushalte;Bushaltestelle
+6.04478;50.98575;386;Stahe, Gangelt, Stahe Zaunbrecher;Bushalte;Bushaltestelle
+6.0361;50.97911;387;Niederbusch, Gangelt, Niederbusch Kleiner Weg;Bushalte;Bushaltestelle
+6.03139;50.98069;388;Niederbusch, Gangelt, Niederbusch Dorfstraße;Bushalte;Bushaltestelle
+6.037903;50.986923;389;Stahe, Krings;Bushalte;Bushaltestelle
+6.03602;50.98645;390;Stahe, Gangelt, Stahe Post;Bushalte;Bushaltestelle
+6.02821;50.9893;391;Stahe, Gangelt, Stahe Kreuzberg;Bushalte;Bushaltestelle
+6.02181;50.98796;392;Stahe, Gangelt, Stahe Im Kamp;Bushalte;Bushaltestelle
+6.01519;50.98889;393;Stahe, Gangelt, Stahe Wirtsberg;Bushalte;Bushaltestelle
+6.036376;50.9872866;394;Bushalte;Bushalte;Bushaltestelle
+6.0355177;50.9876919;395;Bushalte;Bushalte;Bushaltestelle
+6.01351;50.99123;396;Gangelt, Gangelt, Tonwerk;Bushalte;Bushaltestelle
+6.00482;50.99231;397;Gangelt, Gangelt, Jakob-Muth-Schule;Bushalte;Bushaltestelle
+6.0057263;50.9916286;398;Bushalte;Bushalte;Bushaltestelle
+5.9988232;50.9925152;399;Amt, Gangelt;Bushalte;Bushaltestelle
+5.9989181;50.9923953;400;Busahlte;Bushalte;Bushaltestelle
+5.99826;50.9904073;401;Bushalte;Bushalte;Bushaltestelle
+6.0025859;50.9944196;402;Gangelt, Gangelt, Schulzentrum;Bushalte;Bushaltestelle
+6.00135;50.99465;403;Gangelt, Gangelt, Realschule;Bushalte;Bushaltestelle
+5.99969;50.9953;404;Gangelt, Gangelt, Bahnhof;Bushalte;Bushaltestelle
+5.9920745;50.9938772;405;Gangelt, Gangelt, Hastenrather Weg;Bushalte;Bushaltestelle
+5.99304;50.98826;406;Gangelt, Gangelt, Franz-Savels-Straße;Bushalte;Bushaltestelle
+5.9960721;50.994373;407;Bushalte;Bushalte;Bushaltestelle
+5.9785683;50.9841043;408;Bushalte;Bushalte;Bushaltestelle
+5.9765942;50.984361;409;Bushalte;Bushalte;Bushaltestelle
+5.94546;50.99324;410;Süsterseel, Selfkant, Süsterseel Schule;Bushalte;Bushaltestelle
+5.94337;50.99518;411;Süsterseel, Selfkant, Süsterseel Kreissparkasse;Bushalte;Bushaltestelle
+5.940759;50.99621;412;Susterseel, Kreissparkasse;Bushalte;Bushaltestelle
+5.9421839;50.9956551;413;Bushalte;Bushalte;Bushaltestelle
+5.93682;50.99677;414;Süsterseel, Selfkant, Süsterseel Bundesstraße;Bushalte;Bushaltestelle
+5.93472;50.99926;415;Süsterseel, Selfkant, Süsterseel Karl-Arnold Straße;Bushalte;Bushaltestelle
+5.93128;50.99759;416;Süsterseel, Selfkant, Süsterseel Wehrer Bahnhof;Bushalte;Bushaltestelle
+5.9345497;50.9994025;417;Bushalte;Bushalte;Bushaltestelle
+5.9345765;50.9992759;418;Bushalte;Bushalte;Bushaltestelle
+5.93194;51.00082;419;Süsterseel, Selfkant, Süsterseel Geilen;Bushalte;Bushaltestelle
+5.92685;50.99427;420;Wehr, Selfkant, Wehr Abzw. Hillensberg;Bushalte;Bushaltestelle
+5.92218;50.99518;421;Wehr, Selfkant, Wehr B56;Bushalte;Bushaltestelle
+5.92913;51.00345;422;Süsterseel, Selfkant, Süsterseel Westerheide;Bushalte;Bushaltestelle
+5.9087741;50.976872;423;Bushalte;Bushalte;Bushaltestelle
+5.9135806;50.9798847;424;Bushalte;Bushalte;Bushaltestelle
+5.9181511;50.9830053;425;Bushalte;Bushalte;Bushaltestelle
+5.90512;51.01279;426;Tüddern, Selfkant, Tüddern Geilenkirchener Straße;Bushalte;Bushaltestelle
+5.89928;51.01212;427;Tüddern, Selfkant, Tüddern Schule;bushalte;Bushaltestelle
+5.9056699;51.01471;428;Tüddern, Selfkant, Tüddern Am Höfgen;Bushalte;Bushaltestelle
+5.895249;51.014441;429;Tuddern, Apotheke;Bushalte;Bushaltestelle
+5.89484;51.01408;430;Tüddern, Selfkant, Tüddern Apotheke;Bushalte;Bushaltestelle
+5.90252;51.01631;431;Tüddern, Selfkant, Tüddern Am Rathaus;Bushalte;Bushaltestelle
+5.9005765;51.0164262;432;Tüddern, Selfkant, Tüddern Nahversorgung;Bushalte;Bushaltestelle
+5.89409;51.0151;433;Tüddern, Selfkant, Tüddern Millerner Weg;Bushalte;Bushaltestelle
+5.8951188;51.014558;434;Bushalte;Bushalte;Bushaltestelle
+5.8824099;51.02238;435;Millen, Selfkant, Millen;Bushalte;Bushaltestelle
+5.90569;51.03351;436;Millen-Bruch, Selfkant, Millen-Bruch;Bushalte;Bushaltestelle
+5.928261;51.018795;437;Hongen, Schule;Bushalte;Bushaltestelle
+5.9358;51.01987;438;Höngen, Selfkant, Höngen Bird;Bushalte;Bushaltestelle
+5.93228;51.0227;439;Höngen, Selfkant, Höngen Schmitz;Bushalte;Bushaltestelle
+5.92923;51.0229;440;Höngen, Selfkant, Höngen Zehntweg;Bushalte;Bushaltestelle
+5.93554;51.02517;441;Höngen, Selfkant, Höngen Schule;Bushalte;Bushaltestelle
+5.93646;51.02848;442;Höngen, Selfkant, Höngen Molkerei;Bushalte;Bushaltestelle
+5.9398653;51.029721;443;Bushalte;Bushalte;Bushaltestelle
+5.923525;51.0319174;444;Bushalte;Bushalte;Bushaltestelle
+5.9155239;51.0355607;445;Bushalte;Bushalte;Bushaltestelle
+5.91026;51.03751;446;Havert, Selfkant, Havert Kirche;Bushalte;Bushaltestelle
+5.88209;51.04131;447;Isenbruch, Selfkant, Isenbruch;Bushalte;Bushaltestelle
+5.90483;51.04969;448;Schalbruch, Selfkant, Schalbruch;Bushalte;Bushaltestelle
+5.87623;51.04191;449;Isenbruch;Bushalte;Bushaltestelle
+5.9031049;51.0509512;450;Bushalte;Bushalte;Bushaltestelle
+5.97583;51.00884;451;Hastenrath, Gangelt, Hastenrath Beumers Hof (Schulbus);Bushalte;Bushaltestelle
+5.97049;51.00519;452;Hastenrath, Gangelt, Hastenrath;Bushalte;Bushaltestelle
+5.95718;51.01763;453;Kleinwehrhagen, Selfkant, Kleinwehrhagen;Bushalte;Bushaltestelle
+5.95085;51.01975;454;Großwehrhagen, Selfkant, Großwehrhagen;Bushalte;Bushaltestelle
+5.95237;51.02994;455;Saeffelen, Selfkant, Saeffelen Altes Zollamt;Bushalte;Bushaltestelle
+5.95764;51.02932;456;Saeffelen, Selfkant, Saeffelen Am Steincleef;Bushalte;Bushaltestelle
+5.96088;51.0294;457;Saeffelen, Selfkant, Saeffelen Schule;Bushalte;Bushaltestelle
+5.95955;51.03188;458;Saeffelen, Selfkant, Saeffelen Kirche;Bushalte;Bushaltestelle
+5.9640894;51.0346751;459;Bushalte;Bushalte;Bushaltestelle
+5.99278;51.04165;460;Bocket, Waldfeucht, Bocket Breberer Kreuz;Bushalte;Bushaltestelle
+5.9974;51.0489;461;Bocket, Waldfeucht, Bocket Ev. Gemeindehaus;Bushalte;Bushaltestelle
+5.99727;51.0519;462;Bocket, Waldfeucht, Bocket Mitte;Bushalte;Bushaltestelle
+5.99888;51.05202;463;Bocket, Waldfeucht, Bocket Schulstraße;Bushalte;Bushaltestelle
+5.99522;51.05516;464;Bocket, Waldfeucht, Bocket Post;Bushalte;Bushaltestelle
+6.00914;51.05455;465;Bocket, Waldfeucht, Bocket Dampfmühle;Bushalte;Bushaltestelle
+5.98288;51.01258;466;Kievelberg, Gangelt, Kievelberg (Schulbus);Bushalte;Bushaltestelle
+6.0054541;51.0082462;467;Bushalte;Bushalte;Bushaltestelle
+6.00022;51.01773;468;Schümm, Gangelt, Schümm;Bushalte;Bushaltestelle
+6.0126601;51.01815;469;Langbroich, Gangelt, Langbroich Kapelle;Bushalte;Bushaltestelle
+5.99414;51.02293;470;Brüxgen, Gangelt, Brüxgen;Bushalte;Bushaltestelle
+5.99133;51.02368;471;Brüxgen, Gangelt, Breberen Grundschule;Bushalte;Bushaltestelle
+5.99474;51.0236599;472;Reiners Busreisen Inhaber Klaus Reiners;Bushalte;Bushaltestelle
+5.99081;51.02549;473;Breberen, Gangelt, Breberen Post;Bushalte;Bushaltestelle
+5.9893;51.02716;474;Breberen, Gangelt, Breberen Bredburplatz;Bushalte;Bushaltestelle
+5.98937;51.03341;475;Nachbarheid, Gangelt, Abzw. Nachbarheid;Bushalte;Bushaltestelle
+6.01946;51.02149;476;Langbroich, Gangelt, Langbroich Kirche;Bushalte;Bushaltestelle
+6.01809;51.02346;477;Harzelt, Gangelt, Harzelt;Bushalte;Bushaltestelle
+6.02458;51.01882;478;Langbroich, Gangelt, Langbroich Krings;Bushalte;Bushaltestelle
+6.0316013;51.015597;479;Schierwaldenrath, Gangelt, Schierwaldenrath Post;Bushalte;Bushaltestelle
+6.03657;51.01522;480;Schierwaldenrath, Gangelt, Schierwaldenrath Bahnhof;Bushalte;Bushaltestelle
+6.0374799;51.0139227;481;Bahnhof;Bahnhof;Bahnhof
+6.04071;51.018;482;Schierwaldenrath, Gangelt, Schierwaldenrath Dorfplatz;Bushalte;Bushaltestelle
+6.0590707;50.9985228;483;Bahnhof;Bahnhof;Bahnhof
+6.0469901;51.0006429;484;Bushalte;Bushalte;Bushaltestelle
+6.0244069;51.0059098;485;Bushalte;Bushalte;Bushaltestelle
+6.0285814;51.0050072;486;Bushalte;Bushalte;Bushaltestelle
+6.0355337;51.0027593;487;Bushalte;Bushalte;Bushaltestelle
+6.04315;51.00447;488;Birgden, Gangelt, Birgden Betkreuz;Bushalte;Bushaltestelle
+6.0518171;51.0044645;489;Bushalte;Bushalte;Bushaltestelle
+6.0510601;51.00703;490;Birgden, Gangelt, Birgden Kirche;Bushalte;Bushaltestelle
+6.06029;51.00515;491;Birgden, Gangelt, Birgden Hofer Weg;Bushalte;Bushaltestelle
+6.06318;51.00572;492;Driessen-Reisen;Bushalte;Bushaltestelle
+6.0637742;51.0059125;493;Bustouristik Toni Drießen;Bushalte;Bushaltestelle
+6.0567;51.00854;494;Birgden, Gangelt, Birgden Geilenkirchener Straße;Bushalte;Bushaltestelle
+6.05278;51.0089;495;Birgden, Gangelt, Birgden Pley;Bushalte;Bushaltestelle
+6.052591;51.0090011;496;HD Reisen;Bushalte;Bushaltestelle
+6.05813;51.00961;497;Birgden, Gangelt, Birgden Bahnhof;Bushalte;Bushaltestelle
+6.04944;51.01107;498;Birgden, Gangelt, Birgden Bahnübergang;Bushalte;Bushaltestelle
+6.0584674;51.0090869;499;Bahnhof;Bahnhof;Bahnhof
+6.0464154;51.0127531;500;Bushalte;Bushalte;Bushaltestelle
+6.07473;51.01407;501;Waldenrath, Heinsberg, Waldenrath Heffels;Bushalte;Bushaltestelle
+6.07337;51.01566;502;Waldenrath, Heinsberg, Waldenrath Drogerie;Bushalte;Bushaltestelle
+6.07251;51.01592;503;Waldenrath, Heinsberg, Waldenrath Dr. Schmitz;Bushalte;Bushaltestelle
+6.07148;51.01751;504;Waldenrath, Heinsberg, Waldenrath Am Strauch (Schulbus);Bushalte;Bushaltestelle
+6.08955;51.01997;505;Straeten, Heinsberg, Straeten Peters;Bushalte;Bushaltestelle
+6.09158;51.01339;506;Straeten, Heinsberg, Straeten Grundschule;Bushalte;Bushaltestelle
+6.09427;51.0094;507;Straeten, Heinsberg, Straeten Winands;Bushalte;Bushaltestelle
+6.10087;51.00781;508;Straeten, Heinsberg, Straeten Derichs;Bushalte;Bushaltestelle
+6.12453;50.997;509;Tripsrath, Geilenkirchen, Tripsrath Straetener Weg;Bushalte;Bushaltestelle
+6.12524;50.99556;510;Tripsrath, Geilenkirchen, Tripsrath Kindergarten;Bushalte;Bushaltestelle
+6.11946;50.98881;511;Rischden, Geilenkirchen, Rischden;Bushalte;Bushaltestelle
+6.13028;50.98822;512;Hochheid, Geilenkirchen, Hochheid;Bushalte;Bushaltestelle
+6.11;50.98391;513;Niederheid, Geilenkirchen, Niederheid August-Thyssen-Straße;Bushalte;Bushaltestelle
+6.11415;50.98093;514;Niederheid, Geilenkirchen, Niederheid Am Forsthaus;Bushalte;Bushaltestelle
+6.11831;50.98115;515;Niederheid, Geilenkirchen, Niederheid CSB-SYSTEM AG;Bushalte;Bushaltestelle
+6.11797;50.98007;516;Niederheid, Geilenkirchen, Niederheid Auf`m Brunk;Bushalte;Bushaltestelle
+6.11943;50.97945;517;Niederheid, Geilenkirchen, Abzw. Niederheid;Bushalte;Bushaltestelle
+6.1136801;50.9800868;518;Bushalte;Bushalte;Bushaltestelle
+6.1090667;50.9811878;519;Bushalte;Bushalte;Bushaltestelle
+6.1089379;50.9789681;520;Bushalte;Bushalte;Bushaltestelle
+6.1089701;50.9782791;521;Bushalte;Bushalte;Bushaltestelle
+6.103949;50.9782724;522;Bushalte;Bushalte;Bushaltestelle
+6.1008591;50.9788736;523;Bushalte;Bushalte;Bushaltestelle
+6.0932608;50.9719505;524;Bushalte;Bushalte;Bushaltestelle
+6.1006701;50.9826641;525;Bushalte;Bushalte;Bushaltestelle
+6.0972648;50.9914072;526;Bushalte;Bushalte;Bushaltestelle
+6.0922616;50.9900733;527;Bushalte;Bushalte;Bushaltestelle
+6.11621;51.01385;528;Uetterath, Heinsberg, Uetterath Blauenstein;Bushalte;Bushaltestelle
+6.11016;51.02621;529;Uetterath, Heinsberg, Uetterath Donselen;Bushalte;Bushaltestelle
+6.12989;51.02303;530;Uetterath, Heinsberg, Uetterath Nygen;Bushalte;Bushaltestelle
+6.13392;51.02112;531;Uetterath, Heinsberg, Uetterath Kirchaue;Bushalte;Bushaltestelle
+6.13962;51.0198;532;Uetterath, Heinsberg, Uetterath Abzw. Berg;Bushalte;Bushaltestelle
+6.1347248;51.0209627;533;Bushalte;Bushalte;Bushaltestelle
+6.2180227;51.0329871;534;Bushalte;Bushalte;Bushaltestelle
+6.2157267;51.0334594;535;Bushalte;Bushalte;Bushaltestelle
+6.2178832;51.0365427;536;Bushalte;Bushalte;Bushaltestelle
+6.211491;51.0354678;537;Bushalte;Bushalte;Bushaltestelle
+6.2158125;51.0394421;538;Bushalte;Bushalte;Bushaltestelle
+6.2118268;51.0397804;539;Bushalte;Bushalte;Bushaltestelle
+6.2181774;51.0503787;540;Bushalte;Bushalte;Bushaltestelle
+6.2229732;51.0520614;541;Bushalte;Bushalte;Bushaltestelle
+6.225726;51.0563306;542;Bushalte;Bushalte;Bushaltestelle
+6.2188012;51.0594289;543;Bushalte;Bushalte;Bushaltestelle
+6.2234039;51.0601841;544;Bushalte;Bushalte;Bushaltestelle
+6.2273823;51.0613195;545;Bushalte;Bushalte;Bushaltestelle
+6.2253599;51.0615825;546;Bushalte;Bushalte;Bushaltestelle
+6.2221681;51.0611206;547;Bushalte;Bushalte;Bushaltestelle
+6.2189332;51.0631031;548;Bushalte;Bushalte;Bushaltestelle
+6.20189;51.0572;549;Millich, Hückelhoven, Millich Schaufenberger Straße;Bushalte;Bushaltestelle
+6.20642;51.05976;550;Millich, Hückelhoven, Millich Ledigenheim;Bushalte;Bushaltestelle
+6.21102;51.06107;551;Schaufenberg, Hückelhoven, Abzw. Schaufenberg;Bushalte;Bushaltestelle
+6.21204;51.06401;552;Schaufenberg, Hückelhoven, Schaufenberg Schule;bushalte;Bushaltestelle
+6.19826;51.05629;553;Millich, Hückelhoven, Millich Gronewaldstraße;Bushalte;Bushaltestelle
+6.19718;51.05817;554;Millich, Hückelhoven, Millich Rolandstraße;Bushalte;Bushaltestelle
+6.19551;51.05815;555;Millich, Hückelhoven, Millich Jettchenweg;Bushalte;Bushaltestelle
+6.17934;51.06073;556;Ratheim, Hückelhoven, Ratheim Ziegelweg;Bushalte;Bushaltestelle
+6.17865;51.06402;557;Ratheim, Hückelhoven, Ratheim Burgstraße;Bushalte;Bushaltestelle
+6.17773;51.06613;558;Ratheim, Hückelhoven, Ratheim Markt;Bushalte;Bushaltestelle
+6.1878;51.06596;559;Ratheim, Hückelhoven, Ratheim Busch;Bushalte;Bushaltestelle
+6.19405;51.0671;560;Ratheim, Hückelhoven, Ratheim Jacobastraße;Bushalte;Bushaltestelle
+6.18483;51.06886;561;Ratheim, Hückelhoven, Ratheim Schulzentrum;Bushalte;Bushaltestelle
+6.1963123;51.0704661;562;Ratheim, Hückelhoven, Ratheim Buscherbahn;Bushalte;Bushaltestelle
+6.18626;51.07364;563;Ratheim, Hückelhoven, Ratheim Myhler Straße;Bushalte;Bushaltestelle
+6.17724;51.06817;564;Ratheim, Hückelhoven, Ratheim Kirche;Bushalte;Bushaltestelle
+6.16696;51.07045;565;Ratheim, Hückelhoven, Ratheim Krickelberg Kreuz;Bushalte;Bushaltestelle
+6.1663571;51.0749698;566;Bushalte;Bushalte;Bushaltestelle
+6.1635026;51.0794202;567;Bushalte;Bushalte;Bushaltestelle
+6.1586532;51.0822431;568;Bushalte;Bushalte;Bushaltestelle
+6.15493;51.08521;569;Orsbeck, Wassenberg, Orsbeck Friedhof;Bushalte;Bushaltestelle
+6.14907;51.08855;570;Orsbeck, Wassenberg, Orsbeck;Bushalte;Bushaltestelle
+6.15327;51.08902;571;Orsbeck, Wassenberg, Orsbeck Sportplatz;Bushalte;Bushaltestelle
+6.09771;51.06545;572;Heinsberg, Heinsberg, Busbahnhof;Bushalte;Bushaltestelle
+6.1598;51.09272;573;Wassenberg, Wassenberg, Süd;Bushalte;Bushaltestelle
+6.15517;51.0976;574;Wassenberg, Wassenberg, Unterstadt;Bushalte;Bushaltestelle
+6.1557;51.10186;575;Wassenberg, Wassenberg, Roermonder Straße;Bushalte;Bushaltestelle
+6.1586938;51.0982272;576;Bushalte;Bushalte;Bushaltestelle
+6.1573737;51.1017305;577;Bushalte;Bushalte;Bushaltestelle
+6.1584747;51.1000488;578;Bushalte;Bushalte;Bushaltestelle
+6.155645;51.099395;579;Wassenberg, Wassenberg, Roßtorplatz;Bushalte;Bushaltestelle
+6.16976;51.1029;580;Wassenberg, Wassenberg, ZOB;Bushalte;Bushaltestelle
+6.17623;51.10299;581;Wassenberg, Wassenberg, Frowein;Bushalte;Bushaltestelle
+6.14033;51.10005;582;Kremers-Reisen;Bushalte;Bushaltestelle
+6.102874;51.1074448;583;Bushalte;Bushalte;Bushaltestelle
+6.1022625;51.1094925;584;Bushalte;Bushalte;Bushaltestelle
+6.10229;51.12371;585;Effeld, Wassenberg, Effeld;Bushalte;Bushaltestelle
+6.09731;51.11328;586;Effeld, Wassenberg, Effeld Steinkirchen;Bushalte;Bushaltestelle
+6.1325;51.11395;587;Krafeld, Wassenberg, Krafeld Krafelder Straße;Bushalte;Bushaltestelle
+6.12648;51.11004;588;Birgelen, Wassenberg, Birgelen Krafeld;Bushalte;Bushaltestelle
+6.1390947;51.119933;589;Wassenberg, Birgelen Schloss Elsum Bushaltestelle;Bushalte;Bushaltestelle
+6.15534;51.10625;590;Birgelen, Wassenberg, Dammstraße;Bushalte;Bushaltestelle
+6.09859;51.1177;591;Effeld, Wassenberg, Effeld Lehnen;Bushalte;Bushaltestelle
+6.10539;51.1253;592;Effeld, Wassenberg, Effeld Neuer Weg;Bushalte;Bushaltestelle
+6.15451;51.10957;593;Birgelen, Wassenberg, Birgelen Lambertusstraße;Bushalte;Bushaltestelle
+6.15101;51.11303;594;Birgelen, Wassenberg, Birgelen Kirche;Bushalte;Bushaltestelle
+6.15046;51.11651;595;Birgelen, Wassenberg, Birgelen Ringstraße;Bushalte;Bushaltestelle
+6.15033;51.12101;596;Birgelen, Wassenberg, Birgelen Kreuzbuschstraße;Bushalte;Bushaltestelle
+6.14875;51.12329;597;Birgelen, Wassenberg, Birgelen Ossenbrucher Weg;Bushalte;Bushaltestelle
+6.1524483;51.1279309;598;Birgeler Wald;Bushalte;Bushaltestelle
+6.12967;51.1313;599;Birgelen, Wassenberg, Birgelen Englische Siedlung;Bushalte;Bushaltestelle
+6.02274;51.07276;600;Obspringen, Waldfeucht, Obspringen Marktplatz;Bushalte;Bushaltestelle
+6.02017;51.07979;601;Obspringen, Waldfeucht, Obspringen Wasserwerk;Bushalte;Bushaltestelle
+6.2080574;50.9968563;602;Bahnhof;Bahnhof;Bahnhof
+6.2081486;50.9968732;603;Bushalte;Bushalte;Bushaltestelle
+6.26119;51.0383;604;Baal, Hückelhoven, Baal Fa. Wenko;Bushalte;Bushaltestelle
+6.25798;51.03329;605;Baal, Hückelhoven, Baal Porschestraße;Bushalte;Bushaltestelle
+6.2669;51.0325;606;Baal, Hückelhoven, Baal Ottostraße;Bushalte;Bushaltestelle
+6.28143;51.03799;607;Baal, Hückelhoven, Baal Nordstraße;Bushalte;Bushaltestelle
+6.2844;51.03589;608;Baal, Hückelhoven, Baal Schule;Bushalte;Bushaltestelle
+6.32091;51.03055;609;Lövenich, Erkelenz, Lövenich Schule;Bushalte;Bushaltestelle
+6.32322;51.0345;610;Lövenich, Erkelenz, Lövenich Bruchstraße;Bushalte;Bushaltestelle
+6.32723;51.03265;611;Lövenich, Erkelenz, Lövenich Markt;Bushalte;Bushaltestelle
+6.31985;51.03289;612;Lövenich, Erkelenz, Lövenich Post;Bushalte;Bushaltestelle
+6.32069;51.0319;613;Lövenich, Erkelenz, Lövenich Schweizerstraße;Bushalte;Bushaltestelle
+6.27022;51.05622;614;Hetzerath, Erkelenz, Hetzerath Rurtalstraße;Bushalte;Bushaltestelle
+6.29281;51.05665;615;Granterath, Erkelenz, Granterath;Bushalte;Bushaltestelle
+6.29632;51.06134;616;Granterath, Erkelenz, Granterath Scheidt;Bushalte;Bushaltestelle
+6.3152;51.05439;617;Tenholt, Erkelenz, Tenholt;Bushalte;Bushaltestelle
+6.3151299;51.06318;618;Erkelenz, Erkelenz, Gewerbepark Commerden;Bushalte;Bushaltestelle
+6.31056;51.06434;619;Erkelenz, Erkelenz, Sittarder Straße;Bushalte;Bushaltestelle
+6.30832;51.06858;620;Erkelenz, Erkelenz, Polizei;Bushalte;Bushaltestelle
+6.30651;51.06365;621;Erkelenz, Erkelenz, GIPCO;Bushalte;Bushaltestelle
+6.31475;51.06808;622;Erkelenz, Erkelenz, Süd;Bushalte;Bushaltestelle
+6.30672;51.07406;623;Erkelenz, Erkelenz, Neumühle;Bushalte;Bushaltestelle
+6.30296;51.07351;624;Erkelenz, Erkelenz, Paul-Rüttchen-Straße;Bushalte;Bushaltestelle
+6.31445;51.07571;625;Erkelenz, Erkelenz, Agentur für Arbeit;Bushalte;Bushaltestelle
+6.32074;51.07607;626;Erkelenz, Erkelenz, Bahnhof (Bus);Bushalte;Bushaltestelle
+6.31784;51.07869;627;Erkelenz, Erkelenz, Kölner Tor;Bushalte;Bushaltestelle
+6.3104837;51.0811979;628;Erkelenz ZOB-Krefelder Straße;Bushalte;Bushaltestelle
+6.32386;51.07363;629;Erkelenz, Erkelenz, Wirth + Co;Bushalte;Bushaltestelle
+6.31049;51.07768;630;Erkelenz, Erkelenz, Aachener Straße;Bushalte;Bushaltestelle
+6.32442;51.0799;631;Erkelenz, Erkelenz, Anton-Heinen Straße;Bushalte;Bushaltestelle
+6.32608;51.08385;632;Erkelenz, Erkelenz, Brückstraße;Bushalte;Bushaltestelle
+6.3060047;51.0772487;633;Bushalte;Bushalte;Bushaltestelle
+6.3064446;51.0792439;634;Bushalte;Bushalte;Bushaltestelle
+6.3024427;51.0814292;635;Bushalte;Bushalte;Bushaltestelle
+6.3078822;51.0830401;636;Bushalte;Bushalte;Bushaltestelle
+6.3047494;51.0839971;637;Bushalte;Bushalte;Bushaltestelle
+6.3114764;51.0843947;638;Bushalte;Bushalte;Bushaltestelle
+6.3106277;51.0811472;639;Bushalte;Bushalte;Bushaltestelle
+6.3141862;51.0825666;640;Bushalte;Bushalte;Bushaltestelle
+6.32074;51.07607;641;Erkelenz, Erkelenz, Bahnhof (Bus);Bushalte;Bushaltestelle
+6.3206643;51.0764474;642;Bushalte;Bushalte;Bushaltestelle
+6.3213081;51.0767675;643;Bahnhof;Bahnhof;Bahnhof
+6.3213885;51.0767574;644;Bushalte;Bushalte;Bushaltestelle
+6.3283766;51.077316;645;Bushalte;Bushalte;Bushaltestelle
+6.3269004;51.0787643;646;Bushalte;Bushalte;Bushaltestelle
+6.34175;51.08105;647;Terheeg, Erkelenz, Terheeg Am Grubusch;Bushalte;Bushaltestelle
+6.313711;51.0699392;648;Erkelenz, Erkelenz, Theodor-Heuss-Straße;Bushalte;Bushaltestelle
+6.32821;51.06453;649;Bellinghoven, Erkelenz, Bellinghoven;Bushalte;Bushaltestelle
+6.34114;51.06354;650;Kückhoven, Erkelenz, Kückhoven Schule;Bushalte;Bushaltestelle
+6.33262;51.05876;651;Neu-Immerath, Erkelenz, Neu-Immerath Unkelbachstraße;Bushalte;Bushaltestelle
+6.33787;51.05852;652;Neu-Immerath, Erkelenz, Neu-Immerath;Bushalte;Bushaltestelle
+6.34552;51.06288;653;Kückhoven, Erkelenz, Kückhoven Post;Bushalte;Bushaltestelle
+6.35133;51.06097;654;Kückhoven, Erkelenz, Kückhoven Markt;Bushalte;Bushaltestelle
+6.34363;51.05928;655;Erkelenz, Erkelenz, Pescherkamp;Bushalte;Bushaltestelle
+6.34521;51.07493;656;Wockerath, Erkelenz, Wockerath;Bushalte;Bushaltestelle
+6.33927;51.09034;657;Mennekrath, Erkelenz, Mennekrath;Bushalte;Bushaltestelle
+6.3412;51.08575;658;Mennekrath, Erkelenz, Mennekrath Neuhaus;Bushalte;Bushaltestelle
+6.34678;51.08194;659;Terheeg, Erkelenz, Terheeg Post;Bushalte;Bushaltestelle
+6.33136;51.08619;660;Erkelenz, Erkelenz, Sachsenring;Bushalte;Bushaltestelle
+6.32655;51.0887;661;Erkelenz, Erkelenz, Salierring;Bushalte;Bushaltestelle
+6.32882;51.09088;662;Erkelenz, Erkelenz, Ludwigstraße;Bushalte;Bushaltestelle
+6.32934;51.09458;663;Neu-Borschemich, Erkelenz, Neu-Borschemich;Bushalte;Bushaltestelle
+6.29625;51.0862;664;Oerath, Erkelenz, Abzw. Oerath Oerather Mühlenfeld;Bushalte;Bushaltestelle
+6.29797;51.08289;665;Oerath, Erkelenz, Oerath Oerather Mühlenfeld;Bushalte;Bushaltestelle
+6.30082;51.09316;666;Oerath, Erkelenz, Oerath Kapelle;Bushalte;Bushaltestelle
+6.2840341;51.0773408;667;Bushalte;Bushalte;Bushaltestelle
+6.2859439;51.0771049;668;Bushalte;Bushalte;Bushaltestelle
+6.2925343;51.07827;669;Bushalte;Bushalte;Bushaltestelle
+6.24041;51.0696;670;Ilopack AG;Bushalte;Bushaltestelle
+6.24952;51.07007;671;Houverath, Erkelenz, Houverath Blumenstraße;Bushalte;Bushaltestelle
+6.2515579;51.0707204;672;Houverath;Bushalte;Bushaltestelle
+6.2519988;51.071654;673;Blank Dachbau GmbH;Bushalte;Bushaltestelle
+6.2281;51.06818;674;Kleingladbach, Hückelhoven, Kleingladbach Im Siel Brücke;Bushalte;Bushaltestelle
+6.22725;51.07199;675;Kleingladbach, Hückelhoven, Kleingladbach Im Siel;Bushalte;Bushaltestelle
+6.22581;51.07336;676;Kleingladbach, Hückelhoven, Kleingladbach Eschenbroich;Bushalte;Bushaltestelle
+6.2168;51.07808;677;Kleingladbach, Hückelhoven, Kleingladbach Ratheimer Straße;Bushalte;Bushaltestelle
+6.21983;51.07553;678;Kleingladbach, Hückelhoven, Kleingladbach Kastanienweg;Bushalte;Bushaltestelle
+6.22778;51.07972;679;Kleingladbach, Hückelhoven, Kleingladbach Brück;Bushalte;Bushaltestelle
+6.22683;51.07753;680;Kleingladbach, Hückelhoven, Kleingladbach Wassenberger Straße;Bushalte;Bushaltestelle
+6.22498;51.0777;681;Kleingladbach, Hückelhoven, Kleingladbach Erkelenzer Straße;Bushalte;Bushaltestelle
+6.23182;51.08138;682;Kleingladbach, Hückelhoven, Kleingladbach Schellberg;Bushalte;Bushaltestelle
+6.24166;51.08294;683;Golkrath, Erkelenz, Golkrath Kapelle;Bushalte;Bushaltestelle
+6.24711;51.08326;684;Golkrath, Erkelenz, Golkrath Terreicken;Bushalte;Bushaltestelle
+6.26279;51.09209;685;Schwanenberg, Erkelenz, Schwanenberg Abzw. Hoven;Bushalte;Bushaltestelle
+6.34262;51.03421;686;Katzem, Erkelenz, Katzem Hötzelberg;Bushalte;Bushaltestelle
+6.34654;51.02673;687;Kleinbouslar, Erkelenz, Kleinbouslar;Bushalte;Bushaltestelle
+6.3487999;51.0351;688;Katzem, Erkelenz, Katzem Abzw. Kückhoven;Bushalte;Bushaltestelle
+6.35092;51.03503;689;Katzem, Erkelenz, Katzem Schule;Bushalte;Bushaltestelle
+6.35411;51.0346;690;Katzem, Erkelenz, Katzem Kirche;Bushalte;Bushaltestelle
+6.35614;51.03268;691;Katzem, Erkelenz, Katzem Vorstadt;Bushalte;Bushaltestelle
+6.298296;51.1377388;757;Bushalte;Bushalte;Bushaltestelle
+6.38134;51.05368;692;Holzweiler, Erkelenz, Holzweiler Weyerhof;Bushalte;Bushaltestelle
+6.40484;51.04764;693;Holzweiler, Erkelenz, Holzweiler Kirche;Bushalte;Bushaltestelle
+6.41542;51.04741;694;Holzweiler, Erkelenz, Holzweiler Gärtnerei;Bushalte;Bushaltestelle
+6.40456;51.05049;695;Holzweiler, Erkelenz, Holzweiler Niederstraße;Bushalte;Bushaltestelle
+6.428722;51.050524;696;Immerath, Erkelenz, Abzw. Alt-Immerath;Bushalte;Bushaltestelle
+6.42867;51.0585;697;Lützerath, Erkelenz, Lützerath Umgehung;Bushalte;Bushaltestelle
+6.3894;51.07391;698;Berverath, Erkelenz, Berverath;Bushalte;Bushaltestelle
+6.428722;51.050524;699;Immerath, Erkelenz, Abzw. Alt-Immerath;Bushalte;Bushaltestelle
+6.4122;51.07884;700;Keyenberg, Erkelenz, Keyenberg Postweg;Bushalte;Bushaltestelle
+6.41101;51.08321;701;Keyenberg, Erkelenz, Keyenberg;Bushalte;Bushaltestelle
+6.39888;51.08135;702;Keyenberg, Erkelenz, Abzw. Oberwestrich;Bushalte;Bushaltestelle
+6.39412;51.07987;703;Keyenberg, Erkelenz, Unterwestrich Abzw. Berverath;Bushalte;Bushaltestelle
+6.39113;51.08255;704;Kuckum, Erkelenz, Kuckum Schule;Bushalte;Bushaltestelle
+6.39601;51.08412;705;Kuckum, Erkelenz, Kuckum;Bushalte;Bushaltestelle
+6.4090991;51.0823039;706;Bushalte;Bushalte;Bushaltestelle
+6.36535;51.08198;707;Kaulhausen, Erkelenz, Kaulhausen;Bushalte;Bushaltestelle
+6.3692;51.08326;708;Kaulhausen, Erkelenz, Kaulhausen Kaulhausener Straße;Bushalte;Bushaltestelle
+6.3831599;51.08382;709;Kuckum, Erkelenz, Kuckum Mühle;Bushalte;Bushaltestelle
+6.37237;51.09068;710;Venrath, Erkelenz, Venrath Kirche;Bushalte;Bushaltestelle
+6.36492;51.09205;711;Venrath, Erlelenz, Venrath Abzw. Etgenbusch;Bushalte;Bushaltestelle
+6.36947;51.0953;712;Venrath, Erkelenz, Venrath Herrather Straße;Bushalte;Bushaltestelle
+6.3608088;51.1039279;713;Mönchengl Am Emil-Esser-Platz;Bushalte;Bushaltestelle
+6.32074;51.07607;714;Erkelenz, Erkelenz, Bahnhof (Bus);Bushalte;Bushaltestelle
+6.3149331;51.084695;715;Bushalte;Bushalte;Bushaltestelle
+6.3156842;51.0851129;716;Bushalte;Bushalte;Bushaltestelle
+6.3191976;51.0903438;717;Bushalte;Bushalte;Bushaltestelle
+6.3188865;51.0897845;718;Bushalte;Bushalte;Bushaltestelle
+6.3208606;51.0896228;719;Bushalte;Bushalte;Bushaltestelle
+6.26517;51.09609;720;Genhof, Erkelenz, Genhof Genhofer Mühlenweg;Bushalte;Bushaltestelle
+6.25667;51.09859;721;Genhof, Erkelenz, Genhof;Bushalte;Bushaltestelle
+6.27688;51.10195;722;Schwanenberg, Erkelenz, Schwanenberg Schule;Bushalte;Bushaltestelle
+6.28859;51.1059;723;Grambusch, Erkelenz, Grambusch;Bushalte;Bushaltestelle
+6.29512;51.10753;724;Grambusch, Erkelenz, Grambusch Abzw.;Bushalte;Bushaltestelle
+6.26792;51.10752;725;Geneiken, Erkelenz, Geneiken Dyker Straße;Bushalte;Bushaltestelle
+6.26031;51.11062;726;Geneiken, Erkelenz, Geneiken;Bushalte;Bushaltestelle
+6.30783;51.11018;727;Kehrbusch, Wegberg, Kehrbusch;Bushalte;Bushaltestelle
+6.315;51.10861;728;Flassenberg, Wegberg, Flassenberg;Bushalte;Bushaltestelle
+6.31711;51.10963;729;Isengraben, Wegberg, Isengraben;Bushalte;Bushaltestelle
+6.3285682;51.1109612;730;Wegberg Rath-Anhoven;Bushalte;Bushaltestelle
+6.33363;51.11145;731;Rath-Anhoven, Wegberg, Rath-Anhoven Schule;Bushalte;Bushaltestelle
+6.331371;51.1160367;732;Wegberg Abzw. Schönhausen;Bushalte;Bushaltestelle
+6.3528767;51.1140065;733;Mönchengl. Buchholz Kreuzung;Bushalte;Bushaltestelle
+6.33156;51.11643;734;Rath-Anhoven, Wegberg, Abzw. Schönhausen;Bushalte;Bushaltestelle
+6.3284677;51.1107802;735;Bushalte;Bushalte;Bushaltestelle
+6.3314179;51.1162797;736;Bushalte;Bushalte;Bushaltestelle
+6.322;51.12128;737;Wegberg, Wegberg, Schönhausen;Bushalte;Bushaltestelle
+6.31941;51.12257;738;Felderhof, Wegberg, Felderhof;Bushalte;Bushaltestelle
+6.3170985;51.1251397;739;Bushalte;Bushalte;Bushaltestelle
+6.3175423;51.128112;740;Bushalte;Bushalte;Bushaltestelle
+6.30161;51.12036;741;Holtum, Wegberg, Holtum Spielplatz;Bushalte;Bushaltestelle
+6.30298;51.13085;742;Beeck, Wegberg, Beeck Grundschule;Bushalte;Bushaltestelle
+6.30876;51.13237;743;Wegberg Beeck am Friedhof;Bushalte;Bushaltestelle
+6.30175;51.13456;744;Beeck, Wegberg, Beeck Im Maggenfeld;Bushalte;Bushaltestelle
+6.2984;51.13778;745;Beeckerheide, Wegberg, Beeck Am Grüngürtel;Bushalte;Bushaltestelle
+6.2993674;51.1395415;746;Beeckerwald;Bushalte;Bushaltestelle
+6.2958088;51.1411269;747;Kiefernweg;Bushalte;Bushaltestelle
+6.2937765;51.1377704;748;Wegberg Lindenstraße;Bushalte;Bushaltestelle
+6.29181;51.13731;749;Gerichhausen, Wegberg, Gerichhausen;Bushalte;Bushaltestelle
+6.29556;51.14091;750;Beeckerheide, Wegberg, Kiefernweg;Bushalte;Bushaltestelle
+6.2987499;51.1400989;751;Bushalte;Bushalte;Bushaltestelle
+6.2988893;51.139944;752;Bushalte;Bushalte;Bushaltestelle
+6.2938617;51.1378397;753;Bushalte;Bushalte;Bushaltestelle
+6.293733;51.1376613;754;Bushalte;Bushalte;Bushaltestelle
+6.2927246;51.1373586;755;Bushalte;Bushalte;Bushaltestelle
+6.292848;51.1373333;756;Bushalte;Bushalte;Bushaltestelle
+6.27852;51.1373;758;Wegberg, Wegberg, Grundschule;Bushalte;Bushaltestelle
+6.2883417;51.1378762;759;Bushalte;Bushalte;Bushaltestelle
+6.2882398;51.1378694;760;Bushalte;Bushalte;Bushaltestelle
+6.2871293;51.1379973;761;Bushalte;Bushalte;Bushaltestelle
+6.2856605;51.1407033;762;Bushalte;Bushalte;Bushaltestelle
+6.2830534;51.1391093;763;Bushalte;Bushalte;Bushaltestelle
+6.2829515;51.1391968;764;Bushalte;Bushalte;Bushaltestelle
+6.2793037;51.1396411;765;Bushalte;Bushalte;Bushaltestelle
+6.27925;51.1394964;766;Bushalte;Bushalte;Bushaltestelle
+6.27588;51.14052;767;Wegberg Busbahnhof;Bushalte;Bushaltestelle
+6.2759141;51.1387125;768;Bushalte;Bushalte;Bushaltestelle
+6.2729647;51.1436679;769;Wegberg, Burg;Bushalte;Bushaltestelle
+6.2790022;51.1434159;770;Bushalte;Bushalte;Bushaltestelle
+6.2813893;51.1448058;771;Bushalte;Bushalte;Bushaltestelle
+6.2848558;51.1448617;772;Bushalte;Bushalte;Bushaltestelle
+6.2905485;51.1460335;773;Bushalte;Bushalte;Bushaltestelle
+6.2812035;51.1451101;774;Bahnhof;Bahnhof;Bahnhof
+6.283211;51.1502114;775;Bushalte;Bushalte;Bushaltestelle
+6.2810453;51.1536325;776;Bushalte;Bushalte;Bushaltestelle
+6.2726045;51.1506456;777;Bushalte;Bushalte;Bushaltestelle
+6.2738115;51.1499456;778;Bushalte;Bushalte;Bushaltestelle
+6.2728452;51.1459797;779;Bushalte;Bushalte;Bushaltestelle
+6.2721371;51.1405561;780;Bushalte;Bushalte;Bushaltestelle
+6.2726799;51.13509;781;Watern, Wegberg, Watern Haus St. Georg;Bushalte;Bushaltestelle
+6.2677502;51.1372224;782;Bushalte;Bushalte;Bushaltestelle
+6.2597773;51.1369626;783;Bushalte;Bushalte;Bushaltestelle
+6.2686064;51.157907;784;Bushalte;Bushalte;Bushaltestelle
+6.2835215;51.1606717;785;Bushalte;Bushalte;Bushaltestelle
+6.2901297;51.1542691;786;Bushalte;Bushalte;Bushaltestelle
+6.2625742;51.1638779;787;Bushalte;Bushalte;Bushaltestelle
+6.25101;51.13572;788;Klinkum, Wegberg, Klinkum Schule;Bushalte;Bushaltestelle
+6.24073;51.13595;789;Bischofshütte, Wegberg, Klinkum Bischofshütte;Bushalte;Bushaltestelle
+6.23328;51.13703;790;Klinkum, Wegberg, Klinkum Eickels;Bushalte;Bushaltestelle
+6.22512;51.13881;791;Klinkum, Wegberg, Klinkum Pumpstation;Bushalte;Bushaltestelle
+6.21564;51.1408;792;Arsbeck, Wegberg, Arsbeck Petersholz;Bushalte;Bushaltestelle
+6.21017;51.14181;793;Arsbeck, Wegberg, Arsbeck Kirche;Bushalte;Bushaltestelle
+6.21042;51.14606;794;Arsbeck, Wegberg, Arsbeck Heiderstraße;Bushalte;Bushaltestelle
+6.20927;51.14993;795;Arsbeck, Wegberg, Arsbeck Mailandweg;Bushalte;Bushaltestelle
+6.203385;51.1509965;796;Rex-reisen GmbH & Co. KG;Bushalte;Bushaltestelle
+6.20673;51.15274;797;Arsbeck, Wegberg, Arsbeck Roermonder Bahn;Bushalte;Bushaltestelle
+6.207879;51.1517709;798;Bushalte;Bushalte;Bushaltestelle
+6.20061;51.15222;799;Arsbeck, Wegberg, Arsbeck Büch;Bushalte;Bushaltestelle
+6.1941;51.15318;800;Arsbeck, Wegberg, Dalheim VDK-Siedlung;Bushalte;Bushaltestelle
+6.27523;51.17619;801;Schwaam, Wegberg, Schwaam;Bushalte;Bushaltestelle
+6.24994;51.1731;802;Merbeck, Wegberg, Merbeck Kirche;Bushalte;Bushaltestelle
+6.26249;51.17784;803;Venheyde, Wegberg, Venheyde;Bushalte;Bushaltestelle
+6.25513;51.17695;804;Merbeck, Wegberg, Merbeck Schürensteg;Bushalte;Bushaltestelle
+6.25022;51.1746;805;Merbeck, Wegberg, Merbeck Schule;Bushalte;Bushaltestelle
+6.25527;51.18287;806;Venn, Wegberg, Venn;Bushalte;Bushaltestelle
+6.25049;51.18527;807;Tetelrath, Wegberg, Tetelrath Siedlung;Bushalte;Bushaltestelle
+6.2463;51.18395;808;Tetelrath, Wegberg, Tetelrath;Bushalte;Bushaltestelle
+6.24402;51.18237;809;Tetelrath, Wegberg, Abzw. Tetelrath;Bushalte;Bushaltestelle
+6.2846199;51.16817;810;Rickelrath, Wegberg, Rickelrath;Bushalte;Bushaltestelle
+6.27709;51.17345;811;Schwaam, Wegberg, Zum Thomeshof;Bushalte;Bushaltestelle
+6.1784384;51.1491513;812;Bushalte;Bushalte;Bushaltestelle
+6.18676;51.14479;813;Rödgen, Wegberg, Dalheim Kirche;Bushalte;Bushaltestelle
+6.19064;51.13967;814;Rödgen, Wegberg, Dalheim Rochusweiler;Bushalte;Bushaltestelle
+6.17895;51.14938;815;Dalheim, Wegberg, Dalheim Bahnhof (Bus);Bushalte;Bushaltestelle
+6.1814341;51.1491873;816;Bushalte;Bushalte;Bushaltestelle
+6.1821279;51.153877;817;Bushalte;Bushalte;Bushaltestelle
+6.1875768;51.1532062;818;Bushalte;Bushalte;Bushaltestelle
+6.1908;51.12975;819;Wildenrath, Wegberg, Wildenrath Dalheimer Weg;Bushalte;Bushaltestelle
+6.19358;51.12396;820;Wildenrath, Wegberg, Wildenrath Kirche;Bushalte;Bushaltestelle
+6.19483;51.11977;821;Wildenrath, Wegberg, Wildenrath Flugplatz;Bushalte;Bushaltestelle
+6.21027;51.11925;822;Wildenrath, Wegberg, Wildenrath Gewerbegebiet;Bushalte;Bushaltestelle
+6.21727;51.11951;823;Wildenrath, Wegberg, Wildenrath DAST GmbH;Bushalte;Bushaltestelle
+6.22444;51.1198;824;Wildenrath, Wegberg, Wildenrath List Center;Bushalte;Bushaltestelle
+6.26922;51.13076;825;Watern, Wegberg, Watern Bischofsmühle;Bushalte;Bushaltestelle
+6.25718;51.12033;826;Tüschenbroich, Wegberg, Tüschenbroicher Mühle;Bushalte;Bushaltestelle
+6.25101;51.11806;827;Tüschenbroich, Wegberg, Tüschenbroich Schule;Bushalte;Bushaltestelle
+6.25063;51.10258;828;Genfeld, Erkelenz, Genfeld;Bushalte;Bushaltestelle
+6.24078;51.10164;829;Gerderhahn, Erkelenz, Gerderhahn Friedhof;Bushalte;Bushaltestelle
+6.2399;51.09998;830;Gerderhahn, Erkelenz, Gerderhahn Schule;Bushalte;Bushaltestelle
+6.2173599;51.09622;831;Gerderath, Erkelenz, Gerderath Sparkasse;Bushalte;Bushaltestelle
+6.21329;51.09347;832;Gerderath, Erkelenz, Gerderath Friedhof;Bushalte;Bushaltestelle
+6.22434;51.09538;833;Gerderath, Erkelenz, Gerderath Lauerstraße;Bushalte;Bushaltestelle
+6.2072;51.09637;834;Gerderath, Erkelenz, Gerderath An der Wolfskaul;Bushalte;Bushaltestelle
+6.21378;51.09983;835;Gerderath, Erkelenz, Gerderath Hover Busch;Bushalte;Bushaltestelle
+6.1929;51.09856;836;Myhl, Wassenberg, Myhl Erkelenzer Straße;Bushalte;Bushaltestelle
+6.19378;51.0999;837;Myhl, Wassenberg, Myhl Feuerwehr;Bushalte;Bushaltestelle
+6.20323;51.10249;838;Myhl, Wassenberg, Myhl Myhlerfeld;Bushalte;Bushaltestelle
+6.21114;51.10597;839;Gerderath, Erkelenz, Gerderath Abzw. Vossen;Bushalte;Bushaltestelle
+6.1830513;51.1009289;840;Bushalte;Bushalte;Bushaltestelle
+6.04665;51.08281;841;Von den Driesch;Bushalte;Bushaltestelle
+6.1799671;51.1079537;842;Bushalte;Bushalte;Bushaltestelle
+6.1758037;51.1049635;843;Bushalte;Bushalte;Bushaltestelle
+6.1646064;51.1018848;844;Bushalte;Bushalte;Bushaltestelle
+6.19552;51.08361;845;Altmyhl, Hückelhoven, Altmyhl;Bushalte;Bushaltestelle
+6.19065;51.08138;846;Altmyhl, Hückelhoven, Altmyhl Abzw. Myhl;Bushalte;Bushaltestelle
+6.1885822;51.0798942;847;Ratheim, Hückelhoven, Ratheim Schacht IV;Bushalte;Bushaltestelle
+6.0788338;51.108319;848;Bushalte;Bushalte;Bushaltestelle
+6.126219;51.1332975;849;Bushalte;Bushalte;Bushaltestelle
+6.1394403;50.9055161;858;KINDERSPIELPLATZ-Holunderplatz;Spielplatz;Spielplatz
+6.1111425;50.9247625;860;Bushalte;Bushalte;Bushaltestelle
+6.1144256;50.9230447;861;Bushalte;Bushalte;Bushaltestelle
+6.1165084;50.9214004;862;Bushalte;Bushalte;Bushaltestelle
+6.1479082;50.9090094;863;Spielplatz , Am Lindenplatz;Spielplatz;Spielplatz
+6.141629;50.9097873;864;Spielplatz Mittelstraße;Spielplatz;Spielplatz
+6.1211946;50.9131059;865;Spielplatz Beyelsfeld;Spielplatz;Spielplatz
+6.1160401;50.9146551;867;Großer Spielplatz am Bucksberg;Spielplatz;Spielplatz
+6.1037559;50.918784;868;"Kinderspielplatz "" Am Rimburger Acker """;Spielplatz;Spielplatz
+6.0981977;50.9297503;869;Großer Spielplatz;Spielplatz;Spielplatz
+6.0943851;50.9310217;870;Naherholungsgebiet Wurmtal;Spielplatz;Spielplatz
+6.1370127;50.9116371;871;VR-Bank eG - Region Aachen, Geldautomat Boscheln (vorübergehend geschlossen);Bank;Bank
+6.1373745;50.9123464;872;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.1356981;50.9214408;873;Geldautomat Volksbank Heinsberg eG;Bank;Geldautomat
+6.1191585;50.919707;874;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.11257;50.92067;876;VR-Bank eG - Region Aachen, Geschäftsstelle Übach-Palenberg;Bank;Bank
+6.112624;50.92085;877;VR-Bank eG - Region Aachen, Geldautomat Übach-Palenberg;Bank;Bank
+6.1162216;50.9212616;878;Volksbank Heinsberg eG, Filiale Übach;Bank;Bank
+6.1036538;50.9246314;880;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.1392319;50.9122547;881;Herr Franz-Josef Fuhrmeister;Allgemeinmedizin;Allgemeinmedizin
+6.1368572;50.9127794;882;Dr.med. Wolfgang Paulus;Allgemeinmedizin;Allgemeinmedizin
+6.1300841;50.9165027;884;Dr. med. Jörg Steinbusch;Allgemeinmedizin;Allgemeinmedizin
+6.11987;50.9201;885;Herr Dr. med. Klaus Löhmer;Allgemeinmedizin;Allgemeinmedizin
+6.1159136;50.9204437;888;Herr Dr. med. Karsten Wolf;Allgemeinmedizin;Allgemeinmedizin
+6.1118248;50.9206701;889;Herr Norbert Hauck;Allgemeinmedizin;Allgemeinmedizin
+6.1110792;50.9244489;890;Frau Cornelia Trockel;Allgemeinmedizin;Allgemeinmedizin
+6.1224053;50.9182931;906;Pfarrkirche St. Dionysius zu Übach;Kirche;Kirche
+6.115146;50.918525;907;Neuapostolische Kirche Übach-Palenberg;Kirche;Kirche
+6.1089797;50.9208745;909;Ev. Kirche Übach-Palenberg;Kirche;Kirche
+6.109252;50.9209413;910;Evangelische Kirchengemeinde Übach-Palenberg;Kirchengemeinde;Kirche
+6.0970349;50.9196139;922;Herr Dr. med. Bernd Dörge;Allgemeinmedizin;Allgemeinmedizin
+6.0987935;50.9253368;928;Petruskapelle;Kapelle;Kirche
+6.1150872;50.9206508;930;Frannys Hairsalon (Damen & Herren Friseursalon);Friseur;Friseur
+6.1089115;50.9224028;931;Irmgard Mallmann Friseursalon;Friseur;Friseur
+6.1128552;50.9242213;932;Frisör Klier GmbH;Friseur;Friseur
+6.10108;50.92525;933;Avino Friseure;Friseur;Friseur
+6.0999015;50.9247719;934;Hair Shape;Friseur;Friseur
+6.0992704;50.9250145;935;Hair & Scissors;Friseur;Friseur
+6.1005479;50.9263855;936;Ayfa´s haarstudio;Friseur;Friseur
+6.102091;50.9278644;937;Head Passion Hair N.D. GmbH;Friseur;Friseur
+6.09996;50.91685;939;Josef u.Marga Nievelstein Friseursalon;Friseur;Friseur
+6.10027;50.92589;940;OVB Vermögensberatung AG: Thomas Kurzweg;Bank;Bank
+6.0996433;50.9257648;941;Volksbank Heinsberg eG, Filiale Palenberg;Bank;Bank
+6.0940854;50.9250808;942;Kreissparkasse Heinsberg - SB-Filiale;Bank;Geldautomat
+6.1466203;50.9126321;943;"Ev.-Freikirchl. Gemeinde ""Kreuzkirche""";Kirche;Kirche
+6.0876271;50.9300508;944;Kinderspielplatz;Spielplatz;Spielplatz
+6.1004426;50.926406;945;Michaels Fahrschule;Fahrschule;Fahrschule
+6.10376;50.92504;946;Pfarrei St. Petrus;Kirche;Kirche
+6.0903695;50.9306256;949;Evangelische Kirchengemeinde Übach-Palenberg;Kirchengemeinde;Kirche
+6.0661173;50.9270432;953;Kreissparkasse Heinsberg - SB-Filiale;Bank;Geldautomat
+6.0673161;50.9278603;954;Geldautomat Volksbank Heinsberg eG;Bank;Geldautomat
+6.0689517;50.9281557;955;St.Mariae Himmelfahrt zu Scherpenseel;Kirche;Kirche
+6.0721565;50.9309291;956;Fahrschule Scherpenseel;Fahrschule;Fahrschule
+6.1062517;50.9423309;961;Alte Kirche Frelenberg;Kirche;Kirche
+6.1055371;50.9421762;962;Kreissparkasse Heinsberg - SB-Filiale;Bank;Geldautomat
+6.105456;50.9416542;964;Udos Fahrschule Frelenberg;Fahrschule;Fahrschule
+6.11045;50.94134;966;Gemeinde Übach-Palenberg Pfarrer Jens Sannig Christuskirche;Gemeinde;Stadtverwaltung
+6.1072156;50.9441204;968;St. Dionysius;Kirche;Kirche
+6.1100511;50.9469956;973;Josef Philippen Friseursalon;Friseur;Friseur
+6.0700197;50.9697395;982;Wege Kapelle Panneschopp;Kapelle;Kirche
+6.0776691;50.9691189;983;Muttergottes Kapelle Nierstraß;Kapelle;Kirche
+6.0607529;50.9736709;984;Kapelle am Waldrand;Kapelle;Kirche
+6.0595413;50.9399097;987;St.Cornelius;Kapelle;Kirche
+6.0512553;50.9533531;991;Bancomat;Bank;Bank
+6.1160186;50.9601185;993;Spielplatz;Spielplatz;Spielplatz
+6.1189502;50.9592985;995;Spielplatz und Skaterbahn;Spielplatz;Spielplatz
+6.12341;50.96501;1002;St. Elisabeth-Krankenhaus Geilenkirchen;Krankenhaus;Krankenhaus
+6.1233177;50.9616771;1005;Ferienfahrschule Pretzer;Fahrschule;Fahrschule
+6.1235074;50.9619104;1007;Hairkiller;Friseur;Friseur
+6.1232259;50.9630385;1010;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.1238056;50.963047;1011;Sparkassen Immobilien;Bank;Bank
+6.12534;50.96304;1012;Evangelische Kirchengemeinde Geilenkirchen;Kirchengemeinde;Kirche
+6.128;50.96244;1015;Bernds Fahrschule;Fahrschule;Fahrschule
+6.12827;50.96265;1017;Erika Rutten Friseursalon;Friseur;Friseur
+6.1264401;50.9628622;1018;Beauty Hair;Friseur;Friseur
+6.1285;50.96311;1019;St.Johann Bapt.;Kirche;Kirche
+6.1249317;50.9627092;1025;Praxis für Zahnheilkunde Schiffers & Kollegen;Dentist;Zahnarzt
+6.124323;50.9628248;1026;Veronica Thelen Fachärztin f. Allgemeinmedizin;Allgemeinmedizin;Allgemeinmedizin
+6.1211889;50.9627754;1029;Commerzbank;Bank;Bank
+6.1126401;50.97204;1030;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.121472;50.964465;1038;Zahnärztin für Kieferorthopädie;Dentist;Zahnarzt
+6.1200143;50.9642091;1039;Praxis Michael Herfs;Allgemeinmedizin;Allgemeinmedizin
+6.1200623;50.9640906;1040;Jan Saxe;Dentist;Zahnarzt
+6.120459;50.964279;1041;Salon Säger;Friseur;Friseur
+6.12025;50.96498;1042;Frisör Derichs;Friseur;Friseur
+6.1218014;50.9641767;1047;St. Mariä Himmelfahrt, Geilenkirchen;Kirche;Kirche
+6.12031;50.96108;1049;Edigius Heinrichs Friseursalon;Friseur;Friseur
+6.11841;50.9619;1050;Agentur für Arbeit Geilenkirchen;Agentur für Arbeit;Arbeitsamt
+6.1186146;50.9650043;1054;style by büni;Friseur;Friseur
+6.11667;50.96757;1056;Fahrschule Fiss;Fahrschule;Fahrschule
+6.1229639;50.969784;1060;Praxis für Zahnheilkunde Sandra Nobis;Dentist;Zahnarzt
+6.1265144;50.9701775;1061;Heilige Maria;Kirche;Kirche
+6.1139211;50.9802256;1078;Kapliczka;Kapelle;Kirche
+6.1169771;50.9862213;1083;Kinder Spielplatz;Spielplatz;Spielplatz
+6.0845231;50.9823438;1087;Kapela;Kapelle;Kirche
+6.0766941;50.9803977;1088;St.Mariä Namen;Kirche;Kirche
+6.0687634;50.9824106;1090;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.0725982;50.9834107;1091;Styling Mel;Friseur;Friseur
+6.0614814;50.9842232;1093;Bahnhof;Bahnhof;Bahnhof
+6.0486314;50.9854498;1094;Hildes Hairtreff;Friseur;Friseur
+6.0343219;50.9873129;1095;Kirche Heilige Dreifaltigkeit;Kirche;Kirche
+6.0381531;50.9788837;1099;Wegekapelle;Kapelle;Kirche
+6.027105;50.9817786;1100;Ortskapelle;Kapelle;Kirche
+6.0318784;50.9809395;1101;Spielplatz Niederbusch;Spielplatz;Spielplatz
+6.011143;50.9593817;1106;Friedens Kapelle;Kapelle;Kirche
+6.0165764;50.9881506;1107;Kapelle Unterstahe;Kapelle;Kirche
+6.0042308;50.9886924;1116;Friedenskirche Gangelt;Kirche;Kirche
+6.0008395;50.9889016;1117;Cindys Friseursalon;Friseur;Friseur
+5.997827;50.99113;1125;Gemeindeverwaltung Gangelt;Verwaltung;Stadtverwaltung
+5.9968035;50.992092;1127;St. Nikolaus;Kirche;Kirche
+5.9965425;50.9927695;1128;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+5.997929;50.9932669;1129;Synagoge;Synagoge;Kirche
+5.9984299;50.9935892;1130;Andiamo Haarstudio;Friseur;Friseur
+5.997403;50.992839;1131;Fahrschule Nybelen;Fahrschule;Fahrschule
+5.996025;50.99167;1136;Kath. Pfarramt St. Nikolaus;Kirche;Kirche
+5.9962988;50.9966559;1140;Tina Krieger;Friseur;Friseur
+5.9898604;50.9981573;1143;Kapelle Gut Grootfeld;Kapelle;Kirche
+5.9865358;50.9946662;1144;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+5.9583829;50.9973995;1149;Kapel;Kapelle;Kirche
+5.9436595;50.9952656;1150;Kreissparkasse Heinsberg - SB-Filiale;Bank;Geldautomat
+5.943753;50.994938;1151;Fahrschule Hans Jütten;Farhschule;Fahrschule
+5.9401779;50.9963309;1152;Irene Willms;Friseur;Friseur
+5.9737759;51.0034639;1160;Orts Kapelle;Kapelle;Kirche
+5.9709014;51.0053632;1161;Kirche Sankt Josef;Kirche;Kirche
+5.9727407;51.0066819;1162;Kapelle am Friedhof;Kapelle;Kirche
+5.9217078;50.9974973;1167;St.Severinus Kerk;Kirche;Kirche
+5.9201618;50.9967402;1168;Bushalte;Bushalte;Bushaltestelle
+5.9207342;51.0005251;1169;Muttergotteskapelle in Wehr;Kapelle;Kirche
+5.9100188;51.0077055;1175;Marienkapelle Jungfrau der Armen in Tüddern;Kapelle;Kirche
+5.9005327;51.011391;1177;St.Gertrud Kerk;Kirche;Kirche
+5.9064341;51.0139175;1179;Neuapostolische Kirche Selfkant-Tüddern;Kirche;Kirche
+5.9021152;51.0157976;1181;Gemeinde Selfkant;Gemeinde;Stadtverwaltung
+5.8981432;51.0148155;1183;Sparkassen Immobilien;Bank;Bank
+5.8945546;51.0136211;1185;Volksbank Heinsberg eG, Filiale Tüddern;Bank;Bank
+5.8944747;51.013587;1186;Geldautomat Volksbank Heinsberg eG;Bank;Geldautomat
+5.898587;51.0162324;1188;Frisör Klier;Friseur;Friseur
+5.9019222;51.016353;1189;Volksbank Heinsberg eG, SB-Center Tüddern;Bank;Geldautomat
+5.8819422;51.0226123;1190;Marienkapelle in Millen;Kapelle;Kirche
+5.8799072;51.0237475;1191;St.Nikolaus Kerk;Kirche;Kirche
+5.879429;51.0230628;1192;Loomans M.;Friseur;Friseur
+5.9853209;51.0080492;1197;Marien Kapelle;Kapelle;Kirche
+5.9940321;51.0127983;1198;Feldkapelle Schümm;Kapelle;Kirche
+6.0011513;51.0094193;1199;Feldkapelle Vinteln;Kapelle;Kirche
+5.931329;51.022551;1200;Zahnarztpraxis Trepels;Dentist;Zahnarzt
+5.9326953;51.0247516;1202;Volksbank Heinsberg eG, Filiale Höngen;Bank;Bank
+5.93491;51.0261284;1203;Fahrschule die 2 GmbH;Fahrschule;Fahrschule
+5.939076;51.0255924;1209;Kirche St. Lambertus Selfkant Höngen;Kirche;Kirche
+5.9410596;51.0298841;1212;Kapelle Heilder;Kapelle;Kirche
+5.9588813;51.0322296;1215;Kapelle a.d.Grenzstraße;Kapelle;Kirche
+5.959606;51.0320644;1216;Volksbank Heinsberg eG, SB-Center Saeffelen;Bank;Geldautomat
+5.959799;51.0326508;1217;St. Lucia Pfarrkirche Saeffelen;Kirche;Kirche
+5.963615;51.032162;1220;Kapelle a.d.Lindenstraßa;Kapelle;Kirche
+5.9619085;51.0329995;1221;Marien Kapelle a.d.Heinsbergerstraße;Kapelle;Kirche
+5.958662;51.0332576;1222;Kapelle Am Dorfanger;Kapelle;Kirche
+5.884338;51.0410607;1223;Marienkapelle in Isenbruch;Kapelle;Kirche
+5.8800311;51.0413779;1224;Kapelle Maria Immaculata;Kapelle;Kirche
+5.9092635;51.0490797;1226;St.Barbara Kapelle;Kapelle;Kirche
+5.98154;51.0257603;1230;Andachtskapelle;Kapelle;Kirche
+5.9872762;51.0220516;1231;Ortskapelle Buscherheide;Kapelle;Kirche
+5.9884495;51.022761;1232;Kapell am Sportplatz;Kapelle;Kirche
+5.9939613;51.0227199;1234;Kapelle am Spielplatz;Kapelle;Kirche
+5.9900936;51.0266926;1235;Sankt Maternus Kirche;Kirche;Kirche
+5.9894732;51.0272987;1237;Kreissparkasse Heinsberg - SB-Filiale;Bank;Geldautomat
+5.9896785;51.0288011;1240;Ortskapelle;Kapelle;Kirche
+5.9930873;51.0334637;1243;Ortskapelle;Kapelle;Kirche
+5.9989693;51.0179624;1244;Ortskapelle Schümm;Kapelle;Kirche
+6.0119405;51.0178816;1245;Kapelle im Winkel;Kapelle;Kirche
+6.018179;51.0209668;1248;Kirche St. Mariä Empfängnis;Kirche;Kirche
+6.0186111;51.0208333;1249;Kapelle an der Kirche;Kapelle;Kirche
+6.0244393;51.0191281;1250;Gedächtnis-Kapelle;Kapelle;Kirche
+6.0267134;51.0052062;1254;Kirche zur Schmerzhaften Muttergottes;Kirche;Kirche
+6.0432422;51.0046351;1257;Birgdener Betkreuz;Kapelle;Kirche
+6.0488608;51.005567;1258;Tobias Und Raphael Kapelle;Kapelle;Kirche
+6.0495193;51.0063606;1259;St. Urban Birgden;Kirche;Kirche
+6.0512288;51.0074102;1260;Kapelle kleiner Pley;Kapelle;Kirche
+6.0532261;51.0087164;1261;Kapelle Großer Pley;Kapelle;Kirche
+6.050281;51.0090219;1262;Marienkapelle;Kapelle;Kirche
+6.0469789;51.0006057;1265;Bushalte;Bushalte;Bushaltestelle
+6.0621707;51.0067554;1271;Spiel und Erlebnisraum;Spielplatz;Spielplatz
+6.0531135;51.009021;1273;Sparkasse;Bank;Bank
+6.0533871;51.0084827;1274;Volksbank;Bank;Bank
+6.0700503;50.9909071;1278;Kapelle;Kapelle;Kirche
+6.1218329;50.9620028;1280;Friseur;Friseur;Friseur
+6.119837;50.9647644;1288;Friseur;Friseur;Friseur
+6.112921;50.9623034;1291;Arzt;Allgemeinmedizin;Allgemeinmedizin
+6.1134614;50.960888;1294;Kirche;Kirche;Kirche
+6.1593106;50.9467922;1296;Gedenkkreuz;Kapelle;Kirche
+6.1698789;50.9521454;1298;Pfarramt;Kirche;Kirche
+6.1722873;50.952024;1300;VR Bank;Bank;Bank
+6.1940503;50.9544488;1303;WE-Kreuz;Kapelle;Kirche
+6.1675812;50.9684364;1305;Kirche;Kirche;Kirche
+6.1856124;50.9873763;1313;Spielplatz;Spielplatz;Spielplatz
+6.1805803;50.9925405;1316;Friseur;Friseur;Friseur
+6.1782145;50.9925843;1317;Kirche;Kirche;Kirche
+6.1888767;50.994133;1318;Volksbank;Bank;Bank
+6.1865586;51.0025004;1320;Feldkreuz;Kapelle;Kirche
+6.1766303;51.002296;1322;Spielplatz;Spielplatz;Spielplatz
+6.1629143;51.0016816;1324;Kirche;Kirche;Kirche
+6.2110984;50.996513;1330;Raiffeisenbank;Bank;Bank
+6.2060902;50.9975817;1333;Bank;Bank;Bank
+6.2061653;50.9977336;1334;Kreissparkasse;Bank;Bank
+6.2437299;51.003215;1339;Maxis;Fahrschule;Fahrschule
+6.2431056;51.003599;1340;Friseur;Friseur;Friseur
+6.23893;51.00704;1347;Udo Schröder Friseursalon;Friseur;Friseur
+6.2358397;51.0060942;1349;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.2351141;51.0068989;1350;Raiffeisenbank Erkelenz eG;Bank;Bank
+6.0002474;51.049992;1360;GEUSEN-Haus Bocket evangelisch;Kirche;Kirche
+5.9966557;51.0526332;1361;St.Josef Kerk;Kirche;Kirche
+5.9971799;51.052662;1362;St.Josef;Kirche;Kirche
+5.9988984;51.0522457;1363;Volksbank Haaren eG - Geschäftsstelle Bocket;Bank;Bank
+6.0293;51.05256;1366;Marienkapelle Hontem;Kapelle;Kirche
+6.0401512;51.0558724;1368;Kath. Kirche St. Clemens Braunsrath;Kirche;Kirche
+6.0480445;51.0563615;1370;Wallfahrtskapelle Maria Lind in Braunsrath;Kapelle;Kirche
+6.0635251;51.0554449;1372;Bushalte;Bushalte;Bushaltestelle
+5.9994749;51.0594544;1376;Bushalte;Bushalte;Bushaltestelle
+5.9922899;51.0637416;1379;Volksbank Heinsberg eG, Filiale Waldfeucht;Bank;Bank
+5.9922551;51.0641396;1381;Marko Dedic;Dentist;Zahnarzt
+5.9916988;51.0642565;1382;Bushalte;Bushalte;Bushaltestelle
+5.9841169;51.0596271;1384;Kapelle Waldfeucht;Kapelle;Kirche
+5.9883189;51.0662684;1385;Kath. Kirche St. Lambertus Waldfeucht;Kirche;Kirche
+5.9892346;51.0681977;1388;Gemeinde Waldfeucht;Gemeindeamt;Stadtverwaltung
+5.9973454;51.073655;1392;Bushalte;Bushalte;Bushaltestelle
+6.0217835;51.071999;1394;Kirche Obspringen;Kirche;Kirche
+6.019161;51.0733324;1395;Bella Rosa Inh. Isabella Derix;Friseur;Friseur
+6.0131797;51.0904015;1397;Kapelle im Grenzwald Haaren;Kapelle;Kirche
+6.0215287;51.0903804;1398;Kapelle am Haarener Strasse;Kapelle;Kirche
+6.0284884;51.0889873;1400;Friseur Derix;Friseur;Friseur
+6.021842;51.0860423;1401;Kapelle am Paulisweg;Kapelle;Kirche
+6.0315;51.088116;1402;Volksbank Haaren eG;Bank;Bank
+6.0372545;51.0915409;1404;Kreissparkasse Heinsberg - SB-Filiale;Bank;Geldautomat
+6.0372656;51.0914897;1405;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.0367078;51.0908574;1406;Kath. Kirche St. Johannes der Täufer Haaren;Kirche;Kirche
+6.05243;51.08756;1409;Paul von Helden;Friseur;Friseur
+6.0550699;51.08702;1411;Albert Schreinemachers;Friseur;Friseur
+6.06129;51.08005;1415;Ursula Lehnen Friseursalon;Friseur;Friseur
+6.06997;51.07648;1420;Frösch E.;Friseur;Friseur
+6.0697074;51.0758076;1421;Heutz A.;Friseur;Friseur
+6.07254;51.07434;1422;Günter Backhaus Friseursalon;Friseur;Friseur
+6.07369;51.07436;1424;St.Hubert;Kirche;Kirche
+6.07471;51.0798;1427;Poetsch GmbH;Friseur;Friseur
+6.07839;51.0949;1434;Birgit'Salon;Friseur;Friseur
+6.0772249;51.0987508;1435;Bushalte;Bushalte;Bushaltestelle
+6.0792037;51.0986465;1436;Himmelskreuz;Kirche;Kirche
+6.0735688;51.1010211;1437;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.073664;51.1010639;1438;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.0731201;51.10193;1439;Volksbank Heinsberg eG, Filiale Karken;Bank;Bank
+6.0711861;51.1029691;1441;Woomer Kreuz;Kirche;Kirche
+6.0732052;51.1004176;1442;Kinderspielplatz Am Woom;Spielplatz;Spielplatz
+6.06997;51.10414;1443;Karina von der Forst, Friseurmeisterin;Friseur;Friseur
+6.069768;51.104159;1444;Haare & mehr ...;Friseur;Friseur
+6.06541;51.1065;1446;Bernd Geraths;Allgemeinmedizin;Allgemeinmedizin
+6.06213;51.1044;1447;Johann von Ophoven;Kapelle;Kirche
+6.0603545;51.1000717;1448;Feldkapelle Hickeswinkel;Kapelle;Kirche
+6.084032;51.100399;1449;Thomas Steinforth;Allgemeinmedizin;Allgemeinmedizin
+6.0793866;51.1032645;1454;St. Severin;Kirche;Kirche
+6.0808902;51.1043384;1455;Friedhofskapelle;Kapelle;Kirche
+6.0798889;51.1091338;1456;Wegekreuz End;Kapelle;Kirche
+6.0796948;51.1103523;1457;Hans Jütten;Fahrschule;Fahrschule
+6.0719261;51.1156489;1459;Hofkreuz Wolfhager Mühle;Kapelle;Kirche
+6.0619015;51.1129889;1461;"Kapelle Hingen ""Heiligenhäuschen""";Kapelle;Kirche
+6.1012349;51.093393;1467;St. Nikolaus;Kirche;Kirche
+6.1030904;51.0937325;1468;Martin Winkens;Friseur;Friseur
+6.101632;51.1079333;1470;St. Mariä Himmelfahrt;Kirche;Kirche
+6.0970771;51.1134694;1474;St. Martinuskirche Steinkirchen;Kirche;Kirche
+6.1046299;51.1245175;1482;Kinder-Spielplatz;Spielplatz;Spielplatz
+6.1047179;51.1252155;1484;Günther Hilgers Friseursalon;Friseur;Friseur
+6.1309032;51.0988813;1489;Kapliczka;Kapelle;Kirche
+6.1505591;51.0963271;1502;Spielplatz;Spielplatz;Spielplatz
+6.16167;51.09384;1505;Unicut GmbH;Friseur;Friseur
+6.1551056;51.0983973;1509;Volksbank Mönchengladbach eG - Filiale Wassenberg;Bank;Bank
+6.154857;51.0988177;1511;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.1555774;51.0987811;1512;Hauptsache Katja;Friseur;Friseur
+6.1554031;51.0991825;1513;Salon Wilms;Friseur;Friseur
+6.1546152;51.0996559;1518;Die2 GmbH & HiBiDuRi Fahrschule;Fahrschule;Fahrschule
+6.1555688;51.1004884;1522;Hausarztpraxis Dr. Susanne Beckers, Dr. Ahmed Wardeh;Allgemeinmedizin;Allgemeinmedizin
+6.1551092;51.1015413;1523;Frauenarzt Wassenberg;Frauenarzt;Frauenarzt
+6.1553881;51.1019062;1526;Stadt Wassenberg;Amt;Stadtverwaltung
+6.1583613;51.0979787;1531;Kinderspielplatz;Spielplatz;Spielplatz
+6.1576839;51.0995773;1533;St. Georg;Kirche;Kirche
+6.15218;51.10773;1539;Spielplatz;Spielplatz;Spielplatz
+6.1546961;51.1095763;1540;Friseursalon Jennys;Friseur;Friseur
+6.1522892;51.1125707;1544;Geldautomat Volksbank Heinsberg eG;Bank;Geldautomat
+6.15219;51.1125;1546;Volksbank Heinsberg eG, Filiale Birgelen;Bank;Bank
+6.1521165;51.112635;1547;Kreissparkasse Heinsberg - SB-Filiale;Bank;Bank
+6.151728;51.1128024;1549;Friseursalon Haarscharf S. Kryiom;Friseur;Friseur
+6.1517253;51.1130557;1554;St. Lambertus;Kirche;Kirche
+6.1521822;51.113226;1555;Kirche St. Lambertus Birgelen;Kirche;Kirche
+5.9943482;50.9931599;1557;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.18881;51.0958;1561;Katholische Kirchengemeinde St. Johann Baptist;Kirchengemeinde;Kirche
+6.1903775;51.0969549;1562;Salon Chic;Friseur;Friseur
+6.2166393;51.1010324;1629;Evangelische Kirche;Kirche;Kirche
+6.190723;51.097323;1563;Birgit Schiller | Fachärztin für Allgemeinmedizin | Wassenberg;Allgemeinmedizin;Allgemeinmedizin
+6.1917909;51.097487;1564;Frisör Klier;Friseur;Friseur
+6.182075;51.101489;1568;Volksbank Mönchengladbach eG - SB-Filiale Myhl;Bank;Geldautomat
+6.182;51.10157;1569;Friseur Domin;Friseur;Friseur
+6.1755977;51.1018529;1573;Spielplatz am Wasserwerk;Spielplatz;Spielplatz
+6.183286;51.1030784;1575;Siebtenten-Tags-Adventisten Wassenberg;Kirche;Kirche
+6.186829;51.1048743;1577;Spielplatz;Spielplatz;Spielplatz
+6.1884372;51.103272;1578;Kinderspielplatz;Spielplatz;Spielplatz
+6.1781092;51.1029761;1579;Jörn Paul Wolters Fahrschule;Fahrschule;Fahrschule
+6.1759508;51.1039179;1580;Praxis Dr. Michael Dommermuth;Allgemeinmedizin;Allgemeinmedizin
+6.1636296;51.1016039;1589;Friseursalon haargenau;Friseur;Friseur
+6.16933;51.1049797;1591;Gemeindebüro;Gemeinde;Stadtverwaltung
+6.1687699;51.1048856;1593;Kreuzkirche;Kirche;Kirche
+6.1721161;51.1057291;1594;Neuapostolische Kirche Wassenberg;Kirche;Kirche
+6.175605;51.104669;1595;New Generation Friseursalon;Friseur;Friseur
+6.1756048;51.1052178;1596;Kreissparkasse Heinsberg - SB-Filiale;Bank;Geldautomat
+6.17737;51.1058;1597;Fahrschule Marion Hasen;Fahrschule;Fahrschule
+6.174465;51.1098297;1602;DITIB Moschee Wassenberg;Moschee;Kirche
+6.1664633;51.1095789;1603;Birgelener Pützchen;Kapelle;Kirche
+6.2053318;51.0961197;1611;Spielplatz An der Wolfskaul;Spielplatz;Spielplatz
+6.2150032;51.0942187;1613;Genender Kreuz;Kapelle;Kirche
+6.2188679;51.0942849;1614;Sankt Christophorus;Kirche;Kirche
+6.218126;51.096034;1618;Volksbank Mönchengladbach eG - Filiale Gerderath;Bank;Bank
+6.2169622;51.0961107;1619;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.215526;51.096225;1621;Fein Raus;Friseur;Friseur
+6.21381;51.09901;1627;Borchert;Friseur;Friseur
+6.2160404;51.10346;1630;Spielplatz;Spielplatz;Spielplatz
+6.1927378;51.1243152;1636;Katholische Kirche;Kirche;Kirche
+6.1817466;51.1231002;1639;Waldkapelle;Kapelle;Kirche
+6.21108;51.14546;1670;Zeitzen Ralf Friseurmeister;Friseur;Friseur
+6.20989;51.14232;1671;Kath. Kirchengemeinde St. Adelgundis;Kirchengemeinde;Kirche
+6.211506;51.1439071;1672;Annemarie Pfeiffer Friseursalon;Friseur;Friseur
+6.2115301;51.1434759;1673;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.2115026;51.1434458;1674;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.2098892;51.1413706;1676;Küppers Manfred Friseure;Friseur;Friseur
+6.2072157;51.1402131;1677;Tanja Jakobs FRISEURE | Ihr Friseursalon in Wegberg-Arsbeck;Friseur;Friseur
+6.209854;51.143367;1678;Volksbank Mönchengladbach eG - Filiale Arsbeck;Bank;Bank
+6.25091;51.13622;1694;Dental Zentrum Wegberg;Zahnarzt;Zahnarzt
+6.24716;51.13562;1696;Karl Straetener Friseursalon;Friseur;Friseur
+6.2881581;51.1256417;1700;Bushalte;Bushalte;Bushaltestelle
+6.2812967;51.1348139;1708;Bushalte;Bushalte;Bushaltestelle
+6.2767342;51.1385832;1709;M2K Friseure Kohlen;Friseur;Friseur
+6.2756765;51.1387461;1710;Malike's Hairdesign;Friseur;Friseur
+6.2760224;51.1405117;1717;Ring Fahrschule GmbH;Fahrschule;Fahrschule
+6.2775945;51.1408748;1718;Kirche;Kirche;Kirche
+6.27454;51.13972;1725;I. Mirbach-Scheinebraten Friseursalon;Friseur;Friseur
+6.26957;51.14001;1730;Figaro Friseur;Friseur;Friseur
+6.2771;51.14021;1733;Fahrschule Manthey;Fahrschule;Fahrschule
+6.27707;51.14016;1734;Schöpgens P. u. A.;Friseur;Friseur
+6.2783678;51.1420698;1738;Jackels Fahrschule;Fahrschule;Fahrschule
+6.2786605;51.1423326;1739;Die Hairstylisten;Friseur;Friseur
+6.2785055;51.141445;1740;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.2783824;51.1418148;1741;Volksbank Geldautomat;Bank;Geldautomat
+6.2782176;51.1423333;1742;Bruno Montforts Friseursalon;Friseur;Friseur
+6.278948;51.1432065;1745;Notar J. Christian Freuen;Friseur;Friseur
+6.27944;51.1440126;1747;Deutsche Bank Filiale;Bank;Bank
+6.306279;51.132;1758;St. Vincentius Beeck;Kirche;Kirche
+6.3083773;51.1342059;1759;G.D. Theissen;Fahrschule;Fahrschule
+6.3022745;51.1339929;1760;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.30224;51.13622;1761;Joerihsen J.;Friseur;Friseur
+6.282297;51.1501824;1769;Friseur Kopf-Arbeit;Friseur;Friseur
+6.2953201;51.1403916;1771;Irene Kamphausen Friseursalon;Friseur;Friseur
+6.2880246;51.1394206;1774;ARAL Spielplatz;Spielplatz;Spielplatz
+6.2903355;51.1486979;1778;Alpimaro;Spielplatz;Spielplatz
+6.2831252;51.1441766;1789;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.2806637;51.14341;1794;Evangelische Kirchengemeinde;Kirchengemeinde;Kirche
+6.2889275;51.1432529;1798;Meinhard Jackels Fahrschule;Fahrschule;Fahrschule
+6.2821268;51.1393726;1799;Mino;Friseur;Friseur
+6.28355;51.13916;1800;Volksbank Mönchengladbach eG - Filiale Wegberg;Bank;Bank
+6.282622;51.1387369;1801;Gynäkologische Praxis Wegberg;Gynäkologie;Frauenarzt
+6.279924;51.140247;1802;Ilona's Haarstudio;Friseur;Friseur
+6.2804893;51.140652;1803;Hausarztzentrum Birkenallee;Allgemeinmedizin;Allgemeinmedizin
+6.2495667;51.1729554;1814;St. Maternus;Kirche;Kirche
+6.2461776;51.1673784;1817;Marie-Luise Böhmke;Friseur;Friseur
+6.2534864;51.1761048;1821;Hanraths J.;Friseur;Friseur
+6.28595;51.16851;1828;Kath. Kirchengemeinde Mariä Himmelfahrt und Pfarramt Rickelrath;Kirchengemeinde;Kirche
+6.3187848;51.1452684;1831;Bushalte;Bushalte;Bushaltestelle
+6.3210485;51.1293579;1840;Bushalte;Bushalte;Bushaltestelle
+6.3298852;51.1277368;1841;Bushalte;Bushalte;Bushaltestelle
+6.3322157;51.1146494;1848;Volksbank Erkelenz eG Gesch.St. Rath-Anhoven;Bank;Bank
+6.336494;51.109696;1852;Salon Haargenau;Friseur;Friseur
+6.3546996;51.1163209;1854;Bushalte;Bushalte;Bushaltestelle
+6.357553;51.1182532;1856;Spielplatz Laurentiusstraße;Spielplatz;Spielplatz
+6.3578083;51.1180562;1857;Bushalte;Bushalte;Bushaltestelle
+6.3679279;51.1045808;1860;Bahnhof;Bahnhof;Bahnhof
+6.3727023;51.0908746;1865;St. Valentin Venrath;Kirche;Kirche
+6.3757428;51.0902664;1868;Raiffeisenbank Erkelenz eG;Bank;Bank
+6.3660176;51.0820977;1871;Fahrschul-Akademie;Fahrschule;Fahrschule
+6.3677285;51.0818962;1873;Wendelinus Kapelle;Kapelle;Kirche
+6.3917657;51.0832932;1874;Herz Jesu Kirche;Kirche;Kirche
+6.3925581;51.0833221;1875;Settels, U.;Friseur;Friseur
+6.41242;51.09491;1876;Hans Georg Leiendecker;Glaube;Kirche
+6.4132668;51.094862;1878;Bushalte;Bushalte;Bushaltestelle
+6.4134973;51.0962258;1880;Bushalte;Bushalte;Bushaltestelle
+6.41238;51.09626;1881;Katholische Kirche Wanlo;Kirche;Kirche
+6.4129851;51.0838781;1884;Kirche Heilig Kreuz;Kirche;Kirche
+6.4125296;51.082528;1886;Kreissparkasse Heinsberg - SB-Filiale;Bank;Geldautomat
+6.4124367;51.0825176;1887;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.405419;51.047477;1894;Raiffeisenbank Erkelenz eG;Bank;Bank
+6.4052099;51.0476983;1895;Kirche St. Cosmas und Damian;Kirche;Kirche
+6.4051225;51.0472696;1897;Willi Goertz;Friseur;Friseur
+6.3511;51.05929;1909;Hermann-Josef Wassenhoven Friseursalon;Friseur;Friseur
+6.35184;51.06144;1912;Hairfashion;Friseur;Friseur
+6.3483106;51.0618892;1914;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.34807;51.06116;1915;St. Servatius;Kirche;Kirche
+6.3391148;51.0594462;1918;Klaudia Jansen;Friseur;Friseur
+6.336902;51.059172;1919;Raiffeisenbank Erkelenz eG;Bank;Bank
+6.336299;51.0584597;1920;St. Lambertus;Kirche;Kirche
+6.3323558;51.0586443;1921;Friseursalon Sahneschnitte;Friseur;Friseur
+6.3022982;51.1202752;1930;Wallfahrtkapelle Holtum;Kapelle;Kirche
+6.3234803;51.0538209;1934;Bushalte;Bushalte;Bushaltestelle
+6.3142058;51.0533702;1938;St. Antonius;Kirche;Kirche
+6.2957301;51.05054;1942;Kirche Gemeinde Gottes;Kirche;Kirche
+6.2951519;51.0552642;1945;Pfarrkirche St. Michael;Kirche;Kirche
+6.3029655;51.0644324;1965;röm.-kath. Marienkapelle;Kapelle;Kirche
+6.3283307;51.0624356;1967;Erik Dürbaum;Fahrschule;Fahrschule
+6.3271199;51.0645965;1970;Muttergotteskapelle;Kapelle;Kirche
+6.3276032;51.0647823;1972;Kapelle Bellinghoven;Kapelle;Kirche
+6.3045146;51.0688709;1977;FIMA GmbH & FAHRSCHULE MAINKA GmbH;Fahrschule;Fahrschule
+6.3022149;51.0700094;1992;Kreissparkasse Heinsberg Maestro Geldautomat;Bank;Geldautomat
+6.3024678;51.0719797;1994;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.3140803;51.0738185;1997;Fachärzte-Zentrum am Hermann-Josef-Krankenhaus;Krankenhaus;Krankenhaus
+6.3139193;51.0743254;1998;Hermann-Josef-Krankenhaus Erkelenz;Krankenhaus;Krankenhaus
+6.3142317;51.0745941;1999;Hermann-Josef-Krankenhaus Klinik für Urologie und Kinderurologie;Urologie;Urologe
+6.3144122;51.0752931;2003;Wegekapelle (Schächerhäuschen);Kapelle;Kirche
+6.31486;51.0755;2004;Agentur für Arbeit Erkelenz;Agentur für Arbeit;Arbeitsamt
+6.3132813;51.0757931;2005;Notdienstpraxis;Arzt;Allgemeinmedizin
+6.3088524;51.0716016;2006;Bushalte;Bushalte;Bushaltestelle
+6.3145879;51.0714533;2007;Bushalte;Bushalte;Bushaltestelle
+6.3048402;51.0757849;2012;Bushalte;Bushalte;Bushaltestelle
+6.3058402;51.075204;2013;REWE Geldautomat (Cashpoint);Geldautomat;Geldautomat
+6.3056185;51.077588;2014;HairConcept;Friseur;Friseur
+6.3052;51.07763;2015;Rd-haar-mode GmbH;Friseur;Friseur
+6.306851;51.07865;2017;HairExpress;Friseur;Friseur
+6.2950819;51.0800913;2021;Friseur Arnolds Schnittwerk;Friseur;Friseur
+6.2974106;51.0821651;2023;kämm- bar Nicole Nysten Friseursalon;Friseur;Friseur
+6.2972997;51.0825866;2024;Kinderspielplatz;Spielplatz;Spielplatz
+6.2978216;51.0834346;2026;Kreissparkasse Heinsberg - SB-Filiale;Bank;Geldautomat
+6.2978938;51.0834695;2027;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.297322;51.085541;2030;GLOSS Friseur;Friseur;Friseur
+6.300976;51.0931419;2031;Kapelle zur hl. Familie;Kapelle;Kirche
+6.329785;51.0945704;2036;Martinus Kapelle;Kapelle;Kirche
+6.327019;51.0950365;2037;Raiffeisenbank Erkelenz eG;Bank;Bank
+6.3237204;51.0733818;2052;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.3414324;51.0741703;2066;Kapelle Sankt Jakobus;Kapelle;Kirche
+6.3411374;51.0811041;2084;St. Lucia;Kirche;Kirche
+6.3271935;51.0800735;2090;Kath Kirchengemeindeverband Mönchengladbach-Heinsberg;Kirchengemeinde;Kirche
+6.31306;51.08364;2097;Praxis für Zahnheilkunde Bernd Beek;Dentist;Zahnarzt
+6.3136799;51.08825;2101;Ricardas Haarstudio;Friseur;Friseur
+6.3157426;51.0880769;2103;Muttergotteskapelle;Kapelle;Kirche
+6.324121;51.0919142;2104;Nebras Babakan;Friseur;Friseur
+6.3206748;51.0897113;2105;Volksbank;Bank;Bank
+6.320652;51.0891955;2108;Gemeinschaftspraxis für Allgemeinmedizin Helmut Hermanns und Anne Hermanns-Leutner;Allgemeinmedizin;Allgemeinmedizin
+6.32277;51.08863;2110;Fahrschule Wolfgang Klohs;Fahrschule;Fahrschule
+6.3246615;51.0897252;2111;Spielplatz Karolingerring;Spielplatz;Spielplatz
+6.3457743;51.0882682;2114;Mennekrather Spielplatz;Spielplatz;Spielplatz
+6.3252621;51.0844855;2117;Karlskapelle;Kapelle;Kirche
+6.3208863;51.0789049;2120;Johannes Fell Zahnarzt;Dentist;Zahnarzt
+6.322371;51.079303;2121;Praxis Jacques Philippe;Allgemeinmedizin;Allgemeinmedizin
+6.3207882;51.0792741;2122;Evangelische Kirche Erkelenz;Kirche;Kirche
+6.3220179;51.0795329;2123;Evangelische Kirchengemeinde Erkelenz;Kirchengemeinde;Kirche
+6.3183778;51.0814501;2127;Jutta Petit Fachärztin für Frauenheilkunde und Geburtshilfe;Gynäkologie;Frauenarzt
+6.3182085;51.0815527;2128;Praxis Rudolf Janz;Allgemeinmedizin;Allgemeinmedizin
+6.3170904;51.0857195;2132;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.3122663;51.0760457;2138;EFGG Erkelenz (evangelisch, freikirchlich);evangelische Kirche;Kirche
+6.3153103;51.0771639;2140;FAHRSCHULE KURT ESSER;Fahrschule;Fahrschule
+6.3163473;51.0768765;2141;Evertz G.;Friseur;Friseur
+6.3122824;51.0780848;2145;Heads Haarstudio;Friseur;Friseur
+6.3148207;51.0790882;2149;Diakonisches Werk des Kirchenkreises Jülich;Kirchengemeinde;Kirche
+6.3153408;51.0791175;2150;Hair Image;Friseur;Friseur
+6.3161444;51.0793035;2152;Gemeinschaftspraxis am Markt - Kußmaul - Mühr - Royé - Jütten;Allgemeinmedizin;Allgemeinmedizin
+6.3169207;51.0793619;2155;Liebeshaar Friseure Erkelenz;Friseur;Friseur
+6.3180561;51.0782843;2156;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.3186494;51.0776184;2157;Commerzbank;Bank;Bank
+6.3189201;51.0778018;2158;TARGOBANK;Bank;Bank
+6.3181639;51.0771693;2163;Zahnarzt Michael Stoltenburg;Dentist;Zahnarzt
+6.3174319;51.0780674;2165;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.3139611;51.0777651;2171;Zahnarzt Dr. Axel Schlicht;Dentist;Zahnarzt
+6.3208187;51.076995;2176;Volksbank Mönchengladbach eG - Filiale Erkelenz;Bank;Bank
+6.319202;51.077504;2180;Hairlabel;Friseur;Friseur
+6.3187012;51.0779989;2182;Profi Hairshop GmbH Fil. Erkelenz;Friseur;Friseur
+6.318651;51.078661;2184;Antjes Du Dein Haar und ich;Friseur;Friseur
+6.3193195;51.0789039;2185;Fahrschule GDT Leuer;Fahrschule;Fahrschule
+6.3179745;51.0788209;2188;Postbank Filiale;Bank;Bank
+6.3182716;51.079514;2190;Peter Wüllenweber Friseursalon;Friseur;Friseur
+6.31688;51.07962;2192;Finanzagentur für die Deutsche Bank - Selbstständige Finanzberater;Bank;Bank
+6.317643;51.079063;2193;Commerzbank;Bank;Bank
+6.31751;51.08043;2197;Ute Gebhardt-Claßen Friseursalon;Friseur;Friseur
+6.3155045;51.0799381;2199;Sankt Lambertus Erkelenz;Kirche;Kirche
+6.3152336;51.0814012;2204;Erwin Hoffmann Friseursalon;Friseursalon;Friseur
+6.313871;51.080335;2214;Leonhardskapelle Erkelenz;Kapelle;Kirche
+6.314261;51.0802855;2216;Stadt Erkelenz;Amt;Stadtverwaltung
+6.314913;51.079605;2219;Salon b.ienentreu;Friseur;Friseur
+6.17095;51.01766;2223;Karl Dautzenberg;Fahrschule;Fahrschule
+6.1723558;51.0192319;2224;Bernhard Bongartz;Allgemeinmedizin;Allgemeinmedizin
+6.1766543;51.0156503;2226;Katholische Kirche St.Lambertus;Kirche;Kirche
+6.1775112;51.0158311;2227;Volksbank Randerath-Immendorf eG;Bank;Bank
+6.1799598;51.0157572;2231;Ginschor Y.;Friseur;Friseur
+6.3601801;51.034816;2240;Maria Sieben Friseurmeisterin;Friseur;Friseur
+6.3543177;51.034689;2244;St. Mariä Empfängnis;Kirche;Kirche
+6.3479925;51.0267052;2248;Kapelle St. Barbara;Kapelle;Kirche
+6.3271678;51.0319186;2254;Kath. Kirche St. Pauli Bekerung;Kirche;Kirche
+6.3261338;51.0320769;2255;Dagmar und Peter Niemann;Friseur;Friseur
+6.3274925;51.0342479;2260;Gerhard Wilde Friseurbedarf;Friseur;Friseur
+6.3240836;51.0323587;2261;Lövenich;Bank;Bank
+6.324778;51.032031;2262;Raiffeisenbank Erkelenz eG;Bank;Bank
+6.3160292;51.0315337;2268;Evangelische Kirchengemeinde Lövenich;Kirchengemeinde;Kirche
+6.3181579;51.0345283;2272;H. Steigels Friseursalon;Friseur;Friseur
+6.3206562;51.0358739;2273;Kapelle Stettener Berg, 41812 Erkelenz;Kapelle;Kirche
+6.286019;51.0360907;2277;röm.-kath. Marienkapelle;Kapelle;Kirche
+6.2848901;51.0319717;2279;Spielplatz;Spielplatz;Spielplatz
+6.2822436;51.0309646;2281;Evangelisch Freikirchliche Gemeinde Hückelhoven Baal;Kirche;Kirche
+6.2813597;51.029463;2282;Evangelische Kirche Baal;Kirche;Kirche
+6.2784469;51.032542;2284;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.2786;51.03356;2286;St. Brigida;Kirche;Kirche
+6.2800323;51.0344579;2291;Fahrschule Manthey;Fahrschule;Fahrschule
+6.2802077;51.0344876;2293;Gabriele Schneisgen;Friseur;Friseur
+6.2821607;51.0401233;2295;ING-Geldautomat;Bank;Geldautomat
+6.2760496;51.032793;2297;Raiffeisenbank Erkelenz eG;Bank;Bank
+6.2705128;51.0376715;2303;Kapliczka;Kapelle;Kirche
+6.2488806;51.0487014;2309;annafuchs.cut;Friseur;Friseur
+6.27491;51.05778;2314;Tanja Korsten Friseursalon;Friseur;Friseur
+6.2742514;51.0578493;2315;Sankt Josef;Kirche;Kirche
+6.2760912;51.101875;2334;Sankt Severin;Kirche;Kirche
+6.2747312;51.1025914;2335;Evangelische Kirche;Kirche;Kirche
+6.2743;51.10303;2336;Evangelische Kirchengemeinde Schwanenberg;Kirchengemeinde;Kirche
+6.2745663;51.102335;2337;Gemeindehaus Schwanenberg;Gemeindehaus;Stadtverwaltung
+6.26351;51.1083;2344;H. Rex;Friseur;Friseur
+6.2414089;51.0483497;2348;Friseur- und Kosmetik Studio Corsten GmbH;Friseur;Friseur
+6.2491544;51.0694043;2353;Sankt Laurentius;Kirche;Kirche
+6.2526176;51.0718675;2355;Marienkapelle;Kapelle;Kirche
+6.2532843;51.0715936;2356;Karl Küppers;Gynäkologie;Frauenarzt
+6.2487846;51.0833777;2361;St. Stephanus;Kirche;Kirche
+6.2451794;51.0823384;2364;Tanja's Hairdesign Inh. Tanja Broßat;Friseur;Friseur
+6.2400822;51.101219;2376;Kirche Heilige Dreifaltigkeit;Kirche;Kirche
+6.2387324;51.1052142;2381;Living Hair;Friseur;Friseur
+6.2173642;51.0350656;2385;Buffer Spielplatz;Spielplatz;Spielplatz
+6.2187533;51.0370323;2388;Friseur Hatije Berisha;Friseur;Friseur
+6.2162848;51.0361386;2390;Evangelische Kirchengemeinde Hückelhoven;Kirchengemeinde;Kirche
+6.2192389;51.0400133;2392;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.2197657;51.0401824;2393;Salon Nuray Candan;Friseur;Friseur
+6.2201281;51.0410482;2397;Haarstudio Fiedler;Friseur;Friseur
+6.2210536;51.0422853;2400;Heinz Assmann Friseursalon;Friseur;Friseur
+6.22251;51.04381;2403;Dickmeis & Nowak Friseur in Hückelhoven;Friseur;Friseur
+6.226137;51.043998;2404;DITIB Moschee Hückelhoven;Moschee;Kirche
+6.22848;51.05014;2412;Fahrschule Walter Buttler;Fahrschule;Fahrschule
+6.2332126;51.0534625;2414;Bushalte;Bushalte;Bushaltestelle
+6.2261488;51.0492472;2423;Renate Wels Friseursalon;Friseur;Friseur
+6.2269004;51.0506839;2425;Kirche St.Lambertus;Kirche;Kirche
+6.2287787;51.0585509;2428;Spielplatz;Spielplatz;Spielplatz
+6.2244297;51.0500593;2432;Hair uMoor;Friseur;Friseur
+6.2240121;51.0518256;2438;TARGOBANK;Bank;Bank
+6.223444;51.0520197;2439;Hair Image;Friseur;Friseur
+6.2238738;51.0519389;2440;Beumers, Dr. Brigitte Zahnärztin;Dentist;Zahnarzt
+6.2243799;51.0527796;2442;Diakonisches Werk des Kirchenkreises Jülich - Schuldner- und Insolvenzberatung;Kirchenkreis;Kirche
+6.2249009;51.0527967;2443;Kosciol;Kapelle;Kirche
+6.2262155;51.0550424;2446;Bushalte;Bushalte;Bushaltestelle
+6.2265272;51.0556943;2447;Fahrschule learn 2 drive;Fahrschule;Fahrschule
+6.2268723;51.0560927;2449;Neuapostolische Kirche Hückelhoven;Kirche;Kirche
+6.2235494;51.0566597;2450;Hair Image (For Men);Friseur;Friseur
+6.2233096;51.0566775;2451;Hair Image (For Women);Friseur;Friseur
+6.2226071;51.0567569;2456;Friseur Sandra Möller;Friseur;Friseur
+6.2277499;51.0609;2460;Gisela Backes;Friseur;Friseur
+6.2232607;51.0532385;2464;Privat- und Kassenpraxis für Allgemeinmedizin Axel Kuchem;Allgemeinmedizin;Allgemeinmedizin
+6.2232089;51.0535715;2466;ZAHN + zähnchen Sabrina Chabrié;Dentist;Zahnarzt
+6.223588;51.05468;2469;Volksbank Mönchengladbach eG - Filiale Hückelhoven;Bank;Bank
+6.22289;51.0550727;2470;head attack Hückelhoven Friseurlocation;Friseur;Friseur
+6.2245984;51.0552532;2472;Rathaus Hückelhoven;Rathaus;Stadtverwaltung
+6.2246972;51.0551897;2473;Stadt Hückelhoven;Stadt;Stadtverwaltung
+6.2244734;51.0558646;2474;Spielplatz Parkhofstraße;Spielplatz;Spielplatz
+6.2230468;51.0556179;2476;Damen & Herren Haarstudio;Friseur;Friseur
+6.22261;51.05551;2477;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.2224543;51.0554359;2478;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.2216904;51.0564929;2480;Deutsche Bank Filiale;Bank;Bank
+6.2211889;51.0553263;2482;Frisör Klier;Friseur;Friseur
+6.2210287;51.0556709;2483;Styleboxx;Friseur;Friseur
+6.2203637;51.0578004;2484;M&C Hairdesign;Friseur;Friseur
+6.2205242;51.0572723;2485;Hair Palace Hückelhoven;Friseur;Friseur
+6.222504;51.06053;2489;Jobcenter;Jobcenter;Arbeitsamt
+6.2210141;51.0603578;2490;Fahrschule Hötitzsch Inh. Georg Bartlewski;Farhschule;Fahrschule
+6.2234092;51.0610345;2491;Spielplatz Achenbachstraße;Spielplatz;Spielplatz
+6.216411;51.0489419;2496;Geschäftsstelle für Deutsche Vermögensberatung DVAG Viktor Schmidt & Team;Bank;Bank
+6.222936;51.0599908;2521;Bushalte;Bushalte;Bushaltestelle
+6.2027359;51.0576141;2526;Freie Evangeliumschristen Gemeinde Hückelhoven;Evangelische Gemeinde;Kirche
+6.20813;51.06203;2532;St.Bonifatius;Kirche;Kirche
+6.2141457;51.0643195;2537;Spielplatz Hochstraße;Spielplatz;Spielplatz
+6.1955887;51.0641426;2540;Spielplatz;Spielplatz;Spielplatz
+6.1889077;51.064566;2541;World of Men Barbier Ratheim;Friseur;Friseur
+6.1898455;51.065131;2543;Der Barbier;Friseur;Friseur
+6.1890987;51.0653123;2545;Worlds Of Women;Friseur;Friseur
+6.188569;51.0657467;2546;Volksbank Mönchengladbach eG - Filiale Ratheim;Bank;Bank
+6.1866686;51.0660467;2547;Zahnarztpraxis Sascia Eckstein;Dentist;Zahnarzt
+6.185827;51.0695493;2549;Friedenskirche;Kirche;Kirche
+6.18624;51.06962;2550;Evangelische Kirchengemeinde Ratheim-Gerderath;Kirchengemeinde;Kirche
+6.1918207;51.0666039;2555;Selcuk Hairport;Friseur;Friseur
+6.1902675;51.0669705;2556;Spielplatz;Spielplatz;Spielplatz
+6.2004064;51.0702514;2559;Spielplatz;Spielplatz;Spielplatz
+6.1918564;51.0720628;2560;Spielplatz;Spielplatz;Spielplatz
+6.2241029;51.0752918;2566;St.Stephanus;Kirchengemeinde;Kirche
+6.2230567;51.0763743;2568;Kleingladbach;Bank;Bank
+6.1492926;50.9762456;2577;Kirche Heilig Kreuz in Süggerath;Kirche;Kirche
+6.114988;50.969146;2615;Neuapostolische Kirche Geilenkirchen;Kirche;Kirche
+6.1255;50.96827;2616;Gert Dieter Bauer;Friseur;Friseur
+6.1196439;50.9706352;2617;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.1142974;50.9661843;2620;Gelobt sei Jesus Christus;Kirchengemeinde;Kirche
+6.11474;50.96576;2621;Albert Schmidt Friseursalon;Friseur;Friseur
+6.12099;50.96446;2628;Stadt Geilenkirchen - Der Bürgermeister;Bürgermeister;Stadtverwaltung
+6.1215048;50.9623995;2630;Volksbank Heinsberg eG, Regionalzentrum Geilenkirchen;Bank;Bank
+6.12321;50.96207;2631;Tochelbäcker R. u. Mülfahrt H.;Friseur;Friseur
+6.1230235;50.9617173;2632;New Life International Ministries e.V.;Kirche;Kirche
+6.1283;50.96286;2635;Jansen D.;Allgemeinmedizin;Allgemeinmedizin
+6.1252928;50.9624693;2636;Fahrschule Frank Beule Geilenkirchen;Fahrschule;Fahrschule
+6.15423;50.94328;2645;Felizitas Thamer;Fahrschule;Fahrschule
+6.1047;50.94472;2649;Klein I.;Friseur;Friseur
+6.1055196;50.9424033;2651;Thomas Leisten Friseur;Friseur;Friseur
+6.0923749;50.9387739;2657;R.K.Kapelle in Windhausen;Kapelle;Kirche
+6.0936657;50.9255952;2661;Salon Bragard GmbH;Friseur;Friseur
+6.1034925;50.9246657;2668;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.103901;50.9251179;2669;St.Theresia zu Palenberg;Kirche;Kirche
+6.1043621;50.9268041;2670;Peter Nissel;Fahrschule;Fahrschule
+6.1093524;50.9208816;2673;Erlöserkirche Übach-Palenberg Ost Gemeindebüro;Kirche;Kirche
+6.1137214;50.9213638;2675;Adalbert Olejniczak;Friseur;Friseur
+6.1161755;50.9212407;2677;Volksbank Heinsberg eG, Filiale Übach;Bank;Bank
+6.1163288;50.9203976;2679;Haarstudio Fehmi - Herren Friseur;Friseur;Friseur
+6.12192;50.91803;2690;Katholische Kirchengemeinde St. Petrus;Kirchengemeinde;Kirche
+6.1223194;50.9152875;2695;Salon Flair by A. Bischofs;Friseur;Friseur
+6.1279966;50.9167832;2702;Pretzer R.;Fahrschule;Fahrschule
+6.129382;50.915866;2703;Marlies Dückers;Friseur;Friseur
+6.1449056;50.9182421;2727;Bushalte;Bushalte;Bushaltestelle
+6.14314;50.91658;2730;Moschee Übach-Palenberg;Moschee;Kirche
+6.138158;50.9122022;2733;Fahrschule Schlebach;Fahrschule;Fahrschule
+6.1370753;50.9074316;2746;St. Fidelis zu Boscheln;Kirche;Kirche
+6.1376562;50.9071173;2748;Heb G.;Friseur;Friseur
+6.1349133;50.9084078;2749;Apostolische Gemeinschaft e.V. - Gemeinde Übach-Palenberg;Kirche;Kirche
+6.1127002;50.9208596;2750;VR-Bank eG - Region Aachen, Geschäftsstelle Übach-Palenberg;Bank;Bank
+6.0597437;50.9400461;2756;Kirche St.Cornelius in Grotenrath;Kirche;Kirche
+6.0612425;50.9242657;2763;Körfer N.;Friseur;Friseur
+6.0843378;50.951597;2767;Evangelische Kirche Teveren;Kirche;Kirche
+6.0805245;50.9552399;2770;St.Willibrord Kirche;Kirche;Kirche
+6.0735941;50.9795337;2774;Selfkantbahn, Bahnhof Gillrath;Bahnhof;Bahnhof
+6.0690856;50.9824211;2778;Tanja Neuefeind;Friseur;Friseur
+6.035012;51.0151777;2787;Maria Rademacher;Friseur;Friseur
+5.9093038;51.0376431;2796;Havert Kirche;Kirche;Kirche
+5.9094422;51.0364728;2798;"Spielmannszug 1920 ""Edelweiß"" Havert e. V.";Kapelle;Kirche
+5.9251157;51.0277724;2800;Kapelle St.Josef bei Pflegeheim St.Josef;Kapelle;Kirche
+5.9286207;51.0277399;2801;Kapelle Maria unter den Linden in Höngen;Kapelle;Kirche
+5.9338763;51.020379;2802;Heilig Kreuz Kapelle Höngen;Kirche;Kirche
+5.9312312;51.0233362;2804;Inh. Cagla Esmerligil Friseur Salon;Friseur;Friseur
+5.9597208;51.0332301;2806;Rübel T.;Friseur;Friseur
+5.9560044;51.0299024;2807;Sentis P.;Friseur;Friseur
+6.0184043;51.0233691;2811;Wegekapelle;Kapelle;Kirche
+6.1750545;51.027049;2819;St. Josef;Kirche;Kirche
+6.1767824;51.0285201;2820;Spielplatz Horst;Spielplatz;Spielplatz
+6.1722888;51.0380668;2825;Katholische Kirchengemeinde St.Mariä Rosenkranz / Porselen;Kirchengemeinde;Kirche
+6.1725517;51.0380515;2826;St. Mariä Rosenkranz;Kirche;Kirche
+6.1800028;51.0653112;2839;HAARdesign Noethlichs UG;Friseur;Friseur
+6.1792424;51.0654082;2840;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.1788054;51.0655403;2841;Altes Rathaus;Altes Rathaus;Stadtverwaltung
+6.1778801;51.0665742;2843;Spielplatz Mühlenstraße;Spielplatz;Spielplatz
+6.17524;51.06722;2846;Hairpoint Hermanns;Friseur;Friseur
+6.1803686;51.0692148;2851;sotto;Bank;Bank
+6.1523625;51.0846185;2858;Heilig-Geist Kapelle in Wassenberg-Orsbeck;Kapelle;Kirche
+6.1488656;51.0862234;2860;Pfarrkirche St. Martin;Pfarrkirche;Kirche
+6.15071;51.08801;2867;Volksbank Mönchengladbach eG - SB-Filiale Orsbeck;Bank;Geldautomat
+6.1419261;51.0809792;2874;Bushalte;Bushalte;Bushaltestelle
+6.1357135;51.0777041;2876;Bushalte;Bushalte;Bushaltestelle
+6.1434937;51.0299109;2877;Kaplica;Kapelle;Kirche
+6.1484301;51.0380696;2881;Schröder Salon Inhaber Andreas Schröder;Friseur;Friseur
+6.14481;51.03783;2882;Zahnärztliche Gemeinschaftspraxis Dr. Grittern & Dr. Grafen;Dentist;Zahnarzt
+6.1451309;51.039078;2884;Hintzen U.;Friseur;Friseur
+6.1454007;51.0394271;2885;Haare und Mehr by U. Johnen-Rudolf;Friseur;Friseur
+6.1474952;51.0395132;2886;St. Lambertus Dremmen;Kirche;Kirche
+6.1450685;51.0403957;2890;"Fahrschule ""die2"" - Filiale Dremmen";Fahrschule;Fahrschule
+6.1450647;51.041089;2894;Käthe Leal;Friseur;Friseur
+6.1450508;51.0414607;2896;Geldautomat Volksbank Heinsberg eG;Bank;Geldautomat
+6.1450312;51.0415072;2897;Volksbank Heinsberg eG, Filiale Dremmen;Bank;Bank
+6.1421104;51.0413502;2902;Fahrschule;Fahrschule;Fahrschule
+6.1504715;51.0591223;2926;Zahnarztpraxis Christian Grupe;Dentist;Zahnarzt
+6.14966;51.05893;2927;Gerd von Felbert e.K.;Dentist;Zahnarzt
+6.14985;51.05998;2929;Leopold Kochs Friseursalon;Friseur;Friseur
+6.14829;51.06177;2931;St. Aloysius;Kirche;Kirche
+6.14664;51.06021;2939;Bożena Therese Kempner-Esser Friseurmeisterin;Friseur;Friseur
+6.1441861;51.0593122;2941;Volksbank Heinsberg eG, Filiale Oberbruch;Bank;Bank
+6.1432441;51.0592633;2943;Fahrschule Hans Jütten;Fahrschule;Fahrschule
+6.1385;51.05474;2949;Gemeinschaftspraxis Husung-Kunert & Kunert;Dentist;Zahnarzt
+6.13718;51.05407;2951;Dr. med. Margret Lukowniak;Allgemeinmedizin;Allgemeinmedizin
+6.13625;51.05316;2955;Friseur KaEl;Friseur;Friseur
+6.1264531;51.0489472;2963;Katholische Kirche St.Andreas;Kirche;Kirche
+6.1298399;51.05112;2965;Fahrschule Kostyk;Fahrschule;Fahrschule
+6.11172;51.0529508;2969;St. Theresia;Kirche;Kirche
+6.11741;51.05798;2974;Helmut Bohnen Friseursalon;Friseur;Friseur
+6.12449;51.05445;2976;Maria Luise Kostyk Fahrschule;Fahrschule;Fahrschule
+6.13804;51.06335;2986;Christliche Gemeinde Heinsberg;Kirchengemeinde;Kirche
+6.14251;51.06154;2988;Achim Engels Friseursalon;Friseur;Friseur
+6.14449;51.06332;2990;Angelas Haarservice - mobiler Friseur Heinsberg;Friseur;Friseur
+6.1266189;51.074085;2995;Hair Dream Inh. N. Wilms;Friseur;Friseur
+6.0718824;51.074707;3020;Volksbank Heinsberg eG, Filiale Kirchhoven;Bank;Bank
+6.0974433;51.0693597;3031;friseure siemeskauhl;Friseur;Friseur
+6.08241;51.0685;3042;Hülhoven H.;Friseur;Friseur
+6.0816;51.06987;3052;Nurays Hairstyling;Friseur;Friseur
+6.0954333;51.0823381;3059;Kapelle Pastor-Jakobs-Straße;Kapelle;Kirche
+6.1050997;51.0694066;3065;Mobile Haarfee;Friseur;Friseur
+6.0959664;51.0647911;3071;Urologische Gemeinschaftspraxis Heinsberg;Urologe;Urologe
+6.0953501;51.06465;3074;Städtisches Krankenhaus Heinsberg GmbH;Krankenhaus;Krankenhaus
+6.0939419;51.0642819;3076;Fairhair Heinsberg;Friseur;Friseur
+6.093566;51.064303;3077;Haarstudio Maja;Friseur;Friseur
+6.0930116;51.0643499;3079;Jamila E.k.;Friseur;Friseur
+6.0939267;51.0657767;3085;Dr.med.dent. Heinrich Wolters;Dentist;Zahnarzt
+6.0927011;51.0637027;3089;Kinderspielplatz Gangolfusstraße;Spielplatz;Spielplatz
+6.0940151;51.0638181;3092;Cut & Style;Friseur;Friseur
+6.0937265;51.0632582;3093;Finanzagentur für die Deutsche Bank - Selbstständige Finanzberater;Bank;Bank
+6.0932944;51.0624045;3096;Geldautomat Volksbank Heinsberg eG;Bank;Geldautomat
+6.0930201;51.06169;3102;BAYRAM;Friseur;Friseur
+6.09227;51.06008;3106;Propstei St.Gangolf;Kirche;Kirche
+6.0859574;51.0605307;3110;Schlangen Kapelle;Kapelle;Kirche
+6.0937872;51.0592723;3117;St. Gangolf;Kirche;Kirche
+6.0928126;51.0608615;3122;haarschneiderei – birgit reifland;Friseur;Friseur
+6.0935;51.06103;3123;Lehnen R. Rolfs Barbershop;Friseur;Friseur
+6.0951347;51.0592331;3125;E.Gök Z-Concept;Friseur;Friseur
+6.0935677;51.0614708;3126;Profi Hairshop GmbH Fil. Heinsberg;Friseur;Friseur
+6.093722;51.0628248;3128;Deniz Tezel e. K. Friseursalon;Friseur;Friseur
+6.09477;51.0625681;3129;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.0947858;51.0626199;3130;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.0951238;51.0631477;3131;Volksbank Heinsberg eG, Regionalzentrum Heinsberg - Hochstraße;Bank;Bank
+6.095317;51.059977;3134;Fahrschule Schafhausen;Fahrschule;Fahrschule
+6.0950459;51.0602132;3135;Ev. Kirchengemeinde Gemeindebüro;Kirchengemeinde;Kirche
+6.0951329;51.0604438;3136;Evangelische Kirche Heinsberg;Kirche;Kirche
+6.0950596;51.0620886;3138;Image Hair;Friseur;Friseur
+6.0974541;51.0636779;3143;Postbank Filiale;Bank;Bank
+6.097392;51.064877;3145;Praxis Heines;Allgemeinmedizin;Allgemeinmedizin
+6.0967542;51.0639257;3147;Udo Houppermanns;Friseur;Friseur
+6.0986737;51.0562153;3148;Fahrschule Wilfried Jansen;Fahrschule;Fahrschule
+6.10635;51.05866;3153;Agentur für Arbeit Heinsberg;Agentur für Arbeit;Arbeitsamt
+6.1083842;51.0583625;3156;Jobcenter Kreis Heinsberg;Jobcenter;Arbeitsamt
+6.0978147;51.0654973;3166;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.0982396;51.065335;3167;HairExpress;Friseur;Friseur
+6.0986807;51.0654364;3168;Fahr MAX UG (haftungsbeschränkt);Fahrschule;Fahrschule
+6.0982124;51.064492;3171;Stefan Schröder;Allgemeinmedizin;Allgemeinmedizin
+6.0979591;51.061036;3174;Neuapostolische Kirche Heinsberg;Kirche;Kirche
+6.1054946;51.0601939;3177;Kinderspielplatz Carl-Severing-Straße Heinsberg;Spielplatz;Spielplatz
+6.1047575;51.0653516;3183;Frisör Klier;Friseur;Friseur
+6.10131;51.06714;3184;Fahrschule die 2 GmbH;Fahrschule;Fahrschule
+6.1096704;51.0689912;3187;sandra's haarschneiderei;Friseur;Friseur
+6.1112;51.06785;3191;Leo Moers Zahntechnisches Labor GmbH;Dentist;Zahnarzt
+6.1105415;51.0668356;3195;Theoretische Führerscheinprüfung Heinsberg;Führerschein;Fahrschule
+6.1302226;51.0109099;3205;Hubertus Kapelle;Kapelle;Kirche
+6.1309337;51.0146979;3207;Kapela;Kapelle;Kirche
+6.1355216;51.0205728;3208;Kapliczka;Kapelle;Kirche
+6.1344044;51.0212153;3210;Uetterather Kirche;Kirche;Kirche
+6.1367418;51.024457;3213;Heike Element-Hair Scharfenorth;Friseur;Friseur
+6.09172;51.0136525;3217;Kreissparkasse Heinsberg - Geldautomat;Bank;Geldautomat
+6.0917225;51.0135623;3218;Kreissparkasse Heinsberg - SB-Filiale;Bank;Geldautomat
+6.0741821;51.0131038;3221;Städtischer Spielplatz;Spielplatz;Spielplatz
+6.0730721;51.0143351;3223;Kath. Kirche St. Nikolaus;Kirche;Kirche
+6.0801625;51.0138821;3226;Kapelle Waldenrath;Kapelle;Kirche
+6.1110277;51.02472;3239;Kapelle;Kapelle;Kirche
+6.0687267;51.0430863;3256;Friseursalon Bohnen;Friseur;Friseur
+6.0748963;51.0326887;3261;Kapelle;Kapelle;Kirche
+6.0626921;51.038947;3263;Josef Wellens Friseursalon;Friseur;Friseur
+6.0602801;51.03815;3264;Element Hair Scharfenorth Inh. Heike Mertens;Friseur;Friseur
+6.0565916;51.0376555;3266;St. Josef;Kirche;Kirche
+5.989611;51.0660983;3268;Marita Fischer Friseursalon;Friseur;Friseur
+6.0466709;51.00044;46;Friseur;Friseur;Friseur
+6.1638915;51.0034357;53;Spielplatz;Spielplatz;Spielplatz
+6.3290876;51.1105819;463;Kreissparkasse Heinsberg - SB-Filiale;Bank;Geldautomat
+5.9949264;50.9931096;388;Katharina Kasper ViaNobis GmbH | Gangelt;Krankenhaus;Krankenhaus
+5.9947906;50.9928914;389;Volksbank Heinsberg eG, Regionalzentrum Gangelt;Bank;Bank
+5.9941169;50.9927846;390;Krankenhauskapelle;Kapelle;Kirche
+5.9892991;51.0660445;597;Kreissparkasse Heinsberg - Filiale;Bank;Bank
+6.2473194;51.0504297;1459;Katholische Kirche St. Dionysus;Kirche;Kirche
+6.1112986;50.9748094;1719;Bushalte;Bushalte;Bushaltestelle
+6.1215531;50.9624198;13;Volksbank Heinsberg eG, Regionalzentrum Geilenkirchen;Bank;Geldautomat
+6.10896;51.06018;95;Volksbank Heinsberg eG, Regionalzentrum Heinsberg;Bank;Geldautomat
+6.0953593;51.0633193;96;Volksbank Heinsberg eG, Regionalzentrum Heinsberg - Hochstraße;Bank;Geldautomat
+6.0932787;51.062368;98;Volksbank Heinsberg eG, SB-Center Heinsberg - Apfelstraße;Bank;Geldautomat
+6.1413172;51.0548592;99;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.14405;51.05929;100;Volksbank Heinsberg eG, Filiale Oberbruch;Bank;Geldautomat
+6.1503786;51.043887;101;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.1450003;51.0415207;102;Volksbank Heinsberg eG, Filiale Dremmen;Bank;Geldautomat
+6.07181;51.07475;103;Volksbank Heinsberg eG, Filiale Kirchhoven;Bank;Geldautomat
+6.0946664;51.0621056;104;Commerzbank;Bank;Geldautomat
+6.1370127;50.9116371;871;VR-Bank eG - Region Aachen, Geldautomat Boscheln (vorübergehend geschlossen);Bank;Geldautomat
+6.1373745;50.9123464;872;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.1191585;50.919707;874;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.11257;50.92067;876;VR-Bank eG - Region Aachen, Geschäftsstelle Übach-Palenberg;Bank;Geldautomat
+6.112624;50.92085;877;VR-Bank eG - Region Aachen, Geldautomat Übach-Palenberg;Bank;Geldautomat
+6.1162216;50.9212616;878;Volksbank Heinsberg eG, Filiale Übach;Bank;Geldautomat
+6.1036538;50.9246314;880;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.10027;50.92589;940;OVB Vermögensberatung AG: Thomas Kurzweg;Bank;Geldautomat
+6.0996433;50.9257648;941;Volksbank Heinsberg eG, Filiale Palenberg;Bank;Geldautomat
+6.0512553;50.9533531;991;Bancomat;Bank;Geldautomat
+6.1232259;50.9630385;1010;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.1238056;50.963047;1011;Sparkassen Immobilien;Bank;Geldautomat
+6.1211889;50.9627754;1029;Commerzbank;Bank;Geldautomat
+6.1126401;50.97204;1030;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+5.9965425;50.9927695;1128;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+5.8981432;51.0148155;1183;Sparkassen Immobilien;Bank;Geldautomat
+5.8945546;51.0136211;1185;Volksbank Heinsberg eG, Filiale Tüddern;Bank;Geldautomat
+5.9326953;51.0247516;1202;Volksbank Heinsberg eG, Filiale Höngen;Bank;Geldautomat
+6.0531135;51.009021;1273;Sparkasse;Bank;Geldautomat
+6.0533871;51.0084827;1274;Volksbank;Bank;Geldautomat
+6.1722873;50.952024;1300;VR Bank;Bank;Geldautomat
+6.1888767;50.994133;1318;Volksbank;Bank;Geldautomat
+6.2110984;50.996513;1330;Raiffeisenbank;Bank;Geldautomat
+6.2060902;50.9975817;1333;Bank;Bank;Geldautomat
+6.2061653;50.9977336;1334;Kreissparkasse;Bank;Geldautomat
+6.2358397;51.0060942;1349;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.2351141;51.0068989;1350;Raiffeisenbank Erkelenz eG;Bank;Geldautomat
+5.9988984;51.0522457;1363;Volksbank Haaren eG - Geschäftsstelle Bocket;Bank;Geldautomat
+5.9922899;51.0637416;1379;Volksbank Heinsberg eG, Filiale Waldfeucht;Bank;Geldautomat
+6.0315;51.088116;1402;Volksbank Haaren eG;Bank;Geldautomat
+6.0735688;51.1010211;1437;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.0731201;51.10193;1439;Volksbank Heinsberg eG, Filiale Karken;Bank;Geldautomat
+6.1551056;51.0983973;1509;Volksbank Mönchengladbach eG - Filiale Wassenberg;Bank;Geldautomat
+6.154857;51.0988177;1511;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.15219;51.1125;1546;Volksbank Heinsberg eG, Filiale Birgelen;Bank;Geldautomat
+6.1521165;51.112635;1547;Kreissparkasse Heinsberg - SB-Filiale;Bank;Geldautomat
+5.9943482;50.9931599;1557;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.218126;51.096034;1618;Volksbank Mönchengladbach eG - Filiale Gerderath;Bank;Geldautomat
+6.2169622;51.0961107;1619;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.2115301;51.1434759;1673;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.209854;51.143367;1678;Volksbank Mönchengladbach eG - Filiale Arsbeck;Bank;Geldautomat
+6.2785055;51.141445;1740;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.27944;51.1440126;1747;Deutsche Bank Filiale;Bank;Geldautomat
+6.3022745;51.1339929;1760;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.28355;51.13916;1800;Volksbank Mönchengladbach eG - Filiale Wegberg;Bank;Geldautomat
+6.3322157;51.1146494;1848;Volksbank Erkelenz eG Gesch.St. Rath-Anhoven;Bank;Geldautomat
+6.3757428;51.0902664;1868;Raiffeisenbank Erkelenz eG;Bank;Geldautomat
+6.405419;51.047477;1894;Raiffeisenbank Erkelenz eG;Bank;Geldautomat
+6.336902;51.059172;1919;Raiffeisenbank Erkelenz eG;Bank;Geldautomat
+6.327019;51.0950365;2037;Raiffeisenbank Erkelenz eG;Bank;Geldautomat
+6.3206748;51.0897113;2105;Volksbank;Bank;Geldautomat
+6.3170904;51.0857195;2132;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.3186494;51.0776184;2157;Commerzbank;Bank;Geldautomat
+6.3189201;51.0778018;2158;TARGOBANK;Bank;Geldautomat
+6.3174319;51.0780674;2165;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.3208187;51.076995;2176;Volksbank Mönchengladbach eG - Filiale Erkelenz;Bank;Geldautomat
+6.3179745;51.0788209;2188;Postbank Filiale;Bank;Geldautomat
+6.31688;51.07962;2192;Finanzagentur für die Deutsche Bank - Selbstständige Finanzberater;Bank;Geldautomat
+6.317643;51.079063;2193;Commerzbank;Bank;Geldautomat
+6.1775112;51.0158311;2227;Volksbank Randerath-Immendorf eG;Bank;Geldautomat
+6.3240836;51.0323587;2261;Lövenich;Bank;Geldautomat
+6.324778;51.032031;2262;Raiffeisenbank Erkelenz eG;Bank;Geldautomat
+6.2784469;51.032542;2284;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.2760496;51.032793;2297;Raiffeisenbank Erkelenz eG;Bank;Geldautomat
+6.2192389;51.0400133;2392;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.2240121;51.0518256;2438;TARGOBANK;Bank;Geldautomat
+6.223588;51.05468;2469;Volksbank Mönchengladbach eG - Filiale Hückelhoven;Bank;Geldautomat
+6.2224543;51.0554359;2478;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.2216904;51.0564929;2480;Deutsche Bank Filiale;Bank;Geldautomat
+6.216411;51.0489419;2496;Geschäftsstelle für Deutsche Vermögensberatung DVAG Viktor Schmidt & Team;Bank;Geldautomat
+6.188569;51.0657467;2546;Volksbank Mönchengladbach eG - Filiale Ratheim;Bank;Geldautomat
+6.2230567;51.0763743;2568;Kleingladbach;Bank;Geldautomat
+6.1215048;50.9623995;2630;Volksbank Heinsberg eG, Regionalzentrum Geilenkirchen;Bank;Geldautomat
+6.1161755;50.9212407;2677;Volksbank Heinsberg eG, Filiale Übach;Bank;Geldautomat
+6.1127002;50.9208596;2750;VR-Bank eG - Region Aachen, Geschäftsstelle Übach-Palenberg;Bank;Geldautomat
+6.1792424;51.0654082;2840;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.1803686;51.0692148;2851;sotto;Bank;Geldautomat
+6.1450312;51.0415072;2897;Volksbank Heinsberg eG, Filiale Dremmen;Bank;Geldautomat
+6.1441861;51.0593122;2941;Volksbank Heinsberg eG, Filiale Oberbruch;Bank;Geldautomat
+6.0718824;51.074707;3020;Volksbank Heinsberg eG, Filiale Kirchhoven;Bank;Geldautomat
+6.0937265;51.0632582;3093;Finanzagentur für die Deutsche Bank - Selbstständige Finanzberater;Bank;Geldautomat
+6.09477;51.0625681;3129;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
+6.0951238;51.0631477;3131;Volksbank Heinsberg eG, Regionalzentrum Heinsberg - Hochstraße;Bank;Geldautomat
+6.0974541;51.0636779;3143;Postbank Filiale;Bank;Geldautomat
+5.9947906;50.9928914;389;Volksbank Heinsberg eG, Regionalzentrum Gangelt;Bank;Geldautomat
+5.9892991;51.0660445;597;Kreissparkasse Heinsberg - Filiale;Bank;Geldautomat
